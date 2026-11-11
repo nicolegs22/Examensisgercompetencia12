@@ -1,0 +1,2201 @@
+billing_id,admission_id,charge_type,amount,payment_status,payment_date
+1,1416,Surgery,$20.00,unpaid,10/10/2023
+2,13,Medication,"$4,624.93",paid,
+3,147,Imaging,4735.947104026126,Pending,2023-11-03
+4,522,Surgery,"USD 5,344.32",PAID,2026-02-20
+5,219,Room,"$1,181.81",unpaid,27-Mar-2024
+6,923,Consultation,20,paid,19-Dec-2023
+7,542,Consultation,"USD 5,619.44",Overdue,12-03-24
+8,917,Imaging,3062.51,paid,12-04-25
+9,353,Consultation,4340.72,paid,07-28-24
+10,425,Imaging,3216,unpaid,09/15/2025
+11,284,,"USD 420,350.67",pending,
+12,1213,Room,5711,unpaid,07-08-26
+13,991,Room,USD 20.00,unpaid,2025-01-08
+14,1330,Medication,"USD 6,923.06",Overdue,"July 03, 2025"
+15,1093,Medication,"USD 2,953.57",paid,06-28-23
+16,1139,Surgery,"$8,381.22",Overdue,"March 13, 2025"
+17,1508,Imaging,2121.63,unpaid,2025-11-24
+18,660,,"$1,455.21",Paid,2024-12-19
+19,1684,Imaging,"USD 3,054.98",unpaid,
+20,518,Room,5000,unpaid,2025-06-09
+21,1681,,2677,paid,08-12-25
+22,1057,Room,,paid,
+23,966,Medication,2339,Pending,29-Jun-2025
+24,226,Surgery,3605,pending,01/10/2025
+25,542,Consultation,10209.658847134113,unpaid,2026-07-05
+26,234,Surgery,"$4,571.80",PAID,2024-07-02
+27,1352,Surgery,4812.488680777928,Paid,2025-11-14
+28,1015,,20.00,unpaid,01-25-26
+29,885,Room,-7562.86,PAID,03/09/2024
+30,1257,Consultation,"$6,699.40",unpaid,2026-03-06
+31,1600,,1356.65,paid,06-08-23
+32,711,Consultation,"USD 6,640.18",Paid,
+33,86,Room,4489,paid,
+34,614,Imaging,3639.247695819715,paid,05/03/2024
+35,607,Lab Test,"$7,372.87",PAID,07/11/2023
+36,1780,Medication,1963.1042807878102,pending,2025-06-20
+37,839,Imaging,"$1,332.93",paid,12-05-25
+38,144,Imaging,4122.689961011017,paid,"March 02, 2026"
+39,657,Surgery,5084.686443612892,Overdue,17-Jan-2023
+40,1823,Lab Test,6399,unpaid,09/29/2024
+41,414,Room,3047.14,pending,2026-05-12
+42,464,Consultation,USD 950.69,unpaid,04/19/2023
+43,956,,11085.703153894785,Paid,04-11-25
+44,1264,Imaging,USD 240.22,paid,03-21-23
+45,1669,Lab Test,3665.3543698685867,PAID,12/04/2024
+46,263,Room,5839,PAID,
+47,247,Imaging,6953,paid,04-17-24
+48,552,Medication,1799,paid,01/28/2025
+49,257,Imaging,20,PAID,12-14-25
+50,846,,1729.2044796119872,unpaid,14-Apr-2025
+51,1499,Imaging,"USD 6,083.97",PAID,2024-08-04
+52,883,Medication,5412.49,Pending,"May 06, 2024"
+53,1117,,"USD 5,510.37",pending,05/27/2024
+54,970,Room,5634.992258223121,Pending,2023-08-17
+55,946,Surgery,"$7,520.25",paid,2023-01-02
+56,1419,Imaging,1172.33,pending,11/28/2025
+57,739,Lab Test,20,Paid,
+58,1250,,"$4,611.44",Overdue,"November 12, 2025"
+59,684,,,PAID,05/13/2025
+60,1012,Lab Test,20,Paid,01/19/2024
+61,1512,Surgery,7171.879729721408,Overdue,"November 12, 2025"
+62,982,Lab Test,4251.08,Paid,13-Aug-2024
+63,76,Imaging,3585.4794471352593,unpaid,"September 27, 2024"
+64,125,Medication,3647.821990295946,pending,"June 10, 2025"
+65,1398,Medication,"USD 3,181.58",paid,03-Apr-2026
+66,1353,Room,"$7,151.72",pending,"June 13, 2023"
+67,439,Medication,USD 20.00,paid,"December 21, 2025"
+68,73,Medication,-20,Overdue,"June 24, 2025"
+69,1090,Imaging,USD 690.86,PAID,
+70,846,Consultation,4367.48,pending,
+71,824,Medication,8916.03,paid,05/24/2026
+72,313,Consultation,"USD -6,107.25",PAID,
+73,738,Surgery,5277.3281426722915,Overdue,
+74,683,Lab Test,3260.40,pending,
+75,414,,USD 20.00,Paid,
+76,552,,5045,pending,"May 28, 2026"
+77,1595,,9577.901197505396,Paid,
+78,649,,"$2,779.83",Paid,
+79,1791,Room,-1817.98,unpaid,"August 27, 2024"
+80,184,Imaging,"USD 2,794.27",unpaid,"December 06, 2024"
+81,179,Medication,5299,PAID,
+82,936,Consultation,"$3,835.19",Pending,06-Apr-2024
+83,1153,Consultation,"$6,230.04",pending,06-20-25
+84,756,Surgery,"USD 3,399.65",paid,08-13-25
+85,1761,,"$2,776.97",PAID,03-20-24
+86,1727,Lab Test,4187.02,Overdue,08/11/2025
+87,1367,Medication,"$1,881.04",unpaid,03-Mar-2026
+88,1722,Room,"USD 8,722.29",Paid,2023-07-19
+89,683,Consultation,5969.343194349844,PAID,2025-09-15
+90,909,Medication,201,pending,"October 30, 2024"
+91,1490,Medication,1263,paid,2023-06-20
+92,1728,Imaging,5196.011015498313,unpaid,28-Dec-2024
+93,343,Room,4049.9526379892413,Overdue,
+94,1435,Imaging,"$4,407.54",PAID,"October 01, 2025"
+95,973,Surgery,,PAID,07-09-26
+96,1262,Imaging,4865.52,unpaid,2024-08-03
+97,1242,Imaging,2994,PAID,
+98,1664,,"USD 5,190.14",Paid,12-06-25
+99,984,Imaging,5819.084693752695,unpaid,02-18-25
+100,1146,Imaging,8320.22,PAID,22-Oct-2023
+101,22,Medication,1956,paid,07-28-26
+102,1388,Room,3467,paid,2026-03-13
+103,1676,,$20.00,pending,
+104,1036,Surgery,8978.78,paid,"November 13, 2024"
+105,1018,Room,USD 20.00,unpaid,07-Jun-2024
+106,870,,"USD 8,548.61",PAID,03/10/2026
+107,61,Lab Test,"$3,780.41",Overdue,27-Aug-2024
+108,266,Surgery,"USD 4,755.28",Pending,"March 31, 2025"
+109,148,,3002.992718811046,Pending,03/31/2023
+110,1211,Surgery,3593.30,Overdue,
+111,761,Lab Test,5264,pending,2023-01-25
+112,1849,Surgery,20.00,Pending,05/13/2026
+113,1145,Surgery,1544,Overdue,09-16-25
+114,1499,,964.8281485740249,pending,"February 10, 2023"
+115,1323,Surgery,"USD 4,842.21",Overdue,"June 01, 2026"
+116,431,,3513.098595211557,PAID,
+117,1195,Consultation,,paid,
+118,571,Surgery,"USD 3,994.33",pending,04/28/2026
+119,1058,,"USD 6,675.77",unpaid,18-Apr-2025
+120,1761,Lab Test,1279.18,pending,12/23/2023
+121,846,Lab Test,"$3,674.47",PAID,2023-11-21
+122,906,Lab Test,"$6,828.09",paid,11-19-24
+123,541,Medication,"USD 6,227.98",unpaid,
+124,1746,Lab Test,USD 20.00,Pending,"December 17, 2025"
+125,248,Imaging,436.66763304583674,pending,"February 15, 2026"
+126,289,Consultation,3255,Overdue,03/23/2025
+127,716,Lab Test,2795.489981776169,Paid,
+128,573,Lab Test,"$3,303.72",Overdue,06-16-23
+129,1383,Lab Test,"$5,888.57",Paid,
+130,1657,Consultation,"$4,368.15",Overdue,2026-01-08
+131,18,,"$4,543.07",PAID,19-Mar-2025
+132,970,Medication,5512,Pending,2025-03-22
+133,736,Lab Test,,unpaid,"May 02, 2026"
+134,939,,$20.00,Pending,06/28/2024
+135,1132,Imaging,"$2,340.12",unpaid,01-26-23
+136,1378,,USD 851.10,paid,2023-11-04
+137,1715,Imaging,4926,Pending,07-13-23
+138,744,Consultation,2113.69,Pending,
+139,812,Imaging,3728,Pending,
+140,1740,,6056,Overdue,2026-07-25
+141,1477,Surgery,1691.0421836655205,Paid,"May 21, 2025"
+142,1397,Medication,"$4,588.45",Pending,17-Feb-2025
+143,149,Lab Test,,Overdue,
+144,1086,,"USD 5,994.85",Pending,2026-02-22
+145,1721,Imaging,,Paid,
+146,351,Room,2625,pending,
+147,561,Room,4567.449005830988,pending,10-14-25
+148,128,Lab Test,5158,pending,10-24-25
+149,631,Surgery,"$2,742.95",unpaid,10-Oct-2024
+150,40,Consultation,"USD 1,580.63",paid,01-11-25
+151,910,Consultation,"USD 3,703.29",Overdue,21-Dec-2025
+152,434,Medication,,unpaid,07-22-25
+153,1073,,6799.202798133554,PAID,
+154,756,Surgery,,pending,"January 17, 2024"
+155,270,Consultation,4684.08,pending,06-19-23
+156,1718,Surgery,2803,unpaid,
+157,1807,Room,6322.702999740939,paid,05/07/2023
+158,48,Consultation,-5815.787673076022,pending,01/14/2023
+159,1277,Consultation,2673,PAID,09-Nov-2023
+160,125,Lab Test,3356,Pending,"January 13, 2026"
+161,1169,Room,1671.396982615711,PAID,
+162,31,Room,,unpaid,"January 21, 2025"
+163,795,Consultation,4396.727420135745,pending,
+164,1229,Consultation,"USD 1,159.60",pending,11/01/2024
+165,353,Lab Test,276,unpaid,06-01-23
+166,1097,Consultation,20,Pending,10/15/2023
+167,955,Consultation,"$4,749.60",unpaid,07-05-24
+168,1424,Imaging,3465.552291139682,Overdue,06-May-2024
+169,374,Lab Test,"$3,249.28",pending,10/05/2023
+170,260,Consultation,4893.577767032999,pending,2026-02-08
+171,1322,Surgery,797.1140729348695,unpaid,2024-08-06
+172,619,Consultation,289.24,Pending,16-Nov-2025
+173,748,,422324.57569065754,PAID,30-Apr-2024
+174,500,Imaging,USD 20.00,paid,
+175,1149,Room,2723.05,Paid,01/01/2026
+176,1098,,"USD 10,899.34",unpaid,02-Mar-2026
+177,1684,Imaging,USD 20.00,unpaid,
+178,936,Imaging,2211,Pending,
+179,1589,Medication,USD 20.00,paid,02-Jan-2024
+180,556,Consultation,2798.82,Paid,"October 04, 2025"
+181,1145,Medication,"$9,399.61",PAID,04/02/2025
+182,801,Imaging,4900.752310371201,PAID,01-19-24
+183,752,Medication,1658.662072637075,paid,09/25/2024
+184,1307,Imaging,10044.23,Pending,01/21/2025
+185,1154,Surgery,20,paid,14-Apr-2024
+186,1410,Room,"$4,861.83",paid,2026-03-06
+187,971,Surgery,3695,Pending,12/28/2023
+188,195,Medication,2758.9259572687506,pending,
+189,1399,Lab Test,"USD 5,921.27",Paid,"September 14, 2023"
+190,34,Lab Test,-20.00,paid,21-Jun-2025
+191,692,Imaging,4437.87,Paid,2024-06-13
+192,331,Medication,"$4,056.97",pending,04-13-26
+193,185,Surgery,886.96201065886,pending,2023-06-01
+194,1597,Surgery,"USD 9,349.99",unpaid,25-Oct-2023
+195,145,,"USD 2,954.49",Overdue,05/17/2025
+196,1164,Room,3084.0488834158764,Pending,07/04/2023
+197,428,,416.97,Paid,
+198,1531,Consultation,"$3,009.98",pending,10-02-24
+199,965,Room,10504.263820456954,Overdue,
+200,1442,Surgery,-2742,Overdue,14-Apr-2024
+201,1054,Surgery,5056,paid,
+202,1220,Imaging,"USD 6,351.64",pending,
+203,1624,Imaging,,Overdue,"October 22, 2025"
+204,1813,Room,"$113,561.45",Pending,03-09-25
+205,1486,Imaging,4916.79,PAID,01-Nov-2024
+206,1646,Room,2776.224893346799,pending,"January 12, 2025"
+207,501,Lab Test,2504.46,Pending,25-Oct-2024
+208,165,Medication,"USD 6,319.67",PAID,"May 31, 2026"
+209,319,Lab Test,3292,paid,08-02-23
+210,726,Medication,-7139.71951479422,Pending,2026-02-06
+211,437,,"$3,224.22",pending,
+212,1174,Medication,$20.00,Pending,06-Jul-2024
+213,1652,,20,pending,"September 29, 2025"
+214,1221,Consultation,USD 20.00,Paid,2026-04-20
+215,760,Consultation,$20.00,PAID,26-Dec-2024
+216,1185,Imaging,"USD 4,299.61",Pending,
+217,1198,Room,USD 586.00,pending,"May 07, 2023"
+218,196,Imaging,$20.00,pending,08/10/2025
+219,1390,Lab Test,"$3,107.28",Overdue,
+220,416,,254.52,Pending,2023-03-10
+221,1097,Lab Test,"USD 4,889.30",Pending,06-Nov-2024
+222,1087,Lab Test,4815,paid,16-Feb-2025
+223,25,Room,"$5,132.26",Pending,"February 16, 2026"
+224,634,Room,$20.00,Paid,06/06/2025
+225,1272,Surgery,3636.23,Paid,"November 03, 2025"
+226,989,Lab Test,"USD 3,135.79",Overdue,07-Sep-2023
+227,109,Surgery,,unpaid,05-28-26
+228,1430,Medication,$20.00,PAID,"October 24, 2024"
+229,810,Medication,"USD 3,173.95",unpaid,04-Aug-2024
+230,364,Room,"USD 6,692.35",pending,
+231,447,Surgery,20.00,pending,07/13/2026
+232,1344,Consultation,1002,unpaid,31-May-2023
+233,1004,,3894.605338958489,PAID,08/29/2025
+234,1610,Room,"$6,874.76",Paid,
+235,44,,2562.89,pending,"January 15, 2026"
+236,1518,Room,9293.01,Overdue,
+237,1745,Consultation,20,Paid,"June 28, 2024"
+238,1236,Surgery,20,Overdue,
+239,222,Imaging,-6553,PAID,06-20-23
+240,167,Imaging,20,Overdue,2025-05-26
+241,1164,,"$4,884.60",pending,2024-05-21
+242,77,Consultation,"USD 2,616.40",Paid,12-06-25
+243,873,Surgery,797,Pending,10-12-23
+244,707,,2219.9983745933846,pending,25-Jun-2026
+245,333,Medication,USD 20.00,unpaid,"January 23, 2026"
+246,804,Consultation,"$2,545.00",paid,13-Sep-2024
+247,1255,Room,"$3,552.26",Overdue,24-Sep-2023
+248,1834,Imaging,2251.33407066159,Pending,10/31/2025
+249,1074,Imaging,1745,Pending,"August 24, 2023"
+250,884,Consultation,"$4,262.41",PAID,22-Mar-2026
+251,145,Imaging,8478.72,PAID,
+252,645,,2701.39,Paid,
+253,1186,Medication,5959.97,unpaid,16-Apr-2023
+254,1559,Consultation,601,Pending,2025-05-10
+255,267,Room,USD 20.00,unpaid,08-Jan-2026
+256,915,Surgery,4859.946161942073,Pending,
+257,1088,Medication,2799.39636924995,Paid,"August 18, 2024"
+258,1538,Imaging,"$6,888.49",Pending,2026-03-31
+259,790,Lab Test,7476,PAID,05/18/2026
+260,1887,Room,6017.25452728246,unpaid,29-Jul-2024
+261,179,Imaging,"$5,952.07",paid,
+262,1045,Lab Test,$20.00,Paid,11-Nov-2024
+263,1454,Room,4833.567498701086,Pending,
+264,1010,Medication,"USD 6,088.64",paid,08-Sep-2024
+265,1073,,20,pending,21-Jan-2023
+266,113,Room,3526,Overdue,07/13/2026
+267,1550,Imaging,-371.81535697329036,Overdue,10-Jun-2026
+268,1491,Imaging,6582.531784402634,unpaid,"March 13, 2026"
+269,385,Room,632.01,unpaid,12-05-25
+270,1339,Consultation,"USD 1,121.41",Pending,2024-10-18
+271,695,,-2107.85,unpaid,30-Oct-2024
+272,1852,,,PAID,
+273,1212,Lab Test,6514.01681022859,Pending,
+274,1880,Imaging,8337.81,pending,06/16/2025
+275,174,Surgery,20.00,PAID,12/25/2024
+276,1814,Room,20.00,Overdue,05-10-26
+277,1150,Lab Test,"USD 7,515.74",Paid,07/08/2025
+278,1459,Room,20,PAID,06-25-25
+279,1530,Lab Test,1484.95,Overdue,
+280,1496,Surgery,9666.02,pending,2025-07-09
+281,900,Medication,USD 609.61,pending,2026-06-03
+282,950,Imaging,USD 20.00,PAID,17-Mar-2024
+283,229,,3642.42,Overdue,"June 14, 2026"
+284,159,Medication,$20.00,PAID,2025-10-27
+285,1701,Imaging,7211.75,Overdue,2025-04-17
+286,1416,Consultation,815.4237515309169,PAID,01-03-25
+287,656,Room,USD 214.28,Overdue,"June 14, 2026"
+288,1808,Room,"$3,588.15",PAID,"December 17, 2023"
+289,469,Imaging,2287,pending,"May 24, 2023"
+290,1012,Consultation,4257,PAID,20-Nov-2024
+291,1306,,5064.51,Paid,2023-03-17
+292,472,Consultation,2848.14,paid,28-Oct-2023
+293,1433,,20.00,Overdue,2025-08-16
+294,1557,Medication,5691.524855194294,unpaid,
+295,186,Surgery,"$1,419.77",pending,
+296,440,Medication,892.73,PAID,2023-01-22
+297,572,,"USD 3,927.98",Pending,05/04/2024
+298,436,Lab Test,20,Paid,02-May-2026
+299,39,Medication,"USD 4,672.63",Paid,02-23-26
+300,908,,204364,pending,05-24-26
+301,987,Imaging,6865,PAID,
+302,626,,1998.8235812468197,Pending,02-15-25
+303,968,Lab Test,7474,paid,11-Aug-2025
+304,1301,Surgery,5088.928701505627,Paid,
+305,1144,Lab Test,3420,PAID,04/07/2025
+306,337,Surgery,8950.09,pending,04/04/2025
+307,1374,Consultation,3785.638192540351,Pending,03-03-25
+308,402,Room,1944.8980171170472,pending,"June 13, 2024"
+309,1413,Consultation,3872,Paid,04-03-25
+310,588,,1883.0924986580512,paid,"February 09, 2023"
+311,1541,Room,4621,Overdue,
+312,1353,Imaging,7462,unpaid,2024-07-31
+313,1440,Consultation,3475.9879025322225,PAID,
+314,326,Consultation,"USD 3,770.42",pending,
+315,917,Room,"$5,893.49",pending,10/14/2025
+316,1124,Room,7061.720072324391,PAID,
+317,37,Imaging,"$2,142.09",PAID,2025-07-15
+318,1325,Imaging,"$4,017.01",PAID,03-15-24
+319,1614,Lab Test,"$5,906.79",PAID,08-Mar-2024
+320,814,Medication,"$4,489.86",Paid,08-10-23
+321,258,Imaging,USD 20.00,paid,2026-04-20
+322,732,Surgery,6448,unpaid,
+323,1703,Surgery,5068.64,paid,"December 23, 2023"
+324,513,Surgery,"USD -5,281.85",Pending,"August 17, 2025"
+325,1326,Consultation,USD 20.00,PAID,
+326,390,,"USD 3,957.17",Overdue,"September 16, 2025"
+327,109,Medication,6030.04,pending,03/25/2026
+328,733,Imaging,858.2581852903932,paid,
+329,105,Imaging,1638.36635046685,unpaid,2024-05-05
+330,431,Medication,6081,PAID,"January 01, 2026"
+331,1309,Room,1498.6921256880144,paid,"June 22, 2025"
+332,118,Imaging,2874,Pending,
+333,611,,$396.14,Overdue,08-08-23
+334,311,Surgery,8959.82,pending,2025-10-25
+335,1778,Surgery,"USD 5,061.87",Pending,
+336,363,Medication,2733.82,Overdue,2023-10-14
+337,226,Room,"$2,172.87",unpaid,2024-09-04
+338,1121,Medication,USD 20.00,Overdue,"January 26, 2026"
+339,1409,Room,"USD 3,169.70",paid,2025-08-03
+340,1051,Consultation,549517,paid,10/14/2024
+341,1775,Room,1070.5577081697984,Overdue,2026-04-15
+342,79,Medication,3816.62,pending,08/19/2025
+343,1313,Medication,2397.854676052938,PAID,
+344,1500,Consultation,"USD 7,640.35",paid,"April 23, 2026"
+345,1300,Surgery,1589.90,Pending,04-15-26
+346,1691,Imaging,5831.467623310491,Pending,
+347,385,Consultation,"USD 7,682.07",Paid,"July 06, 2025"
+348,1751,Imaging,"$2,368.61",Overdue,25-Feb-2024
+349,827,Imaging,1734,PAID,"April 03, 2024"
+350,1599,Lab Test,6268.11,PAID,"March 26, 2025"
+351,1272,Consultation,20,pending,27-Jun-2025
+352,1176,Consultation,4791.78,paid,13-Aug-2025
+353,1779,Medication,20,Overdue,"February 01, 2024"
+354,426,Lab Test,"USD 7,167.23",PAID,09-28-24
+355,257,Consultation,2744,pending,2026-03-07
+356,185,Room,"USD 3,227.67",paid,02/26/2024
+357,758,Lab Test,"USD 1,327.25",unpaid,"February 06, 2023"
+358,1324,Surgery,20,Paid,2023-04-12
+359,1121,Room,,Pending,07/12/2024
+360,1534,Room,,pending,
+361,1079,Room,13126.305820124087,Overdue,13-Sep-2024
+362,522,Lab Test,1069.4545908212954,Pending,
+363,1117,Lab Test,1559.92,PAID,17-Nov-2024
+364,1602,Lab Test,,Paid,2026-07-18
+365,10,Lab Test,2971.5183223859394,pending,2025-09-24
+366,1459,Lab Test,8225.65372335328,Pending,
+367,83,Imaging,6530.41,paid,
+368,403,,$20.00,paid,15-Oct-2025
+369,494,Consultation,"$7,112.36",Paid,2023-09-25
+370,1667,Imaging,"USD 5,548.37",Pending,"October 18, 2025"
+371,336,,"$4,944.16",pending,11-17-23
+372,1048,Room,1447.2774996787143,paid,
+373,1042,Consultation,"$1,670.27",pending,2026-01-28
+374,1689,Room,3911.201699676803,Paid,03-22-26
+375,1858,Medication,"USD 1,840.51",Pending,07/09/2026
+376,956,Imaging,"USD 7,437.90",PAID,
+377,1452,Medication,"$1,712.13",paid,26-Jul-2024
+378,317,Consultation,20.00,Overdue,
+379,1182,Surgery,$20.00,unpaid,
+380,1304,Medication,20.00,Overdue,05/13/2026
+381,980,,"USD 2,709.96",PAID,12-Aug-2023
+382,454,Surgery,"USD 4,148.20",PAID,
+383,895,Consultation,"USD 3,661.40",paid,12/14/2024
+384,1219,Surgery,4883,PAID,2023-02-10
+385,809,Consultation,-2743,PAID,07/19/2024
+386,928,Room,"USD 2,849.28",unpaid,
+387,713,,"USD 8,755.58",Pending,2025-11-20
+388,487,,7116,Pending,
+389,1198,Room,4724.90,paid,03/05/2025
+390,899,Consultation,"$6,250.01",Overdue,
+391,1477,Room,20,pending,2026-05-27
+392,510,Imaging,"USD 1,032.38",pending,19-Nov-2024
+393,1176,Room,2203.3894579835887,unpaid,
+394,990,,"$1,067.70",Paid,16-Mar-2023
+395,344,Medication,20.00,pending,2025-09-15
+396,1620,Surgery,"$4,761.63",unpaid,"March 27, 2026"
+397,637,Imaging,"$7,657.24",Paid,06-29-25
+398,1658,Imaging,3461.57,PAID,03/26/2024
+399,528,Imaging,"$5,444.55",PAID,2024-05-07
+400,1690,Surgery,3372,Paid,24-Mar-2025
+401,1513,Surgery,"$2,175.08",pending,04-19-25
+402,128,,"$6,257.59",pending,
+403,734,Surgery,$20.00,Overdue,01/12/2023
+404,652,Room,20,Pending,06-Feb-2024
+405,1749,Surgery,20.00,Overdue,05-Jun-2025
+406,1132,Consultation,"$6,060.76",pending,
+407,506,Lab Test,"USD 3,761.63",pending,02-24-24
+408,653,Lab Test,"USD 4,629.61",paid,06-11-26
+409,1080,,8530.768980372646,PAID,"January 11, 2023"
+410,1776,Medication,20.00,Pending,"January 17, 2026"
+411,783,Room,7112.51,PAID,2026-06-22
+412,1791,Lab Test,"$2,311.03",Paid,
+413,1053,Surgery,1855,paid,03-28-25
+414,1368,Consultation,3743.661131754811,Pending,
+415,266,Room,"USD 4,213.21",paid,08-Jul-2024
+416,555,Imaging,"$2,868.37",unpaid,2023-05-30
+417,655,Consultation,5331,unpaid,21-Mar-2026
+418,254,Surgery,"$3,755.73",pending,03/19/2024
+419,684,Consultation,2902.00514974262,pending,09-17-25
+420,792,Room,"USD 2,251.15",Paid,06/09/2024
+421,1665,,"$421,503.94",unpaid,
+422,1635,Imaging,20,Pending,
+423,1551,Room,$276.61,Overdue,"October 31, 2025"
+424,915,Lab Test,"$2,397.65",Pending,
+425,1868,Medication,"$5,134.63",paid,24-Jul-2024
+426,752,Room,9928.55,Overdue,30-Sep-2023
+427,1108,Room,"$3,022.02",unpaid,07-06-26
+428,1534,Medication,20,unpaid,24-Jan-2026
+429,529,Imaging,"USD -1,129.26",unpaid,2024-12-06
+430,362,Imaging,5477,pending,01-27-25
+431,1681,Imaging,-589,pending,2026-06-15
+432,631,Medication,$20.00,paid,2023-02-16
+433,406,,5461.006704842236,paid,12/04/2024
+434,1452,,4895,Pending,2026-02-25
+435,1723,Imaging,20,unpaid,01-24-25
+436,1767,,USD 815.02,PAID,20-Oct-2025
+437,1336,Medication,7234,Pending,
+438,1398,Lab Test,6058.53,Overdue,20-Feb-2024
+439,1291,Room,USD 20.00,Pending,
+440,888,Room,$20.00,paid,01/23/2026
+441,1479,Room,"USD 4,305.55",Pending,11/14/2023
+442,1712,Imaging,2612,PAID,2024-11-07
+443,867,Imaging,4045.2256901812148,Overdue,08/05/2023
+444,202,Lab Test,,Paid,2023-09-19
+445,875,Room,"$31,559.59",PAID,"June 28, 2025"
+446,1151,Lab Test,2203.56,pending,"May 22, 2023"
+447,1260,Consultation,USD 802.82,PAID,
+448,1776,Medication,USD 910.29,Paid,24-Apr-2024
+449,19,Medication,5194,Overdue,
+450,1355,Surgery,3932.21,Paid,"June 12, 2026"
+451,1166,Surgery,20,paid,
+452,1425,Imaging,"$5,675.31",Pending,
+453,317,Medication,2449.7897762654015,paid,2024-08-21
+454,1694,,5813.50,Paid,11-Jan-2024
+455,749,Imaging,456,PAID,01/05/2025
+456,737,Surgery,722.94,PAID,07-01-24
+457,663,Lab Test,4255.136894320004,unpaid,2026-01-18
+458,937,Medication,210.62,pending,09/10/2023
+459,271,Medication,"USD 2,675.36",unpaid,
+460,269,Room,20,PAID,
+461,1853,Surgery,"USD 2,325.89",pending,2023-06-12
+462,852,Lab Test,"$3,404.44",unpaid,01/22/2025
+463,691,Medication,"$3,545.77",pending,
+464,1047,Medication,"USD 2,405.76",PAID,07/14/2026
+465,1052,Medication,4500.05,pending,08/23/2024
+466,699,Consultation,"$3,943.40",Paid,
+467,1557,Room,3231.90000878959,Overdue,2025-05-05
+468,1450,Consultation,1622.4484018666876,Pending,29-Nov-2023
+469,250,Room,"USD 6,704.73",unpaid,12-Jul-2026
+470,1855,Room,"$4,658.86",pending,
+471,1680,Medication,$391.67,Overdue,
+472,1287,Surgery,5447,PAID,02/28/2023
+473,1456,Room,"$-6,126.48",Overdue,
+474,1402,Medication,"USD 3,255.31",unpaid,11/26/2025
+475,1314,,"USD 3,454.74",Overdue,
+476,1787,Lab Test,20,PAID,08-21-24
+477,1530,Room,USD 969.68,paid,"July 03, 2026"
+478,174,Lab Test,6031.083249057961,Pending,
+479,112,Surgery,115213.04053923796,Overdue,
+480,548,Medication,3020.474233455874,PAID,
+481,945,Medication,USD 924.14,PAID,06/04/2024
+482,1742,Surgery,"$4,192.45",paid,10/27/2024
+483,849,,234061,PAID,"October 21, 2024"
+484,816,Consultation,"USD 4,761.42",paid,03/03/2023
+485,643,Room,81.92,unpaid,
+486,1126,Medication,"USD 3,820.11",PAID,12-Oct-2024
+487,1510,,8230,paid,07-18-24
+488,381,,"$5,745.47",PAID,01-03-23
+489,987,Room,3779.99,Overdue,03/20/2024
+490,1253,Imaging,$20.00,paid,11/10/2025
+491,1148,Room,2751.9305656706165,unpaid,
+492,1748,Room,8439.10,Pending,2026-07-29
+493,350,,7455.820508039296,unpaid,
+494,364,Surgery,4884.25,paid,16-Jun-2024
+495,226,Room,1342.0087637156353,unpaid,
+496,251,Room,"USD 3,656.84",paid,
+497,1496,Room,"USD 5,820.44",paid,11-11-25
+498,727,Medication,"USD 6,321.62",unpaid,14-Jul-2026
+499,652,Consultation,4438,PAID,03-12-25
+500,1447,Surgery,"$6,065.12",pending,07/21/2023
+501,1055,Medication,3324,unpaid,
+502,613,Consultation,"$-3,191.28",Paid,11/24/2023
+503,1312,Surgery,"$2,123.25",pending,2024-05-13
+504,913,Consultation,,unpaid,"August 23, 2024"
+505,1462,Consultation,"$6,501.02",Overdue,2025-08-30
+506,956,Room,"$5,625.33",Overdue,"January 14, 2026"
+507,831,Lab Test,20,Pending,13-Nov-2025
+508,1576,Medication,20,unpaid,
+509,340,Consultation,"$6,810.92",paid,
+510,123,Consultation,"USD 4,029.72",unpaid,06-25-24
+511,277,Medication,"USD 4,146.94",paid,2024-02-15
+512,789,,4079.3439010700745,PAID,2025-02-26
+513,1848,Surgery,"USD 8,754.92",PAID,"August 25, 2024"
+514,1067,Room,"$2,161.15",Paid,"December 02, 2023"
+515,1181,Surgery,"USD 6,849.90",Pending,02-01-23
+516,1667,Medication,4200.821072960501,PAID,09/28/2023
+517,1653,Surgery,$20.00,pending,
+518,1313,Room,"USD 1,025.44",Overdue,"May 03, 2026"
+519,1843,Lab Test,"USD 1,678.91",pending,"April 21, 2025"
+520,1268,Lab Test,"USD 6,779.32",paid,07-23-23
+521,447,Medication,7181.89,Paid,04/15/2024
+522,398,Lab Test,"USD 4,561.56",Overdue,"December 27, 2025"
+523,762,Consultation,"USD 1,931.68",paid,05-Sep-2023
+524,1019,,767,PAID,"February 23, 2026"
+525,1547,Lab Test,"USD 6,912.74",Overdue,2023-02-07
+526,1511,Medication,20,Paid,03-09-26
+527,1738,Surgery,3188.33,Paid,11-23-24
+528,947,Medication,"$10,593.41",paid,"February 20, 2025"
+529,34,Room,"USD 1,940.64",Overdue,"January 31, 2025"
+530,1286,Lab Test,USD 20.00,Overdue,2025-10-01
+531,1254,Surgery,20.00,Overdue,02-09-25
+532,1370,,-10712,pending,03/08/2023
+533,889,Medication,4546,unpaid,"May 30, 2026"
+534,936,Imaging,893,Pending,2023-04-04
+535,1895,Room,-2932.59,PAID,
+536,1670,Room,"USD 75,556.63",Overdue,
+537,694,,20.00,pending,09/10/2023
+538,786,Medication,5864.35230036136,pending,
+539,1772,,"USD 3,601.44",Pending,03-Jul-2024
+540,1062,Consultation,"$5,614.95",pending,03-28-24
+541,86,Imaging,3519.65,PAID,"December 06, 2024"
+542,300,Consultation,"USD 3,893.74",Pending,04/08/2026
+543,1440,Lab Test,20,unpaid,2025-10-26
+544,431,Lab Test,6223.54,Overdue,01-Jun-2023
+545,503,Imaging,235.07,Overdue,23-Sep-2025
+546,797,Room,"USD 1,003.75",pending,
+547,1049,Consultation,1916.38,unpaid,18-Apr-2023
+548,623,Imaging,20.00,paid,"April 14, 2025"
+549,1559,Consultation,1752,PAID,07-Jul-2025
+550,1105,Surgery,1543.45,paid,10/12/2025
+551,1831,Consultation,2366.50,pending,"July 21, 2026"
+552,1101,Lab Test,20.00,pending,12/18/2024
+553,1389,Consultation,6283,PAID,2025-11-24
+554,505,Surgery,469416.97,Paid,
+555,1131,Medication,908,PAID,"February 20, 2026"
+556,1043,Imaging,1755.36,Pending,10/31/2024
+557,1397,,6014.444986319297,Pending,"October 18, 2024"
+558,43,Medication,2727.5749066393414,pending,02-14-25
+559,1794,,USD 20.00,PAID,"March 02, 2026"
+560,432,Surgery,3249.2243897453736,unpaid,
+561,729,Surgery,$-236.47,PAID,06-21-23
+562,296,,1376.380477632582,PAID,02-11-25
+563,1273,Consultation,"USD 3,348.13",Overdue,11-06-25
+564,552,Imaging,6665.63,PAID,
+565,144,Medication,"USD 9,569.97",unpaid,
+566,55,Imaging,"$7,587.85",PAID,
+567,1331,Room,"$3,284.43",PAID,
+568,755,,"USD 10,272.05",Overdue,07-20-25
+569,1860,Consultation,,pending,
+570,1701,Imaging,560.93,Overdue,"December 24, 2023"
+571,688,Surgery,3783.65,Paid,"June 13, 2024"
+572,1291,Medication,1529.250059372371,PAID,
+573,266,,20,Overdue,"June 07, 2026"
+574,643,,20.00,Paid,11/11/2023
+575,1568,Consultation,"USD 3,058.30",Pending,2025-06-04
+576,1652,Consultation,"USD 5,762.62",unpaid,08-09-25
+577,657,Room,6705,Pending,
+578,291,Room,20,paid,2025-03-18
+579,1797,Consultation,"$2,590.22",Paid,"May 02, 2024"
+580,1640,Consultation,"$4,959.77",Paid,02/17/2025
+581,320,Consultation,"$3,955.58",Pending,
+582,555,Medication,"$5,583.64",unpaid,11-Dec-2024
+583,1741,Lab Test,"$2,195.92",pending,10/05/2025
+584,1829,Medication,7318.745705315488,Pending,2024-02-04
+585,334,Room,"USD 3,487.27",Paid,20-Jun-2025
+586,722,Imaging,5773.172407163621,PAID,"November 13, 2024"
+587,1136,Lab Test,"USD 2,357.68",unpaid,10/27/2025
+588,1129,Consultation,"$3,675.17",Overdue,"May 29, 2024"
+589,1481,Consultation,$20.00,unpaid,
+590,1390,Imaging,989.7341898740874,Pending,2026-05-12
+591,1479,Room,2877.608934401236,Paid,
+592,1398,,"USD 3,800.18",Overdue,07-31-23
+593,1223,Consultation,"$11,543.60",paid,
+594,739,,"USD 2,354.30",Paid,"September 03, 2023"
+595,394,Room,USD 20.00,pending,12-24-25
+596,948,,"USD 8,607.45",Overdue,
+597,1081,Room,"USD 6,736.51",PAID,
+598,24,Room,$30.46,Pending,25-Oct-2025
+599,1768,Consultation,4896,unpaid,04/02/2024
+600,1701,Consultation,"USD 6,005.62",Overdue,"July 22, 2024"
+601,406,,3991,pending,
+602,1001,Room,4477,Overdue,10-04-23
+603,1031,,1603.231495222639,unpaid,"August 27, 2023"
+604,1878,Lab Test,,Overdue,
+605,1130,Imaging,"$2,025.94",Paid,25-Mar-2025
+606,847,Medication,20,pending,2025-08-18
+607,1472,Medication,"$4,088.80",Paid,"February 13, 2023"
+608,1832,Medication,20.00,PAID,"December 17, 2025"
+609,1353,Consultation,6540.482490373181,paid,
+610,1804,Lab Test,107.54,Overdue,
+611,459,,20,Paid,2023-06-28
+612,1048,Consultation,USD 20.00,unpaid,05-19-25
+613,604,Consultation,3375.5700251342437,paid,2023-06-13
+614,107,Consultation,-4059.5234367202074,Pending,
+615,1169,Lab Test,USD 20.00,Pending,"July 01, 2025"
+616,449,,282.8352357731578,PAID,27-Aug-2025
+617,391,Lab Test,-3475.79,pending,01/15/2026
+618,1426,,"USD 6,416.68",unpaid,
+619,262,,20,PAID,2026-03-06
+620,742,Medication,4637.53,Overdue,28-Nov-2025
+621,1085,Medication,20,Pending,
+622,344,Surgery,4448,unpaid,14-Jan-2024
+623,525,Medication,"USD 5,767.38",PAID,
+624,1671,,5072.619832167517,PAID,08-12-25
+625,1331,Room,6483.193342063091,Overdue,"November 05, 2024"
+626,296,Lab Test,6283.23,unpaid,2026-02-12
+627,1411,Medication,"USD 9,040.80",pending,02-13-26
+628,679,Lab Test,3825.86,pending,2024-06-16
+629,388,,452483.70785455644,unpaid,
+630,1896,,667.7027297402519,PAID,28-Apr-2025
+631,1754,Medication,"USD 2,883.97",pending,09/07/2025
+632,129,Room,3155,Pending,04-24-24
+633,960,Lab Test,37164.66,paid,11-Jan-2024
+634,1077,Medication,USD 20.00,Paid,"February 09, 2025"
+635,1179,Consultation,"$6,107.90",pending,"May 06, 2023"
+636,470,Room,$710.20,paid,2024-10-30
+637,1780,Imaging,2297.5129781511623,paid,2024-01-25
+638,1645,Imaging,8254,paid,
+639,1469,Room,5216,paid,03/03/2026
+640,718,Consultation,8721,pending,
+641,642,,3861.59,pending,
+642,819,Imaging,5166.478181893127,pending,"January 19, 2024"
+643,1502,,2777.99,paid,14-Dec-2024
+644,648,,USD 953.91,Paid,05-Jan-2023
+645,1061,,"USD 5,155.38",Overdue,
+646,1570,,2192.2963705085294,Paid,2024-01-09
+647,1199,Medication,5433.57,PAID,
+648,47,Medication,1788.592946035343,pending,09-Mar-2023
+649,621,Imaging,2973.85,Paid,02-10-25
+650,695,,3214.1524840982725,paid,03/23/2024
+651,76,,673089.5075136977,Paid,"November 05, 2023"
+652,1533,,"USD 2,226.95",paid,"August 30, 2025"
+653,1711,Room,7060.970358777853,Paid,05-23-26
+654,1071,,785,Pending,10/02/2024
+655,509,Consultation,"$4,309.57",Overdue,11-15-23
+656,241,Room,"USD 1,437.20",Pending,05/02/2024
+657,383,Medication,6847.237466719129,paid,2023-11-19
+658,879,Imaging,"$1,044.01",paid,
+659,1478,Lab Test,1349.8017685334971,paid,02/12/2023
+660,937,Imaging,20,PAID,04-Jul-2025
+661,170,Medication,"USD 3,809.12",Overdue,03-Jun-2024
+662,1307,Lab Test,5273.14611454805,Pending,2025-11-28
+663,966,Medication,4949.387551072391,paid,"February 17, 2025"
+664,276,Consultation,3067.2861201888354,Paid,01/17/2023
+665,1862,,1518.38,unpaid,03/19/2025
+666,688,,2663.9602468763114,Paid,"February 27, 2023"
+667,1718,Medication,2778.41,paid,06-11-23
+668,467,Imaging,4257.831282266,Pending,01-30-25
+669,1579,Lab Test,4051.558431419673,pending,2025-09-12
+670,122,Consultation,8719.16,Pending,"May 18, 2025"
+671,952,Imaging,3618.91,Overdue,"March 13, 2023"
+672,1641,Lab Test,4582.40,Paid,
+673,254,Medication,3714.37,Paid,2024-12-29
+674,744,Room,2519.7993201040113,unpaid,02-21-24
+675,1372,,,pending,"August 10, 2023"
+676,1344,Surgery,2238.018218154746,Overdue,2026-07-17
+677,719,Lab Test,3325.3482461379467,Paid,05/07/2026
+678,209,,6977.81,Pending,07/27/2023
+679,1571,Lab Test,2043.921715122564,PAID,05-Jun-2024
+680,35,Imaging,"$4,662.03",paid,
+681,496,Medication,20,Overdue,03-Sep-2024
+682,748,Consultation,"USD 2,943.97",Overdue,2026-07-04
+683,637,Lab Test,2023.64,Paid,
+684,696,Surgery,3861,Paid,18-Oct-2023
+685,1713,Surgery,2791.29,paid,01-26-25
+686,1620,Room,"USD 3,924.55",PAID,09/18/2025
+687,563,,2364.00,Overdue,04/05/2025
+688,1166,Imaging,4659.004097347535,Overdue,2025-10-27
+689,1501,Lab Test,$20.00,paid,23-Jun-2024
+690,200,Imaging,"$3,834.24",PAID,2023-04-24
+691,1628,Consultation,689,Paid,"February 17, 2023"
+692,1607,Medication,"USD 7,003.60",unpaid,01-19-26
+693,23,Medication,640,paid,2024-03-02
+694,1472,Surgery,"$6,485.66",Paid,
+695,682,Surgery,3465.40,unpaid,
+696,1696,,20,PAID,06-28-25
+697,811,Room,$871.20,Pending,21-Mar-2025
+698,597,Room,6043.403072387957,PAID,14-Mar-2023
+699,1458,Imaging,"USD 5,873.03",Pending,"March 08, 2023"
+700,141,Consultation,-20.00,unpaid,02-18-23
+701,368,Lab Test,8188.567176927756,PAID,
+702,1328,Medication,3426,paid,17-Jan-2026
+703,864,Imaging,-6154.536962602884,pending,2024-08-29
+704,750,,20,PAID,
+705,1745,Imaging,2132.1529514808076,unpaid,09/28/2024
+706,21,,4747.71,PAID,13-Dec-2023
+707,423,Surgery,2560.51,paid,07/16/2025
+708,248,Lab Test,20,Pending,"April 15, 2023"
+709,1139,Imaging,"$2,927.65",PAID,"March 19, 2026"
+710,1403,Consultation,USD 20.00,PAID,11/28/2023
+711,1867,Room,$287.92,pending,06/04/2023
+712,1072,Room,20,unpaid,"May 28, 2025"
+713,1672,Consultation,"USD 6,897.67",pending,07-06-23
+714,1013,,7839,paid,11-Dec-2024
+715,1242,Surgery,"USD 4,524.69",Pending,10-22-24
+716,237,Lab Test,2809.79,Pending,"November 03, 2025"
+717,1262,Consultation,3585.016338450786,Pending,"November 11, 2024"
+718,1323,Consultation,6895.56,Paid,27-May-2024
+719,505,Medication,$20.00,paid,"May 27, 2025"
+720,1192,Imaging,USD 274.69,pending,
+721,707,Lab Test,6512.127208375887,Paid,"August 07, 2024"
+722,1588,Medication,"$7,136.81",Overdue,
+723,1029,Room,5269.16,Paid,07/19/2023
+724,1538,Consultation,365.08530244461326,unpaid,
+725,225,Room,"$6,468.65",Pending,09-Oct-2025
+726,59,Surgery,7584.298073836555,Overdue,11/15/2024
+727,742,Imaging,,Overdue,07-Jan-2025
+728,774,,20,paid,03-Sep-2024
+729,936,Medication,3874,pending,20-Sep-2023
+730,562,Room,"$5,255.72",paid,04-27-23
+731,547,Surgery,"$1,953.15",unpaid,
+732,118,,"$4,060.03",Pending,02-14-24
+733,690,Consultation,"USD 1,959.62",PAID,
+734,244,Room,915.22,PAID,2026-02-04
+735,779,Imaging,"$8,031.77",paid,05-31-25
+736,1878,Medication,4145.21,PAID,2025-12-31
+737,1396,Lab Test,$182.06,PAID,
+738,25,Imaging,$20.00,Overdue,30-Jan-2023
+739,460,Medication,917,Pending,
+740,896,Room,$933.28,Pending,
+741,350,Medication,3939.59,Overdue,20-Sep-2023
+742,470,,"$4,956.67",pending,08-24-24
+743,1746,Surgery,"USD 4,953.46",Paid,"July 29, 2023"
+744,898,,1249.6640385356259,Pending,"February 17, 2025"
+745,909,Imaging,6262,unpaid,2024-12-16
+746,42,Lab Test,7183.53294540936,paid,
+747,1507,Lab Test,136005,Pending,11-Nov-2024
+748,883,Imaging,USD 403.79,Pending,09/09/2025
+749,1696,Imaging,"$3,800.85",pending,16-Jul-2025
+750,1679,Consultation,"$9,980.23",Pending,2024-07-27
+751,319,Medication,325,Pending,02-Nov-2025
+752,1687,Imaging,1921.5100910995104,Overdue,08-15-24
+753,1484,Lab Test,3672.3021808929043,PAID,
+754,1452,Room,5124.99,unpaid,08-24-25
+755,889,Room,20,PAID,07/20/2024
+756,528,,"USD 7,417.66",Paid,2023-09-14
+757,338,Imaging,7377,pending,01/16/2024
+758,1644,Surgery,"USD 2,225.62",unpaid,12-25-23
+759,737,Room,11619.85,paid,
+760,1333,Imaging,"USD 7,183.12",Overdue,05-Feb-2023
+761,982,Medication,"$7,023.35",Overdue,2023-11-28
+762,1415,Consultation,"USD 7,062.66",Pending,10-Feb-2025
+763,147,Consultation,"USD 6,976.15",Overdue,03-20-24
+764,228,Medication,"$3,434.27",unpaid,"January 18, 2025"
+765,1623,Imaging,3137.12,unpaid,2025-06-08
+766,942,Lab Test,669,pending,2024-06-15
+767,1075,Imaging,1767.88,PAID,"July 10, 2025"
+768,1262,Room,"USD 2,567.31",Pending,06/16/2023
+769,71,Room,3696.3801505693004,pending,26-Jul-2026
+770,1766,Room,8294.89,Paid,10/21/2023
+771,519,Lab Test,20,unpaid,
+772,968,,7534.80282823284,Pending,
+773,1382,Consultation,$464.37,unpaid,
+774,1575,Imaging,3186.4404696686406,unpaid,"November 18, 2025"
+775,1803,Room,"$1,326.81",paid,2024-08-17
+776,985,Medication,"$9,062.83",pending,"March 08, 2024"
+777,106,Room,-2000,paid,17-Apr-2025
+778,208,Consultation,5064.343779887634,PAID,08-24-24
+779,19,Consultation,5219.80,Paid,"March 28, 2026"
+780,700,Lab Test,20.00,PAID,01/25/2026
+781,1800,Imaging,3209.69,unpaid,11-28-25
+782,142,Imaging,"$7,112.98",unpaid,02/06/2023
+783,49,Lab Test,880,Pending,"May 26, 2025"
+784,237,Lab Test,"USD 5,986.90",Overdue,
+785,269,Consultation,2506.76,paid,06-25-23
+786,1389,Room,6990.962069109812,paid,"September 16, 2024"
+787,670,,8742.49,pending,23-May-2025
+788,713,Room,USD 20.00,Overdue,11-19-25
+789,1523,Consultation,20.00,paid,2023-02-07
+790,1652,Imaging,"$2,184.47",unpaid,"February 09, 2026"
+791,304,,7896,pending,
+792,1553,Medication,"USD 5,097.40",Overdue,25-Jan-2024
+793,1497,Lab Test,20,Pending,2024-07-25
+794,1154,Lab Test,"$5,536.76",pending,06/17/2024
+795,681,Surgery,$758.80,Pending,07-15-23
+796,623,Surgery,6111.595802646068,Pending,
+797,307,Medication,"USD 5,116.89",pending,08/15/2025
+798,1145,Imaging,$745.66,pending,21-Jun-2023
+799,1173,Lab Test,3302.14,pending,06-25-26
+800,1571,Lab Test,,Paid,2025-11-26
+801,1651,Lab Test,USD 20.00,Paid,"February 07, 2024"
+802,1892,Imaging,4403.33,pending,19-Jan-2026
+803,390,Imaging,179.30203434907344,PAID,05/25/2026
+804,992,Lab Test,"$3,451.44",pending,08/01/2024
+805,157,Lab Test,4873,unpaid,06-24-26
+806,905,Lab Test,9539.51,PAID,"March 13, 2023"
+807,1411,Consultation,3421,Paid,"September 09, 2024"
+808,312,Lab Test,"USD 7,896.58",Pending,23-Jun-2023
+809,1794,Surgery,$978.51,pending,03-25-26
+810,1338,Imaging,"$2,014.94",unpaid,07-19-25
+811,1899,Lab Test,5261.175787546049,Pending,2024-12-10
+812,1823,Consultation,4105,PAID,23-Nov-2024
+813,133,Imaging,2515,paid,12/15/2024
+814,1875,Lab Test,2433.456662936943,paid,
+815,1374,Lab Test,7499.88,Paid,
+816,1226,Consultation,2634.67,PAID,10-04-23
+817,1764,,$437.45,pending,
+818,980,,$935.37,unpaid,
+819,1218,,"USD 5,509.70",PAID,
+820,1670,Lab Test,10270,PAID,
+821,1587,Surgery,"$1,928.05",Overdue,
+822,492,Room,"USD 9,945.88",PAID,"June 07, 2023"
+823,273,Imaging,"$3,467.48",Overdue,09-20-25
+824,1129,Consultation,"USD 2,660.56",Overdue,
+825,249,Room,769.17,Paid,
+826,1208,Imaging,2906,Overdue,
+827,1660,Lab Test,,PAID,"June 09, 2025"
+828,1786,Lab Test,991,PAID,05/29/2024
+829,110,Surgery,,pending,11/08/2024
+830,1135,Lab Test,8798.35005394884,Paid,11/17/2023
+831,1382,Surgery,6693.16,Pending,
+832,22,Consultation,"$4,314.80",paid,"September 21, 2024"
+833,81,Imaging,3067.95,unpaid,08-17-24
+834,455,Medication,3483,Overdue,"October 24, 2025"
+835,30,Medication,1169.2732133228847,Pending,04-20-25
+836,552,Room,-4922,PAID,2023-03-31
+837,1543,Lab Test,5652.242339692724,PAID,2026-02-01
+838,205,Surgery,2713,PAID,08-Dec-2023
+839,1082,,"USD 4,477.21",Pending,04-Nov-2024
+840,1435,Medication,20,PAID,06-16-24
+841,1051,Imaging,2553.7135940759904,PAID,07-06-23
+842,1182,Medication,40,PAID,
+843,372,Imaging,"USD 4,952.17",Paid,04-03-26
+844,194,,6486,paid,
+845,1721,Lab Test,,pending,08-03-23
+846,1000,Lab Test,1613.06,paid,
+847,1360,Consultation,116.30,Pending,
+848,1042,Imaging,-2244,Paid,2024-08-30
+849,1594,Imaging,"$1,402.06",Paid,
+850,351,Lab Test,4794,pending,"January 30, 2024"
+851,1315,Consultation,20,paid,"May 30, 2026"
+852,1843,,20.00,Overdue,2026-03-10
+853,677,Room,2460.66,pending,
+854,1329,Lab Test,5679.52,Paid,12/09/2025
+855,720,Imaging,417.63,unpaid,07/10/2025
+856,161,Lab Test,6047,Pending,"August 13, 2023"
+857,113,Room,"USD 4,596.01",pending,
+858,1018,Room,"USD 8,140.39",PAID,
+859,1263,Lab Test,"USD 1,093.24",paid,02-20-23
+860,372,Medication,USD 20.00,unpaid,
+861,1522,Consultation,5295.625280645326,Pending,"October 30, 2025"
+862,1156,Surgery,4339.623613534281,Paid,
+863,854,Surgery,4107.49,pending,12-22-25
+864,1689,,$356.52,paid,13-Dec-2024
+865,1185,Imaging,5825.45,unpaid,"April 15, 2026"
+866,464,Room,"$1,599.72",pending,"October 28, 2025"
+867,812,Lab Test,4106,Pending,08/21/2024
+868,1633,Imaging,2121,Pending,03-26-23
+869,20,Imaging,4563.14,pending,03/01/2024
+870,28,Lab Test,USD 20.00,Overdue,2024-12-27
+871,380,Room,4999.03,Paid,2026-02-21
+872,296,Lab Test,273638.38892859145,pending,04-11-23
+873,1314,Imaging,3847.93,paid,08/29/2023
+874,861,Lab Test,8431.69,Pending,01-Mar-2024
+875,1553,Imaging,4121.48,PAID,"March 26, 2025"
+876,1604,,"USD 6,256.26",unpaid,
+877,1421,Medication,3777.2503933971425,paid,01/25/2026
+878,1721,Imaging,5988.1965920141665,PAID,06/18/2024
+879,1709,Medication,$20.00,Paid,"July 07, 2024"
+880,246,Consultation,"USD -3,598.83",unpaid,"February 18, 2026"
+881,1520,,"$5,959.70",pending,22-Jun-2023
+882,1326,Surgery,3921.28,Paid,
+883,1734,Lab Test,4653,paid,10/11/2025
+884,1342,Consultation,5922.492839137563,Overdue,
+885,501,,"$4,969.73",paid,25-Nov-2023
+886,1112,,2489,Overdue,08/24/2025
+887,197,Imaging,1239,unpaid,03/17/2025
+888,1861,Consultation,USD 20.00,paid,08/04/2024
+889,1069,Imaging,"USD 3,706.56",Paid,03/10/2025
+890,417,Lab Test,"USD 6,913.59",Paid,07-07-24
+891,986,Consultation,"$3,825.18",pending,28-Sep-2023
+892,1297,Consultation,"USD 3,245.74",pending,07/02/2024
+893,827,Imaging,3929,pending,
+894,167,Lab Test,-2336.87,Overdue,06/13/2023
+895,1143,Imaging,"USD 4,084.90",paid,"June 11, 2026"
+896,522,,"$2,285.11",paid,
+897,38,Lab Test,USD 803.36,Overdue,06-03-26
+898,542,Surgery,3274,pending,2023-07-16
+899,1375,Room,"USD 3,208.69",PAID,08-25-24
+900,435,Imaging,9126,pending,08-Mar-2026
+901,1592,Medication,"USD 1,082.93",paid,01/06/2023
+902,1137,Imaging,"$3,021.67",paid,
+903,1149,Room,136500,Pending,2023-10-28
+904,1754,,-2157,pending,
+905,1208,Lab Test,5039.32,Overdue,
+906,377,,10214,paid,
+907,1394,Consultation,"$2,537.52",Pending,
+908,1638,Medication,"USD 5,047.68",Overdue,
+909,129,Consultation,$20.00,unpaid,2025-09-17
+910,805,Surgery,2319,paid,09/30/2023
+911,590,,"USD 8,165.72",unpaid,09/04/2024
+912,23,Consultation,"$3,335.06",Pending,01-25-26
+913,1518,Surgery,"USD 500,702.00",Paid,
+914,865,Room,1631.75,unpaid,
+915,556,Imaging,4272.671575569396,unpaid,"April 30, 2026"
+916,1523,Imaging,8398.328740358244,unpaid,
+917,1505,Medication,USD 20.00,unpaid,01-12-25
+918,48,Consultation,"USD 10,059.63",Pending,
+919,1878,Medication,20.00,unpaid,02-Feb-2024
+920,862,Room,2043.494469543475,Paid,04-18-23
+921,92,Lab Test,$992.25,paid,04-18-25
+922,1320,Surgery,"USD 2,682.62",paid,
+923,1889,Medication,USD 953.29,PAID,05-18-26
+924,1113,,$725.84,Overdue,
+925,338,Surgery,USD 20.00,PAID,2024-07-08
+926,373,Imaging,5432.160885668662,Overdue,03-13-25
+927,167,Lab Test,"$2,786.13",unpaid,
+928,1720,Room,100073.44,Paid,
+929,1080,Lab Test,4347,pending,
+930,1445,Consultation,20,unpaid,11-26-24
+931,799,,4419.12,Overdue,"April 17, 2025"
+932,637,Consultation,"$3,218.69",paid,
+933,752,Room,3310.89,PAID,"March 20, 2024"
+934,977,,5057.500252720835,pending,"November 07, 2023"
+935,118,Lab Test,8431,Pending,"May 14, 2026"
+936,666,Lab Test,"$4,468.92",unpaid,04-14-24
+937,1218,Medication,2900,unpaid,02/24/2026
+938,1364,Medication,$20.00,Overdue,04-16-23
+939,1708,Lab Test,$20.00,Paid,
+940,1215,,"$3,883.65",paid,06-06-25
+941,964,Imaging,$20.00,Pending,2024-06-10
+942,1865,Surgery,20.00,Overdue,08/10/2023
+943,1193,Room,2447.388730702228,pending,2024-12-04
+944,1768,Medication,"USD 4,218.45",paid,19-Feb-2025
+945,87,Imaging,5732.911449607824,Pending,10/07/2024
+946,1707,Room,"USD 6,683.75",Paid,"June 21, 2026"
+947,1154,Imaging,"USD 6,127.14",Overdue,2026-07-02
+948,786,,"USD 6,207.73",Overdue,"June 09, 2025"
+949,365,Lab Test,USD 20.00,paid,03-01-23
+950,807,Lab Test,"$152,560.65",Paid,04-27-26
+951,189,,"USD 5,239.51",Pending,2026-01-06
+952,1383,Surgery,"USD 3,639.12",PAID,02/19/2024
+953,732,Imaging,3034.5521702524984,Paid,
+954,1453,Surgery,"USD 3,584.27",PAID,"January 06, 2024"
+955,1403,,"$4,236.60",paid,15-Sep-2023
+956,1663,Consultation,3269,Overdue,08-07-24
+957,737,Surgery,961.1619277727996,Overdue,01/25/2025
+958,1694,,USD 20.00,PAID,2025-10-28
+959,1410,Room,"USD 2,887.92",Overdue,2025-10-26
+960,1613,Consultation,3672.4482629158233,unpaid,2025-02-19
+961,133,Consultation,,PAID,04/15/2026
+962,1569,Room,6358.763190746634,Pending,02/16/2024
+963,1503,Room,"USD 6,891.82",Paid,12-14-24
+964,1309,Medication,"$3,187.93",pending,
+965,777,Medication,3209.41,Overdue,
+966,584,,"USD 5,219.39",PAID,"July 11, 2025"
+967,676,Surgery,4779.645138553926,unpaid,10/06/2024
+968,1493,Consultation,2172,PAID,
+969,887,,"$5,477.04",unpaid,"June 30, 2024"
+970,1188,Lab Test,3060.876773151554,PAID,
+971,458,Room,"$3,124.67",pending,06/05/2025
+972,989,Room,4801,paid,09-10-25
+973,413,Room,"USD 2,596.50",Paid,
+974,170,Lab Test,3784,Paid,03/05/2023
+975,904,Consultation,4392.63,paid,2026-07-04
+976,1403,,5951.54,unpaid,
+977,856,Imaging,5744,pending,2025-01-10
+978,397,Surgery,4301.13343030499,PAID,"April 13, 2024"
+979,1274,Room,$20.00,paid,07/01/2026
+980,1511,Surgery,"USD 4,230.05",PAID,2024-03-20
+981,265,,4693.66,Pending,12-17-24
+982,1078,Consultation,"USD 5,302.79",pending,
+983,516,Surgery,$631.93,Paid,06-05-24
+984,304,Lab Test,20,Paid,
+985,145,Lab Test,"USD 5,918.51",paid,"November 29, 2025"
+986,797,,20,pending,
+987,617,Room,7167,paid,14-May-2025
+988,170,Consultation,"$1,764.04",Overdue,"September 07, 2025"
+989,149,,418.48,pending,28-Feb-2023
+990,1762,,4548.87,unpaid,2024-10-30
+991,96,Imaging,5348.52825501316,PAID,2023-01-06
+992,863,,258487,PAID,"March 19, 2023"
+993,1389,Imaging,"USD -5,004.83",paid,28-Jun-2023
+994,258,Room,1377,PAID,
+995,597,Surgery,20,PAID,
+996,340,Surgery,2331.01,unpaid,
+997,1032,Consultation,63,paid,2026-02-04
+998,1829,Consultation,"$-4,797.65",pending,13-Jan-2023
+999,19,,"$6,122.74",pending,
+1000,649,Room,4018.09,paid,
+1001,955,Imaging,"$174,858.28",pending,23-Jan-2025
+1002,271,Consultation,2569,paid,"November 28, 2024"
+1003,1539,Surgery,"$6,441.05",unpaid,2025-12-27
+1004,1342,,20,PAID,
+1005,1738,,20.00,Paid,2024-07-22
+1006,1397,Lab Test,8980,Pending,10/28/2024
+1007,240,Medication,20.00,Pending,
+1008,988,Lab Test,5093.110497410234,paid,
+1009,215,Surgery,5710.37,paid,09-Mar-2025
+1010,240,Consultation,$20.00,Pending,"June 01, 2025"
+1011,98,Lab Test,$20.00,paid,
+1012,1664,Medication,7294.14,PAID,28-Jan-2023
+1013,273,Imaging,,Overdue,04-28-26
+1014,1388,Room,$663.11,paid,
+1015,1361,Room,1937.3715549526482,PAID,
+1016,288,Medication,588.55,pending,06-Jun-2026
+1017,314,Imaging,5078.80,PAID,
+1018,77,,$20.00,unpaid,"December 16, 2023"
+1019,823,Medication,,pending,04/28/2024
+1020,92,Room,"$6,969.07",Pending,
+1021,30,,5063.39,pending,
+1022,12,,1243.94,unpaid,05-09-26
+1023,592,Lab Test,"$5,989.57",paid,03/29/2023
+1024,863,Room,,pending,05-09-24
+1025,1625,Lab Test,"USD 6,837.02",Overdue,
+1026,65,Lab Test,6035.426314960199,Pending,2025-12-15
+1027,1632,Surgery,"$2,139.71",paid,2023-10-15
+1028,1419,Room,6566,PAID,"June 17, 2023"
+1029,129,Surgery,4003.3194433791673,Pending,
+1030,1858,Surgery,"USD 1,704.84",Pending,22-Jul-2024
+1031,1825,Room,"$4,371.20",paid,
+1032,1066,Surgery,20,Paid,2023-05-02
+1033,1281,Room,6002,Pending,04/28/2026
+1034,1384,,-5612.36,paid,07-19-23
+1035,761,Imaging,"$3,861.08",Pending,"January 17, 2023"
+1036,1646,Imaging,$20.00,Pending,03-Feb-2025
+1037,1564,,6963,PAID,15-Sep-2024
+1038,250,Imaging,"$4,811.28",Pending,05-Dec-2023
+1039,396,Consultation,"USD 3,431.12",PAID,2026-07-02
+1040,1373,Lab Test,2958,Paid,
+1041,552,Consultation,"USD 1,889.84",Paid,25-Jul-2023
+1042,575,Room,"$2,466.59",Pending,2024-10-11
+1043,59,,5807.65,Overdue,
+1044,308,Medication,1949.821871332938,unpaid,04-19-24
+1045,1298,Room,"USD 2,677.09",Paid,2023-04-27
+1046,139,Lab Test,"$3,117.22",paid,2023-04-06
+1047,1359,Surgery,3199.41,Paid,
+1048,1676,Lab Test,1646.5642513209357,Pending,
+1049,749,Lab Test,2989,Overdue,05/25/2023
+1050,1143,Surgery,"USD 4,529.94",Overdue,27-Feb-2025
+1051,1783,Medication,USD 785.59,pending,
+1052,147,Imaging,3003,Pending,
+1053,928,Consultation,9293,unpaid,"August 26, 2024"
+1054,1228,Lab Test,3311,PAID,
+1055,1238,Consultation,708.7308654140625,paid,"March 22, 2024"
+1056,562,Room,358,paid,
+1057,1849,Consultation,$20.00,Overdue,12-12-25
+1058,611,Surgery,"USD 8,381.35",Pending,09-04-24
+1059,522,Room,"USD 6,524.07",Pending,05-07-26
+1060,1125,Consultation,20,paid,12-02-23
+1061,258,Consultation,4141.12,Paid,
+1062,1836,Room,,PAID,
+1063,1083,Lab Test,"USD 3,378.60",pending,
+1064,102,Surgery,2025.16,Paid,2024-02-14
+1065,1711,Surgery,10222.698945435055,PAID,2024-01-17
+1066,4,Consultation,USD 20.00,unpaid,10/16/2023
+1067,1453,Consultation,"$11,397.74",Paid,
+1068,1000,Lab Test,"USD 3,680.00",Paid,
+1069,170,,7371.290390883552,Pending,02/22/2026
+1070,1053,Medication,20,PAID,08-08-25
+1071,68,Imaging,"USD 1,323.25",Pending,17-Jan-2023
+1072,1013,Medication,USD 260.13,Paid,2023-04-11
+1073,95,Consultation,3196.91,paid,
+1074,1502,Consultation,4423.178420326281,Overdue,
+1075,1043,Medication,6700.41,pending,08/11/2023
+1076,748,Imaging,$20.00,Overdue,22-Apr-2025
+1077,86,Surgery,3971,unpaid,
+1078,1678,Imaging,"USD 6,184.73",PAID,
+1079,1418,Medication,6746.56,pending,"January 18, 2023"
+1080,1679,Medication,"$2,178.44",Paid,12-30-24
+1081,1229,Room,"$2,215.77",Overdue,"January 22, 2024"
+1082,335,Consultation,3223.9263804945585,Pending,2023-03-25
+1083,1208,Surgery,4058.158113230771,Paid,
+1084,1425,Consultation,7407.79,Overdue,
+1085,1205,Lab Test,20.00,PAID,2024-03-01
+1086,1283,Consultation,"$1,141.24",unpaid,07-26-24
+1087,513,Room,20,paid,05/02/2023
+1088,292,Room,4783,PAID,05-Apr-2024
+1089,718,Consultation,6804.10,Overdue,06-Sep-2023
+1090,1472,Consultation,20,pending,"April 14, 2023"
+1091,767,Consultation,3766,unpaid,
+1092,1325,Surgery,6587,Paid,18-Jun-2025
+1093,133,Lab Test,"USD 5,853.64",paid,
+1094,1881,Imaging,"USD 5,818.26",unpaid,26-Mar-2024
+1095,1579,Medication,$20.00,pending,2024-12-03
+1096,265,Medication,"USD 5,808.30",paid,
+1097,1541,Imaging,2942.22,PAID,01/29/2024
+1098,516,Consultation,6710,unpaid,05-01-26
+1099,233,Surgery,"USD 4,847.50",paid,12/09/2023
+1100,267,,1053,Pending,
+1101,1744,Lab Test,4336.44,Paid,26-Jul-2023
+1102,1662,Medication,5956,Paid,2025-06-26
+1103,16,Imaging,1980.91,unpaid,
+1104,1392,Lab Test,"$3,886.41",pending,11-Jun-2026
+1105,1036,,$20.00,unpaid,
+1106,1148,Medication,5147.095803892037,Pending,04-28-24
+1107,517,Lab Test,3331.2088591218517,Paid,10/13/2023
+1108,1440,Medication,"$6,242.26",unpaid,
+1109,74,Consultation,,PAID,"May 11, 2025"
+1110,106,,2278,PAID,06/02/2025
+1111,556,Imaging,$960.89,Overdue,
+1112,672,Imaging,270.7994980229487,paid,2026-02-04
+1113,17,,1978,unpaid,
+1114,329,Medication,6161.29,PAID,28-Jul-2025
+1115,3,Room,$20.00,PAID,"May 05, 2024"
+1116,579,Medication,-393,unpaid,09/09/2025
+1117,478,Consultation,,pending,08-Oct-2024
+1118,340,Surgery,"USD 7,486.86",Paid,09/14/2023
+1119,36,Imaging,$550.52,paid,01/03/2024
+1120,947,Consultation,359.57,PAID,2023-06-24
+1121,182,,7721.480718715712,unpaid,2024-09-25
+1122,283,Surgery,"$3,129.22",Overdue,
+1123,1786,Surgery,816,pending,
+1124,1860,Consultation,6633.853668165859,paid,
+1125,1585,,5010.44,PAID,
+1126,1622,Lab Test,"$5,709.96",PAID,07-08-26
+1127,17,,$972.68,PAID,10-Sep-2023
+1128,1375,Imaging,4624,pending,2026-02-25
+1129,1817,Lab Test,7239,PAID,11-05-24
+1130,1128,Consultation,271119.1540972328,Pending,
+1131,762,Room,"$6,259.61",Pending,11-28-23
+1132,1176,Lab Test,7709.427649888706,paid,
+1133,372,Surgery,4783,Overdue,04/25/2023
+1134,1541,,1804.64,unpaid,01/31/2024
+1135,851,Imaging,6131.33346059586,pending,2024-01-18
+1136,294,Consultation,182.88,PAID,
+1137,605,Imaging,"USD 2,833.04",unpaid,
+1138,1084,Consultation,5264,PAID,05/26/2024
+1139,1233,Lab Test,$20.00,PAID,15-Aug-2024
+1140,1167,Imaging,4257,Overdue,2025-09-07
+1141,1481,Medication,"$4,398.88",Paid,08-29-25
+1142,132,Imaging,$92.20,Pending,
+1143,861,Surgery,"USD -4,477.58",Overdue,06/03/2025
+1144,1584,Consultation,"USD -4,069.85",paid,"December 27, 2024"
+1145,345,Lab Test,3602,pending,
+1146,727,Room,7068.30141128553,PAID,29-Mar-2026
+1147,610,Medication,6136.7280695516065,Paid,10/09/2025
+1148,451,Lab Test,5419.948552140024,unpaid,24-Jul-2024
+1149,458,Room,$427.34,Overdue,2024-05-07
+1150,838,Surgery,3447.98,pending,"November 11, 2023"
+1151,1166,Consultation,"USD 7,053.30",PAID,2023-02-06
+1152,1122,,"USD 2,856.01",pending,2023-04-17
+1153,959,,"USD 8,162.79",Overdue,06/18/2024
+1154,264,Surgery,5507.580219204505,Paid,"September 05, 2024"
+1155,607,,8628.681688676734,PAID,01/05/2023
+1156,543,Lab Test,298,pending,"September 20, 2025"
+1157,1045,,3036.0273841258804,paid,2023-05-28
+1158,1405,Imaging,"$3,319.61",paid,
+1159,1286,Consultation,5318.52,paid,
+1160,1004,Lab Test,1284,Overdue,
+1161,1453,Imaging,USD 20.00,Paid,"January 20, 2026"
+1162,1486,Lab Test,4635,Pending,26-Jun-2025
+1163,1282,Room,2401,Paid,2025-10-16
+1164,612,Medication,"USD 2,087.91",paid,"July 18, 2026"
+1165,138,Surgery,1422,pending,02-Sep-2024
+1166,586,Medication,193583,unpaid,30-Apr-2025
+1167,66,Room,$269.43,unpaid,"August 17, 2023"
+1168,826,Medication,"$2,917.41",Overdue,01-09-26
+1169,60,Imaging,"USD 1,013.86",Pending,01-09-25
+1170,905,,1672,pending,"October 02, 2024"
+1171,1479,Surgery,4561.43,Pending,2024-03-23
+1172,1235,Consultation,5454.23,pending,12-Jan-2023
+1173,1237,Consultation,2582,Paid,10/31/2025
+1174,805,Imaging,"$6,403.49",unpaid,11-Apr-2026
+1175,315,Lab Test,USD 581.86,unpaid,09-05-23
+1176,307,Consultation,20,unpaid,
+1177,687,Surgery,$20.00,unpaid,09-02-24
+1178,1282,Medication,"USD 13,688.98",Overdue,05-05-25
+1179,512,Medication,20,Pending,09/16/2023
+1180,371,Surgery,9563.46,paid,2025-08-03
+1181,264,Surgery,$20.00,PAID,
+1182,369,,"$6,312.29",PAID,
+1183,1261,Room,3424.613452678175,Overdue,2025-04-27
+1184,1658,Surgery,"USD -4,173.80",PAID,01/07/2024
+1185,570,Lab Test,783,pending,01/26/2026
+1186,1439,Medication,447636,paid,01-01-23
+1187,742,Medication,758,Overdue,09-12-24
+1188,234,Surgery,"USD -6,268.30",Pending,11-29-23
+1189,251,Room,6516.540433562701,paid,01-19-25
+1190,811,Surgery,3095.4141894022355,pending,2025-06-14
+1191,510,Lab Test,"$3,291.91",PAID,
+1192,363,,"$4,798.17",Pending,"May 07, 2023"
+1193,555,,"$4,644.83",Overdue,"August 23, 2024"
+1194,554,Medication,6572,Paid,2024-12-07
+1195,956,Lab Test,6487.537775630897,pending,01/05/2024
+1196,1737,Medication,3413.48,paid,
+1197,1183,Medication,2068.33,Pending,02-Aug-2023
+1198,1410,Surgery,"$-5,934.86",pending,
+1199,266,Imaging,3031.1427533376977,Pending,21-Jan-2024
+1200,905,,"USD 3,841.23",PAID,01-21-24
+1201,368,Consultation,5090.95,unpaid,2024-10-24
+1202,1508,Room,6427,pending,06/20/2025
+1203,811,Lab Test,"USD 214,127.22",paid,14-Nov-2025
+1204,1749,Consultation,"$1,738.41",PAID,2024-02-17
+1205,1686,Medication,"$8,891.03",paid,"April 24, 2025"
+1206,857,,8091,Pending,
+1207,1132,Room,445.99,Paid,"March 12, 2025"
+1208,643,Room,765,PAID,
+1209,380,Medication,1141.9595544227777,paid,
+1210,1533,Medication,6045.65,Pending,"August 24, 2024"
+1211,983,Surgery,"$450,271.48",unpaid,"June 17, 2026"
+1212,1784,Lab Test,"USD 1,981.18",unpaid,
+1213,43,Lab Test,"$4,007.81",unpaid,03-Mar-2026
+1214,1033,Consultation,1242.18,PAID,2023-09-05
+1215,467,Consultation,8601,Paid,21-Mar-2026
+1216,1136,Medication,"USD 5,974.49",Pending,01/27/2024
+1217,162,,1026.09,Overdue,
+1218,70,Lab Test,$20.00,Overdue,
+1219,1797,,6612.761173284701,paid,
+1220,318,Lab Test,1782.5455813567185,pending,2023-12-10
+1221,393,Surgery,6028,pending,12/15/2023
+1222,1858,Room,4381.0710105512435,Pending,08-31-23
+1223,1830,Consultation,USD 20.00,unpaid,07-Feb-2024
+1224,925,Room,"$1,079.67",Overdue,"December 26, 2025"
+1225,728,Imaging,2437.5659381417645,unpaid,02/05/2025
+1226,762,,"USD 1,472.63",Paid,03-25-23
+1227,1248,Room,"USD 3,848.50",Pending,"June 23, 2023"
+1228,1768,Room,4704,pending,2024-03-01
+1229,587,,"$8,868.08",pending,"October 11, 2023"
+1230,1223,Room,4916.640430629403,unpaid,24-Feb-2026
+1231,944,Room,7973,paid,2024-10-26
+1232,712,,2069.549643376116,unpaid,
+1233,954,Imaging,-6996,Paid,
+1234,490,Medication,2356.4057285302138,unpaid,2025-06-11
+1235,1374,Consultation,748.9495955731359,Overdue,19-May-2026
+1236,202,Room,,paid,
+1237,1029,Medication,,unpaid,"September 11, 2025"
+1238,1357,Imaging,6062,unpaid,
+1239,1153,Consultation,20.00,paid,17-Jun-2025
+1240,1380,Surgery,"$7,724.44",unpaid,20-Sep-2023
+1241,1886,Consultation,"$2,977.34",paid,04/03/2025
+1242,1260,,20,unpaid,15-Oct-2023
+1243,114,Lab Test,$-146.81,Overdue,
+1244,620,Room,"$4,071.90",unpaid,03-14-24
+1245,391,Medication,USD 20.00,Overdue,13-Oct-2025
+1246,28,,5269.84,Pending,
+1247,125,Lab Test,20.00,paid,13-Jan-2023
+1248,862,,1283,Paid,03/20/2025
+1249,1661,,4096.16,PAID,
+1250,76,,4902.832070519594,unpaid,21-Jun-2023
+1251,899,,"USD 5,893.16",pending,2025-06-15
+1252,1687,,USD 20.00,Pending,16-Jan-2025
+1253,1635,Medication,"$2,574.64",unpaid,2025-08-19
+1254,681,Consultation,6779,Overdue,"October 20, 2023"
+1255,1615,,"USD 2,575.36",Paid,10/02/2023
+1256,579,Consultation,"$4,382.82",Overdue,
+1257,927,Medication,3987,pending,01-14-23
+1258,793,Lab Test,"$7,403.71",unpaid,
+1259,910,,2102.272417473137,Paid,
+1260,790,Consultation,20.00,pending,
+1261,908,Consultation,596.38,Paid,2023-02-12
+1262,1616,,4066.53,paid,12/24/2023
+1263,1160,Lab Test,,Paid,
+1264,1548,Medication,1866.7580447975827,unpaid,04-28-23
+1265,1684,Lab Test,3726.2491789225937,Overdue,06-16-24
+1266,297,Medication,1200,Paid,2023-03-20
+1267,1495,Medication,"USD 4,480.56",PAID,"May 08, 2025"
+1268,81,Lab Test,5673.235287044856,paid,03-23-26
+1269,754,Imaging,4864.725799858023,PAID,
+1270,611,Consultation,$20.00,Pending,
+1271,1232,,"$3,737.55",PAID,2023-05-12
+1272,798,Consultation,3972,Paid,
+1273,871,Lab Test,"USD 2,357.21",Overdue,2025-01-31
+1274,1362,Lab Test,"USD 4,439.93",unpaid,
+1275,274,Surgery,4332.273727236821,paid,"January 03, 2023"
+1276,1855,Lab Test,3227,paid,2024-02-13
+1277,1599,Imaging,487.18,PAID,24-Jan-2026
+1278,1218,,3420,Pending,08/18/2023
+1279,250,Imaging,9100.79,paid,01/01/2025
+1280,364,Lab Test,2323.078912952922,pending,
+1281,1251,,6642,pending,
+1282,744,Surgery,3616.57,pending,03-17-24
+1283,947,Room,1098,unpaid,08/02/2025
+1284,658,Imaging,2610.21,paid,"June 02, 2023"
+1285,1092,Room,3449.388878875696,Paid,01-24-24
+1286,1028,Room,5466,unpaid,08-27-24
+1287,1487,Room,"$10,640.14",Paid,02-24-24
+1288,115,,3664,unpaid,02-28-23
+1289,971,Medication,USD 20.00,PAID,10/16/2023
+1290,1683,Imaging,USD -20.00,unpaid,
+1291,1295,Consultation,"USD 2,234.65",Pending,07/16/2026
+1292,939,Medication,115.74,Paid,
+1293,279,Surgery,,paid,12-29-25
+1294,180,Medication,5196,pending,18-Aug-2025
+1295,1562,Imaging,"USD 3,062.07",Pending,
+1296,957,Medication,-5472,Pending,
+1297,1084,Imaging,3694.28,PAID,2024-04-18
+1298,906,Medication,"USD 9,102.72",Pending,
+1299,116,Room,5378,PAID,01-24-23
+1300,1451,Lab Test,6187,Pending,"January 15, 2025"
+1301,1813,Lab Test,20,paid,"August 05, 2025"
+1302,1400,Room,20,pending,2025-07-01
+1303,1819,,4936.51527831342,PAID,08-Apr-2026
+1304,1674,Medication,USD 20.00,PAID,
+1305,354,Room,"$1,626.57",pending,
+1306,1449,Medication,7038,Paid,"December 06, 2024"
+1307,1413,,1562.4326008836147,Pending,"October 23, 2024"
+1308,1264,Medication,20.00,unpaid,
+1309,939,Surgery,"$5,502.63",pending,01-19-24
+1310,498,Imaging,9720.60,pending,
+1311,607,,"$1,074.06",PAID,15-Oct-2023
+1312,1420,Room,"$7,172.08",Overdue,26-Mar-2025
+1313,1696,Medication,$700.48,Overdue,2024-02-15
+1314,588,Imaging,3163,Overdue,12-02-23
+1315,136,Imaging,"USD 3,292.60",Overdue,09-Jun-2023
+1316,845,Medication,"$1,154.05",Paid,2024-08-08
+1317,105,Consultation,6126.19,pending,
+1318,1188,Medication,20,Overdue,
+1319,453,Surgery,4085,pending,09/05/2023
+1320,92,Imaging,6722,Pending,
+1321,1599,Surgery,5876.49,Overdue,
+1322,446,Room,4974,pending,02-Oct-2024
+1323,1373,Imaging,"$8,255.90",unpaid,
+1324,519,Surgery,2841.15,pending,"August 01, 2024"
+1325,1730,Medication,20,paid,04/10/2026
+1326,530,Surgery,3906,PAID,05/17/2023
+1327,556,Room,3123,pending,03-31-24
+1328,1134,Consultation,USD 20.00,unpaid,10/22/2023
+1329,821,Consultation,,Pending,"April 23, 2023"
+1330,1187,Lab Test,$20.00,pending,
+1331,976,Medication,1056,pending,2025-01-26
+1332,1336,Imaging,"USD 2,446.48",unpaid,2025-01-20
+1333,110,Surgery,"USD 2,561.38",Pending,2024-07-25
+1334,1527,Surgery,1163.5858141898325,unpaid,
+1335,755,Consultation,$20.00,Overdue,11-02-24
+1336,227,Lab Test,4632,Pending,
+1337,1362,Surgery,3849.715583668042,Pending,
+1338,716,Surgery,3940.014495971124,Paid,13-Jan-2026
+1339,685,,8837,PAID,14-Dec-2023
+1340,374,Room,3989,unpaid,
+1341,301,Imaging,120001.33,Paid,11/13/2023
+1342,1262,,-3182.5820227364857,unpaid,
+1343,1309,Room,3796.46,Paid,"October 06, 2024"
+1344,773,Room,"$5,347.38",pending,
+1345,330,Surgery,3366,PAID,06/28/2024
+1346,1292,,1000,unpaid,2023-08-18
+1347,578,Consultation,,Paid,04/03/2026
+1348,814,,"USD -3,504.48",Overdue,
+1349,1492,Imaging,7412.604696954944,Pending,
+1350,427,Surgery,-1142.31,unpaid,
+1351,385,Room,$20.00,Paid,"April 09, 2023"
+1352,1093,Consultation,3693.1316196821745,PAID,03-08-25
+1353,1193,Lab Test,6098.71,Overdue,"January 25, 2024"
+1354,375,Consultation,2319.731175792813,unpaid,24-Nov-2025
+1355,149,Imaging,"USD 10,649.15",unpaid,03/11/2025
+1356,1691,Lab Test,"$9,942.49",Paid,15-Oct-2025
+1357,1672,Surgery,"$3,282.58",PAID,12-31-25
+1358,295,Consultation,4060.14,paid,"October 24, 2025"
+1359,185,,760619.44,PAID,
+1360,1598,Room,3230.49581860961,Paid,
+1361,1190,Imaging,"$1,087.73",Pending,07/21/2026
+1362,1706,Room,,Overdue,12-Sep-2025
+1363,1578,Lab Test,4893,Paid,
+1364,592,Imaging,1078,Overdue,
+1365,416,Surgery,4337.49,paid,
+1366,613,Lab Test,3019.82,Pending,05/13/2024
+1367,1132,Surgery,"$2,344.71",PAID,12-18-24
+1368,1332,Surgery,,Paid,12/15/2025
+1369,233,Medication,"USD 3,864.21",pending,05-15-26
+1370,1413,Lab Test,"USD 2,702.43",paid,2025-12-11
+1371,183,Surgery,4354,Pending,17-Aug-2024
+1372,939,Surgery,"USD -5,959.51",Paid,
+1373,1280,Medication,"$4,194.70",PAID,"January 08, 2026"
+1374,272,Surgery,4246,paid,01-04-26
+1375,1574,Room,"USD 1,876.47",Paid,14-Jun-2026
+1376,1277,Consultation,"USD 7,023.07",Pending,12-May-2023
+1377,964,Surgery,954,unpaid,"November 29, 2025"
+1378,11,,20,Overdue,04/08/2025
+1379,671,Surgery,287.05,PAID,
+1380,1741,Consultation,"$6,602.79",unpaid,
+1381,1027,Medication,4876.693460594822,pending,04-19-23
+1382,1108,Surgery,7435.83,Pending,05-09-24
+1383,290,Consultation,20,pending,09-Jun-2025
+1384,1825,Room,"$10,460.65",Overdue,12-10-23
+1385,92,Room,2649,unpaid,"April 02, 2024"
+1386,701,Imaging,USD 20.00,Overdue,07-06-23
+1387,1222,Consultation,10087.349500926957,paid,"October 02, 2023"
+1388,1118,Imaging,20.00,Pending,"July 17, 2024"
+1389,106,Lab Test,2306.3128594483605,paid,2025-08-06
+1390,406,,2883,Pending,
+1391,464,Consultation,"$4,832.25",Pending,
+1392,1641,Imaging,1126,Paid,"August 24, 2025"
+1393,353,Consultation,6617.94,Overdue,13-Jun-2023
+1394,1195,Room,5760.91,unpaid,2025-05-06
+1395,1280,Consultation,3557.20,unpaid,
+1396,206,,7472.99,pending,"December 24, 2024"
+1397,1009,Imaging,3296.43,Paid,"November 13, 2023"
+1398,1447,Surgery,"$2,673.06",unpaid,
+1399,1560,Medication,"USD 9,494.31",Paid,
+1400,1007,,"USD 4,387.21",unpaid,05-19-26
+1401,390,Room,USD 543.05,Pending,"April 06, 2023"
+1402,1011,Lab Test,$949.19,Pending,"August 22, 2025"
+1403,208,Lab Test,3557,Paid,2024-01-03
+1404,1122,Room,20,pending,08-12-24
+1405,124,Medication,"USD 1,601.03",Overdue,14-Jul-2024
+1406,641,Surgery,3199,paid,
+1407,1318,,"USD 2,998.41",Pending,03-Jun-2026
+1408,1726,Lab Test,-20,unpaid,13-Jul-2026
+1409,1332,Consultation,2154.45,PAID,
+1410,1091,,7039.41,Overdue,
+1411,1766,Medication,6419.45,paid,
+1412,1023,Lab Test,3787,paid,08-08-25
+1413,1116,Imaging,3293,Paid,
+1414,298,Surgery,3015,Pending,08/27/2025
+1415,1390,Lab Test,4208.93,unpaid,2026-03-19
+1416,1381,Imaging,"$3,807.71",pending,12-26-24
+1417,1783,Medication,4472.42291261308,Paid,07/31/2023
+1418,51,Consultation,"$5,005.38",pending,21-Oct-2023
+1419,9,Medication,$20.00,pending,
+1420,807,,"$2,569.19",Paid,12-30-23
+1421,719,Surgery,"$4,093.74",Overdue,03-08-25
+1422,1812,,$602.49,Pending,"January 02, 2024"
+1423,1791,Imaging,1478.5359369218552,pending,04-03-24
+1424,1779,Imaging,-2846,Overdue,03-09-25
+1425,1101,,"$2,993.50",PAID,
+1426,1671,Medication,"$4,149.81",pending,02/14/2023
+1427,46,Medication,USD 955.91,Paid,
+1428,867,Consultation,6404,Overdue,
+1429,1051,Lab Test,2968.77,paid,04-06-24
+1430,35,Lab Test,3935.593104816201,Pending,07/02/2026
+1431,117,Lab Test,"USD 2,390.50",paid,
+1432,873,Surgery,4206.95,unpaid,"January 12, 2026"
+1433,906,Room,8514,Overdue,17-May-2024
+1434,1673,Imaging,"$2,362.64",PAID,30-Sep-2023
+1435,665,Imaging,1866.51,unpaid,02-Dec-2025
+1436,486,Surgery,"USD 1,009.53",Overdue,09/08/2025
+1437,1135,Surgery,3321.134450950613,paid,
+1438,680,Medication,3286.39,unpaid,
+1439,731,Room,3654,pending,01-Feb-2025
+1440,88,Medication,4904.767639208947,PAID,23-Nov-2025
+1441,1553,Consultation,4527,unpaid,
+1442,183,Consultation,3432.4355554018784,Paid,
+1443,1443,Surgery,"USD 468,070.24",Overdue,"March 01, 2024"
+1444,1033,Surgery,5572.04,unpaid,"December 25, 2024"
+1445,1640,,232.22017147801535,PAID,08-Mar-2025
+1446,180,,USD 20.00,PAID,05/22/2025
+1447,969,,1413,pending,05/24/2023
+1448,557,Surgery,197898.75700751916,unpaid,"April 05, 2024"
+1449,1618,Lab Test,1161.5010320966471,PAID,
+1450,29,Lab Test,1617.12,Overdue,01-14-24
+1451,1260,Surgery,"USD 3,578.20",PAID,02/18/2025
+1452,1706,Consultation,2474,PAID,20-Feb-2025
+1453,2,Room,USD 20.00,Paid,09-17-24
+1454,729,Room,6732,paid,01/26/2026
+1455,450,,6034.87,pending,01-07-23
+1456,1723,Imaging,$20.00,Paid,
+1457,577,Imaging,"$3,670.67",Paid,
+1458,107,Surgery,$150.35,Overdue,
+1459,1442,Lab Test,"USD 1,673.61",Overdue,04/23/2024
+1460,985,Consultation,"$4,958.46",Pending,05/05/2025
+1461,1328,Consultation,5930.14,Overdue,09/20/2024
+1462,1127,Imaging,5860,Overdue,19-Aug-2024
+1463,1189,Surgery,"$4,234.52",Overdue,
+1464,1133,Consultation,7326,Paid,
+1465,516,Medication,1668.314901711854,Overdue,2025-05-03
+1466,937,,"USD 2,334.11",Overdue,12-22-25
+1467,470,Lab Test,-20.00,unpaid,
+1468,942,Room,"USD 3,220.83",paid,"March 01, 2026"
+1469,671,,"USD 5,239.08",Overdue,01-24-26
+1470,679,Consultation,4355.778836026704,Pending,2024-11-07
+1471,1542,Medication,"USD 1,627.94",PAID,02-11-26
+1472,253,,6034,Pending,2023-08-11
+1473,1360,Medication,"$3,278.51",paid,2024-02-08
+1474,1386,,5799,Overdue,06-07-24
+1475,609,,4958.449055318788,Pending,
+1476,258,Room,7774,unpaid,08/13/2025
+1477,1791,,"USD 4,518.09",unpaid,2023-08-31
+1478,1652,Lab Test,5329.828018802845,unpaid,04/21/2026
+1479,673,Lab Test,"USD 3,269.85",unpaid,
+1480,978,,1991.3295497630165,PAID,
+1481,399,Lab Test,4972.196622681094,Paid,
+1482,1219,Room,8008,Overdue,21-Jun-2023
+1483,428,Surgery,1652,Overdue,"February 14, 2024"
+1484,1352,Surgery,"USD 275,559.10",PAID,
+1485,691,Surgery,3579.95,unpaid,
+1486,1648,Consultation,,Overdue,06-21-25
+1487,1635,Lab Test,"USD 4,536.37",Overdue,03/16/2025
+1488,26,,6239.1894693002,PAID,08/28/2025
+1489,91,Imaging,"$9,421.73",Overdue,01/16/2024
+1490,106,Surgery,"$1,583.30",Paid,08-07-23
+1491,1266,,"$5,329.19",pending,11-Jul-2023
+1492,725,Room,4461.92,Overdue,"April 10, 2023"
+1493,1520,Medication,,Paid,08-25-23
+1494,1479,Consultation,5318.25567103035,unpaid,04-02-23
+1495,1118,Room,2699.5909388047626,unpaid,12-Jan-2025
+1496,1157,Medication,4469.137194940962,Pending,09-16-24
+1497,592,,20,pending,25-May-2026
+1498,1201,Medication,1883.5541656825317,unpaid,
+1499,277,Surgery,6642.56,unpaid,26-Jan-2026
+1500,871,Surgery,6527.248947813261,PAID,
+1501,784,Lab Test,"$4,278.30",unpaid,03-19-24
+1502,1571,,2140.85,PAID,"May 31, 2025"
+1503,613,Imaging,5975.80,Paid,
+1504,1414,Surgery,"$7,209.46",unpaid,2024-12-29
+1505,970,Imaging,2263,Pending,
+1506,1615,Medication,20,unpaid,01-28-26
+1507,1564,,"USD 4,847.40",pending,01-20-23
+1508,1221,,"USD 6,241.30",Overdue,17-Apr-2026
+1509,991,Consultation,5262.45,paid,2024-09-02
+1510,557,Lab Test,8195.24,unpaid,2023-01-02
+1511,1212,,"USD 8,207.90",paid,
+1512,812,Room,"USD 2,583.81",Paid,
+1513,56,Consultation,"USD 4,096.98",pending,"July 23, 2025"
+1514,151,Surgery,"$2,010.40",unpaid,"April 24, 2024"
+1515,1124,,USD 433.81,Overdue,
+1516,762,Imaging,609.6820855940291,paid,"November 05, 2023"
+1517,402,,5651.06405978913,unpaid,"January 04, 2026"
+1518,674,Consultation,4409,paid,
+1519,21,Surgery,"USD 6,169.88",unpaid,07-Sep-2024
+1520,226,Room,"$11,094.86",unpaid,2026-05-16
+1521,424,Imaging,4999.602809724192,pending,2025-02-20
+1522,263,Imaging,1136.2382626988074,paid,
+1523,1085,Surgery,6605.38,Paid,
+1524,1275,Lab Test,1080.46,pending,03-17-24
+1525,781,Lab Test,8745,paid,03-Feb-2024
+1526,953,Surgery,20,Paid,"January 09, 2025"
+1527,1141,Imaging,1860.3531489927097,unpaid,2025-11-22
+1528,759,Medication,5366.41,PAID,
+1529,943,Lab Test,7032.56298147363,pending,04/15/2025
+1530,1013,Medication,1469,unpaid,03/15/2025
+1531,1226,Lab Test,925.2260964400293,Pending,"March 04, 2025"
+1532,15,Medication,3945.101574909132,Paid,03/01/2024
+1533,294,Consultation,"$9,226.98",pending,"January 18, 2026"
+1534,1518,Imaging,$20.00,Paid,"May 23, 2026"
+1535,1377,Imaging,2557.639708482601,unpaid,"January 09, 2023"
+1536,1082,Imaging,"$4,280.56",unpaid,
+1537,128,Medication,1112.15,pending,
+1538,598,Lab Test,-1102,PAID,10/18/2023
+1539,740,Room,2799.83,Overdue,
+1540,1186,Surgery,4378,Pending,2024-04-26
+1541,46,Room,"$2,914.82",PAID,08-Apr-2026
+1542,69,Medication,7896.696957097895,Paid,06/15/2026
+1543,1638,,5278,PAID,08-Aug-2023
+1544,1092,Imaging,"$4,649.49",Pending,"November 05, 2024"
+1545,370,Room,"$6,582.96",Overdue,
+1546,1577,Medication,"USD 4,702.41",Overdue,
+1547,341,Consultation,"$2,170.44",Paid,04/15/2025
+1548,1750,Surgery,"USD 2,710.54",pending,04-05-23
+1549,867,Imaging,112,Paid,
+1550,791,Surgery,9514.63455962323,unpaid,07-30-23
+1551,1634,Medication,6292.17,unpaid,
+1552,281,Imaging,20.00,paid,
+1553,802,Consultation,"$7,499.39",PAID,
+1554,1360,Imaging,20.00,Pending,12/06/2024
+1555,428,Consultation,"USD 5,062.01",Pending,2026-01-14
+1556,825,,20,Pending,"June 06, 2023"
+1557,472,Medication,2215.6119761102805,unpaid,"May 09, 2023"
+1558,603,Surgery,7523,PAID,
+1559,845,Surgery,"$7,689.90",Paid,12-06-23
+1560,1442,Surgery,4420.326178411904,Overdue,2023-03-06
+1561,215,Lab Test,"$5,862.39",Overdue,02-Jan-2024
+1562,440,,20,Overdue,
+1563,61,Imaging,5114.999818009994,paid,
+1564,300,Surgery,6052.91,pending,2023-12-16
+1565,462,Surgery,-11209.24,Overdue,
+1566,925,Consultation,"USD 1,630.34",PAID,12/23/2023
+1567,1839,Medication,3548.9084510843336,pending,12-Feb-2023
+1568,1476,Surgery,3734,Pending,12-05-25
+1569,275,Imaging,"USD 5,595.75",unpaid,"September 04, 2023"
+1570,938,Room,"USD 6,141.53",Paid,
+1571,485,Room,6683,pending,07-31-26
+1572,408,Consultation,"USD 6,463.89",PAID,
+1573,567,Room,$20.00,paid,
+1574,658,,20.00,Pending,03/04/2024
+1575,363,Surgery,1956.87,PAID,
+1576,1086,Surgery,3394,unpaid,01-05-23
+1577,539,Lab Test,1660,pending,04-Mar-2024
+1578,561,Lab Test,"$2,120.91",PAID,"April 08, 2024"
+1579,762,Room,"USD 2,491.25",PAID,"June 01, 2024"
+1580,938,Room,"USD 5,232.32",unpaid,
+1581,1113,Room,399,Overdue,
+1582,1311,Room,3266.5166901178222,Pending,08-14-24
+1583,777,Imaging,"USD 3,289.48",pending,
+1584,764,Consultation,"USD 5,164.10",Paid,03/25/2026
+1585,1310,Surgery,"USD 6,985.71",unpaid,22-Nov-2025
+1586,371,Medication,8552.322194364186,unpaid,2024-10-18
+1587,1244,Imaging,1262.0276587356693,pending,05/05/2024
+1588,350,Medication,20.00,PAID,06/09/2026
+1589,99,,"$2,774.22",Pending,12-26-23
+1590,157,Medication,20,Pending,
+1591,102,Room,11703.730727770915,unpaid,
+1592,1183,Imaging,881.36,Overdue,
+1593,1585,Imaging,5192,Paid,11-22-25
+1594,22,Lab Test,6302.20,Paid,
+1595,1490,,4522,paid,
+1596,1150,Room,"USD 9,730.16",pending,
+1597,1366,Surgery,"$2,892.56",unpaid,
+1598,698,Consultation,995.35,Pending,01-Dec-2023
+1599,1138,Room,$840.13,paid,27-Dec-2025
+1600,461,Lab Test,5750,PAID,03-07-24
+1601,499,Medication,"$2,930.61",unpaid,13-Dec-2025
+1602,948,Room,840.53,Overdue,
+1603,1576,,"USD 4,823.92",PAID,"April 27, 2023"
+1604,1490,Lab Test,"USD 5,627.75",PAID,30-May-2024
+1605,978,Consultation,"$4,313.92",pending,11-Oct-2024
+1606,893,Lab Test,6198.789177006822,PAID,
+1607,170,Consultation,3764.30,PAID,05/15/2024
+1608,214,Medication,1719,pending,23-Nov-2023
+1609,183,Imaging,5934.2002145345305,pending,08/18/2025
+1610,1346,Medication,$829.74,PAID,
+1611,1307,Lab Test,113,pending,
+1612,930,Medication,6967.848947601995,paid,
+1613,765,Imaging,2456.46,Overdue,"September 17, 2023"
+1614,759,Room,8497.051728334916,unpaid,"April 02, 2026"
+1615,1547,Lab Test,"$6,069.78",Overdue,
+1616,1638,Room,"$2,228.48",Paid,"February 24, 2024"
+1617,1679,Imaging,"USD 4,958.66",Pending,
+1618,90,Imaging,"$11,085.14",unpaid,01-27-23
+1619,863,Room,"USD 5,762.82",paid,2024-10-24
+1620,1624,,5245.10,PAID,2025-06-16
+1621,1479,Surgery,1715.836779060138,pending,"July 18, 2023"
+1622,443,Lab Test,9033.664088596182,Pending,
+1623,1338,Room,"USD 7,453.81",PAID,04/02/2023
+1624,846,,1743.31,unpaid,2025-09-15
+1625,1038,Medication,9141,Paid,06/05/2024
+1626,1584,Lab Test,"$3,994.25",Pending,09/17/2023
+1627,276,Imaging,979,Pending,07-14-23
+1628,1242,Medication,1704,unpaid,2025-04-29
+1629,470,Surgery,-6133.10,Overdue,
+1630,1218,,$999.50,PAID,09/21/2025
+1631,260,Consultation,$190.65,pending,09/23/2024
+1632,1438,Imaging,109168.83,paid,2026-01-03
+1633,586,Consultation,2631.4603267711623,pending,
+1634,1579,Surgery,"USD 1,480.05",paid,06-13-26
+1635,1361,Medication,,Overdue,08-14-25
+1636,675,Imaging,"$6,250.79",Pending,2026-01-02
+1637,471,,"$4,269.51",pending,09-Feb-2026
+1638,402,Consultation,1953,PAID,
+1639,1731,Imaging,"USD 2,216.46",pending,
+1640,1206,Surgery,3105.0314712159416,Overdue,09/05/2025
+1641,613,Surgery,3276.76,Overdue,04/16/2025
+1642,537,Lab Test,3289,Overdue,2023-11-21
+1643,1309,Imaging,6141,unpaid,2026-07-02
+1644,632,Room,"$4,091.12",Paid,05-15-26
+1645,1539,Lab Test,4179.373029797644,paid,2024-04-01
+1646,1446,Consultation,7780.356061100267,paid,2026-04-15
+1647,1307,Medication,"$9,129.95",pending,2026-05-24
+1648,59,Consultation,20.00,Paid,
+1649,101,Imaging,20,Overdue,
+1650,212,,2451.78,PAID,02/23/2023
+1651,451,Medication,"$5,849.39",unpaid,01/03/2024
+1652,69,Medication,"USD 4,627.96",Paid,2026-02-25
+1653,1764,Room,6662,Overdue,05-14-25
+1654,1450,Medication,2323,unpaid,
+1655,745,,20,unpaid,2026-04-17
+1656,1060,Room,$20.00,PAID,2025-09-24
+1657,287,Consultation,"$5,194.20",Pending,2026-07-16
+1658,925,Consultation,"$6,685.26",pending,05/01/2023
+1659,1212,Lab Test,20,Pending,
+1660,980,Medication,"USD 7,731.97",Overdue,2023-11-11
+1661,1606,Medication,4893.90,Overdue,12/11/2024
+1662,1588,Imaging,"$3,288.73",Pending,12/18/2025
+1663,1580,Room,1619.53,pending,
+1664,1234,Imaging,"$8,273.48",paid,
+1665,1757,Lab Test,6191,paid,
+1666,926,Room,4972,pending,
+1667,22,Consultation,"USD 1,305.79",unpaid,"October 01, 2023"
+1668,1768,,8343,Pending,
+1669,1611,Imaging,"USD 3,591.05",Paid,
+1670,1385,Surgery,"USD 4,397.05",paid,
+1671,1763,,"$3,719.18",Pending,
+1672,1496,,1203.3486061358203,unpaid,2026-05-31
+1673,581,Imaging,"USD -4,459.16",pending,"March 06, 2024"
+1674,259,Lab Test,5590.82,pending,04-16-26
+1675,728,Consultation,108758.88847995669,Paid,
+1676,821,Imaging,4202.229982316932,Paid,12-08-23
+1677,1617,Room,3675.498273130837,Overdue,06/15/2026
+1678,916,Medication,6245,paid,
+1679,605,Medication,2603.176186194183,Overdue,
+1680,1385,Surgery,4179.712891053223,Overdue,2023-01-22
+1681,829,Imaging,,PAID,
+1682,1131,Medication,,pending,22-Apr-2026
+1683,57,Consultation,"USD 1,023.94",Paid,"February 12, 2025"
+1684,305,Surgery,1512.18,PAID,10-04-25
+1685,176,Imaging,4727.570109585735,PAID,
+1686,1654,Imaging,2794.0516601682125,pending,2026-05-24
+1687,1766,Consultation,2754,pending,15-Apr-2023
+1688,1806,Imaging,5312,paid,12-30-25
+1689,1591,Medication,"$6,558.47",unpaid,07/16/2024
+1690,1463,Consultation,"USD 7,075.15",PAID,
+1691,1126,,"$1,662.50",unpaid,31-Jan-2026
+1692,1831,Lab Test,6268.24,PAID,"March 23, 2025"
+1693,1117,Room,"USD 9,754.95",unpaid,01/07/2026
+1694,1046,Surgery,3878,Paid,"July 28, 2023"
+1695,1647,Medication,"$3,280.07",unpaid,2023-09-29
+1696,934,Consultation,"USD 2,654.72",Overdue,"July 24, 2026"
+1697,143,,USD 308.73,pending,03/17/2024
+1698,1172,Consultation,6027,Paid,04/30/2026
+1699,768,Consultation,3293.42,paid,06-20-25
+1700,916,Imaging,"USD 3,050.87",Paid,2024-03-08
+1701,1518,Medication,5562.03,Overdue,04-15-25
+1702,5,Medication,,paid,2023-05-17
+1703,598,Lab Test,"USD 1,697.47",unpaid,04-06-25
+1704,296,Room,1769.1070250586865,Paid,11-26-25
+1705,807,Imaging,1635.93,paid,24-Nov-2023
+1706,963,Imaging,9840.542908393834,paid,"July 06, 2023"
+1707,1605,Consultation,"USD 7,931.44",unpaid,05-13-24
+1708,1502,,"$-5,621.12",paid,11/16/2023
+1709,100,Room,2373.77,pending,"February 18, 2026"
+1710,1759,Surgery,"$2,729.21",Paid,"January 03, 2025"
+1711,809,Consultation,"USD 4,590.31",unpaid,07-Jun-2026
+1712,853,Room,10127.39069965134,paid,
+1713,168,Lab Test,"$4,366.63",paid,
+1714,1542,,5026.476729403776,PAID,
+1715,1743,Surgery,-20.00,Pending,
+1716,67,Imaging,4272.736781890129,PAID,
+1717,352,Imaging,USD 20.00,Paid,"August 31, 2025"
+1718,1809,Medication,2039.02,paid,2026-01-03
+1719,266,,3640.657765219572,paid,
+1720,1599,Consultation,2594,Pending,18-Jul-2023
+1721,1561,,1592.12,PAID,05/29/2025
+1722,376,Medication,,paid,
+1723,1020,,2866.86,pending,"July 30, 2025"
+1724,1002,Surgery,"$2,735.87",paid,10/21/2024
+1725,1751,,3560.8177039601496,pending,02-20-24
+1726,1646,Medication,"$3,336.57",pending,11/06/2023
+1727,1628,Room,7337,Overdue,02-20-24
+1728,1475,,20,Pending,
+1729,425,Medication,4234.92,pending,2026-05-07
+1730,921,Imaging,"USD 3,713.03",unpaid,
+1731,42,,3097,PAID,"January 17, 2024"
+1732,1187,Consultation,"USD 1,382.57",Paid,01/06/2025
+1733,85,Lab Test,3051,Overdue,2025-07-22
+1734,1818,Consultation,20,pending,
+1735,1619,Room,4120.15,paid,"March 02, 2023"
+1736,1453,Surgery,"$4,664.18",PAID,
+1737,1503,,"USD 1,387.79",Pending,25-Mar-2025
+1738,1134,Consultation,"USD 9,322.07",Overdue,"April 07, 2024"
+1739,1609,Imaging,"USD 3,138.67",Overdue,
+1740,4,Imaging,3632.22,PAID,
+1741,732,Imaging,"USD 7,507.34",Pending,05-11-25
+1742,302,Lab Test,9926,paid,"March 24, 2025"
+1743,1744,Lab Test,$129.98,pending,
+1744,1675,,"USD -1,768.51",pending,"October 25, 2025"
+1745,165,Consultation,3192,PAID,
+1746,963,Lab Test,"USD 1,271.38",Overdue,"December 25, 2025"
+1747,959,,"USD 6,038.34",PAID,01-05-26
+1748,1372,Consultation,USD 941.05,unpaid,10-Apr-2026
+1749,1643,Consultation,7299.809490639901,unpaid,09-07-23
+1750,705,Imaging,5371,Pending,08/30/2025
+1751,1489,Consultation,6992,unpaid,
+1752,1070,Medication,$954.49,Pending,05-Mar-2026
+1753,1629,Surgery,2349.52,Overdue,29-Feb-2024
+1754,14,Medication,"$6,193.96",pending,30-Sep-2025
+1755,619,Lab Test,5649.779568501743,Pending,"August 25, 2023"
+1756,1604,Consultation,2639.42,paid,02-May-2026
+1757,947,Medication,3066,pending,02/25/2025
+1758,1234,Room,"USD 2,196.96",Overdue,2025-08-16
+1759,795,Imaging,,PAID,
+1760,897,Imaging,603.98,paid,02-16-25
+1761,424,Consultation,USD -100.35,Pending,2024-09-04
+1762,902,Lab Test,"$6,516.29",Overdue,
+1763,1365,Surgery,2883.79,pending,04/11/2025
+1764,458,Imaging,6953.98,Overdue,01-03-25
+1765,1103,Imaging,"USD 5,287.95",pending,2024-11-01
+1766,886,Surgery,"$4,436.03",Overdue,04-23-25
+1767,603,Room,"USD 1,369.33",paid,04-29-26
+1768,1540,Room,$20.00,unpaid,"April 17, 2024"
+1769,115,,"USD 2,129.27",pending,10/22/2023
+1770,241,Surgery,8095.752222270653,paid,
+1771,528,Imaging,"$6,166.87",Overdue,"January 10, 2023"
+1772,223,Consultation,1849,Overdue,20-Sep-2025
+1773,1267,Room,2163.32,Pending,
+1774,1181,Lab Test,712.7315582285346,paid,
+1775,1798,,20,Overdue,"November 04, 2025"
+1776,262,Imaging,"$3,804.80",PAID,
+1777,327,Medication,"USD 8,675.23",unpaid,
+1778,831,,"$8,712.90",Overdue,2025-10-18
+1779,1104,Imaging,"$5,323.71",Pending,2023-05-30
+1780,1417,Imaging,84599,pending,01/17/2023
+1781,15,Imaging,$20.00,Pending,16-Jan-2024
+1782,1016,Medication,6641.19,pending,07-08-23
+1783,338,Lab Test,"$4,841.65",unpaid,
+1784,370,Surgery,"$2,551.32",pending,18-Jun-2026
+1785,1704,Room,2050.123693063182,unpaid,06-Aug-2023
+1786,104,,5301.309732877527,Pending,
+1787,373,Imaging,1020.1354464585579,Paid,"February 12, 2026"
+1788,392,Imaging,4217.70,pending,2026-02-16
+1789,1888,Surgery,20.00,Paid,11-03-24
+1790,998,Surgery,509277,Overdue,10/12/2023
+1791,1493,Room,"$1,438.86",Overdue,2026-05-12
+1792,421,Room,5445.20,Pending,"July 31, 2024"
+1793,1131,Medication,$20.00,Pending,"October 28, 2025"
+1794,222,Imaging,3010.2405227018494,paid,
+1795,1424,Consultation,"USD 6,153.86",pending,2026-03-10
+1796,1408,Room,6803,Paid,
+1797,924,Imaging,"USD 5,789.86",Overdue,2025-12-16
+1798,1688,Medication,"$3,085.27",paid,24-Feb-2024
+1799,696,,"USD 75,107.35",Paid,"April 22, 2025"
+1800,1710,,266.97,paid,
+1801,1292,,8011.40,unpaid,"July 12, 2024"
+1802,1399,,3810.11,Pending,2025-08-27
+1803,1728,Medication,"USD 4,364.72",paid,2025-10-03
+1804,1506,Imaging,6996.11,Overdue,2023-02-20
+1805,553,Consultation,5260,Pending,11-11-23
+1806,458,,3117.748240707102,paid,07/04/2024
+1807,1851,Lab Test,5733.21,Paid,2025-03-10
+1808,1103,,1632,Paid,
+1809,1603,Lab Test,20,paid,"September 05, 2025"
+1810,384,Lab Test,"USD 7,735.53",Overdue,05/31/2024
+1811,273,Medication,1882,unpaid,05/12/2024
+1812,1167,Medication,"$2,587.13",unpaid,2025-12-24
+1813,1525,Imaging,2851.75,PAID,08-10-24
+1814,909,Consultation,1693,PAID,11-Aug-2024
+1815,326,Lab Test,6804.00,paid,2023-03-04
+1816,478,Room,,paid,
+1817,1578,Lab Test,"USD 2,588.64",Overdue,
+1818,240,Imaging,20,pending,
+1819,207,Room,4411.393446082263,Pending,09/26/2025
+1820,677,Surgery,20,Overdue,
+1821,852,Imaging,"USD 4,198.24",pending,2023-01-29
+1822,956,,7529.54,Pending,
+1823,854,Imaging,"USD 3,693.68",Paid,07/19/2026
+1824,127,Lab Test,"USD 7,118.98",Overdue,"June 15, 2023"
+1825,1494,,20.00,paid,07-02-26
+1826,395,Surgery,9615.62,pending,"October 15, 2025"
+1827,1764,Room,6791.86,paid,24-Jan-2024
+1828,1319,Lab Test,,Pending,2023-03-22
+1829,20,Consultation,1704.816635329208,Overdue,06/12/2026
+1830,295,Medication,1206.4336895163515,Paid,10-21-25
+1831,1238,Room,"USD 3,287.28",paid,02/23/2023
+1832,741,Lab Test,"$7,108.33",PAID,12-Feb-2025
+1833,1469,Lab Test,20,Paid,07/22/2024
+1834,1272,Lab Test,"$3,531.23",pending,
+1835,1428,Room,"USD 5,702.66",Overdue,05-Aug-2023
+1836,744,Medication,6288.05,pending,
+1837,434,,"$5,693.71",Paid,2023-12-28
+1838,917,,20,unpaid,
+1839,1649,Surgery,"USD 6,895.33",PAID,2024-12-22
+1840,1149,Room,"USD 3,701.58",PAID,05-23-24
+1841,1185,,243.21,paid,"July 01, 2023"
+1842,44,Consultation,"$3,427.50",paid,05/16/2024
+1843,1790,Surgery,20.00,paid,12/16/2023
+1844,93,Medication,5234.894069030805,pending,20-Aug-2023
+1845,1410,Surgery,3116.8716003858494,Pending,02/10/2023
+1846,297,Medication,$20.00,paid,
+1847,1708,Imaging,2630,unpaid,10-03-23
+1848,1255,Room,1378,unpaid,08-24-23
+1849,1066,Room,1569.2485431523749,pending,08/14/2023
+1850,814,Medication,20,Paid,2024-08-06
+1851,322,,$20.00,Overdue,
+1852,116,,"$2,810.90",Overdue,2024-05-18
+1853,556,,2294.7482149659186,Pending,
+1854,1038,Consultation,"$6,421.93",Overdue,
+1855,1679,Surgery,1604.65,paid,
+1856,105,Imaging,1919,paid,01-Nov-2024
+1857,1690,Lab Test,2059.28,PAID,07-Aug-2023
+1858,810,Surgery,"USD 2,908.91",Paid,2026-06-16
+1859,784,Surgery,3774,PAID,"May 02, 2024"
+1860,905,Imaging,"USD 2,281.02",unpaid,30-May-2025
+1861,1713,,"$5,213.66",unpaid,
+1862,1156,Consultation,10401,Paid,2025-11-19
+1863,1288,,"$1,023.67",Pending,
+1864,350,,4675.49,Paid,03-03-24
+1865,1065,Surgery,"USD 3,588.58",Pending,
+1866,645,,6641.103597340254,unpaid,25-May-2023
+1867,588,Surgery,4109,unpaid,05/28/2023
+1868,1368,,"USD 1,320.65",paid,
+1869,1375,,$20.00,Pending,07-20-24
+1870,1783,Consultation,"USD 5,331.47",pending,01/18/2026
+1871,11,Surgery,248.59401418934613,PAID,"April 14, 2025"
+1872,763,Room,"USD 7,051.22",Overdue,11-Nov-2023
+1873,1392,Medication,"USD 5,159.58",paid,2025-12-18
+1874,1651,Medication,"USD 3,760.13",Overdue,02/26/2024
+1875,1832,Room,20,Paid,10/04/2023
+1876,1044,Lab Test,"$5,525.97",Paid,2024-05-24
+1877,17,,"USD 8,350.30",PAID,
+1878,1702,,2225,paid,06/19/2026
+1879,1144,Imaging,"USD 1,274.28",Paid,03-20-23
+1880,1251,Room,"USD -3,223.92",paid,10/30/2024
+1881,408,Imaging,"$245,041.34",Pending,01/19/2024
+1882,1281,Room,1906,Pending,
+1883,851,Surgery,"$6,197.59",Overdue,03-May-2024
+1884,1366,,9232,PAID,"May 04, 2026"
+1885,903,Room,4491,PAID,05/06/2024
+1886,431,Imaging,"$2,525.04",pending,04-Sep-2024
+1887,1066,Medication,4820,Overdue,
+1888,718,Consultation,7031.8986890033175,Paid,2025-04-29
+1889,1690,Imaging,3978.90988565605,pending,2025-06-08
+1890,770,Surgery,"USD 4,955.29",Overdue,14-Mar-2026
+1891,1799,Lab Test,5614.298566226878,Paid,"October 19, 2024"
+1892,1825,Lab Test,874,pending,04/23/2024
+1893,407,Consultation,4877.364024228826,paid,
+1894,685,,USD 20.00,unpaid,2024-08-25
+1895,1440,Surgery,"$1,524.71",paid,
+1896,1283,Imaging,"USD 6,936.99",paid,
+1897,1281,Room,6113.11,Overdue,2023-07-10
+1898,1298,,2689.4599693027726,pending,"March 23, 2025"
+1899,982,Consultation,8617.380300337194,pending,"March 28, 2025"
+1900,191,Lab Test,$20.00,pending,
+1901,1248,Room,2884.74,Overdue,
+1902,1865,Medication,4325,Overdue,2023-07-28
+1903,334,Surgery,20.00,Overdue,"August 23, 2025"
+1904,1508,,3027,paid,06-06-23
+1905,16,Lab Test,$126.51,PAID,10-Nov-2025
+1906,274,Room,194.79,PAID,
+1907,1446,Room,2683.3103468904255,pending,"July 05, 2023"
+1908,1005,Lab Test,USD 20.00,Pending,
+1909,1126,Imaging,1076.12,Paid,"June 06, 2026"
+1910,942,Imaging,,Paid,09-Jul-2024
+1911,1631,Surgery,3871.3611403349105,paid,10/28/2025
+1912,774,,"USD 3,813.04",Pending,"December 01, 2024"
+1913,1614,,"$2,454.36",pending,
+1914,1525,Room,"$6,489.34",Paid,2024-04-13
+1915,562,,2612,Pending,07-Jul-2026
+1916,1354,Room,"USD 3,430.76",paid,05-27-24
+1917,181,,$782.00,paid,"January 28, 2026"
+1918,151,,-20.00,PAID,03-Feb-2026
+1919,1712,,3063.9808620697313,pending,02-17-26
+1920,493,Consultation,"USD 2,672.16",PAID,"June 18, 2024"
+1921,1222,Room,"USD 8,629.73",PAID,10-11-24
+1922,1241,Medication,"$5,502.34",pending,"January 21, 2023"
+1923,596,Imaging,"$2,260.64",PAID,03-Jun-2025
+1924,1262,Lab Test,3924.9890742178272,unpaid,
+1925,397,Imaging,,Pending,27-Dec-2025
+1926,999,Lab Test,"$5,050.27",paid,"September 14, 2023"
+1927,570,Room,8506.72,unpaid,"July 02, 2024"
+1928,1438,Surgery,1131.8107423393476,unpaid,17-Feb-2026
+1929,1336,Lab Test,6425.10,pending,03-10-25
+1930,1096,Imaging,2231.3829939976868,unpaid,05-25-25
+1931,1880,Room,4080.85,unpaid,09/09/2024
+1932,1450,Room,"USD 1,826.97",PAID,"February 27, 2023"
+1933,388,,"USD 3,073.98",Paid,2024-06-12
+1934,1121,Medication,-4134.686180836866,Overdue,06-13-26
+1935,488,,5280,PAID,
+1936,611,,3684.071424131973,paid,
+1937,614,Lab Test,20.00,pending,10/10/2023
+1938,381,,3269,paid,06/11/2023
+1939,1197,Imaging,"USD 7,911.20",Paid,"August 30, 2025"
+1940,1672,,-3245.384610591866,Pending,01-13-25
+1941,166,,"$7,995.45",unpaid,11/22/2023
+1942,787,Imaging,3139.41,pending,
+1943,1100,Medication,20.00,unpaid,
+1944,1550,Room,2201,pending,28-Feb-2023
+1945,873,Medication,"$1,824.70",Pending,09-29-25
+1946,628,Surgery,"$2,811.40",PAID,02/18/2025
+1947,1770,Medication,$20.00,pending,2025-06-01
+1948,1460,Room,3473.54,unpaid,02/27/2025
+1949,1256,Room,2515.22,paid,"April 03, 2026"
+1950,60,Consultation,"$7,363.59",Overdue,2023-03-15
+1951,560,,$20.00,Pending,03/20/2026
+1952,1095,Lab Test,4237.006059903944,PAID,
+1953,788,Lab Test,4733.084367852327,Pending,2024-08-17
+1954,1185,Surgery,5824.94,Pending,11/01/2025
+1955,525,,2409.2363695447134,Overdue,
+1956,290,Imaging,"USD 4,162.40",Paid,12-20-25
+1957,999,Medication,"USD 4,559.83",pending,
+1958,1237,Consultation,20,Overdue,06/15/2025
+1959,224,Room,2516.90,paid,09-Apr-2024
+1960,73,Consultation,"$3,402.00",paid,03-06-23
+1961,678,Room,3753.734660352369,paid,05/30/2023
+1962,196,Imaging,3717.02,unpaid,12-18-25
+1963,14,Surgery,"USD 4,812.56",Overdue,03-21-26
+1964,1107,,-9312.814780982488,pending,
+1965,760,Medication,1714,paid,"December 09, 2023"
+1966,748,Room,4643.515317659723,Overdue,07/30/2026
+1967,355,Consultation,7403.91,Overdue,"November 24, 2025"
+1968,807,Medication,20,paid,2026-04-08
+1969,1496,Imaging,"$4,304.39",PAID,"February 15, 2023"
+1970,1179,Consultation,$20.00,PAID,2026-04-06
+1971,1215,Medication,10056.73,paid,"April 13, 2025"
+1972,228,Consultation,"USD 5,066.15",Paid,"November 09, 2024"
+1973,347,Lab Test,4661.271973413081,paid,"July 21, 2024"
+1974,233,Consultation,20,unpaid,"October 24, 2023"
+1975,996,Medication,"$1,986.52",Pending,
+1976,1390,Lab Test,2000.6118242756818,Overdue,07-25-24
+1977,1341,,"$8,799.37",paid,
+1978,1877,Lab Test,,pending,
+1979,1590,Lab Test,20.00,Pending,
+1980,673,,,Overdue,"November 26, 2025"
+1981,1622,Room,20,paid,24-Aug-2024
+1982,1473,,20.00,paid,15-Feb-2024
+1983,538,Surgery,4860.27,paid,05-Jan-2024
+1984,1443,Surgery,"$5,734.31",Overdue,05-27-25
+1985,259,Consultation,"USD -4,876.26",Paid,15-Aug-2025
+1986,292,,9139,Paid,
+1987,1378,Consultation,4606,paid,
+1988,363,Imaging,4010,Paid,
+1989,117,,20,pending,07-01-23
+1990,1536,Imaging,6073,unpaid,
+1991,1090,Consultation,20,Pending,13-Jan-2025
+1992,1014,Medication,9561.11,Pending,08/15/2024
+1993,1454,Medication,"USD 6,112.39",PAID,
+1994,788,,11869.39,pending,"December 13, 2024"
+1995,363,Imaging,4668,Pending,"March 19, 2026"
+1996,145,Surgery,"$6,260.50",PAID,02-22-25
+1997,343,Consultation,"$2,668.49",Pending,04/05/2025
+1998,135,Lab Test,3370.16,Overdue,11-Jul-2023
+1999,160,Consultation,345,Pending,2026-06-08
+2000,469,Surgery,20,paid,
+2001,1609,Surgery,"$4,068.49",Pending,
+2002,1413,Medication,3352.45,unpaid,
+2003,1830,Surgery,$272.08,Overdue,
+2004,1088,Consultation,804,Pending,02/14/2023
+2005,62,Medication,"USD -3,597.41",Pending,
+2006,780,Medication,220.63,Overdue,"March 07, 2026"
+2007,1184,Medication,4569.94,Paid,09-30-24
+2008,751,Room,-314,Paid,04-03-23
+2009,526,Room,"$4,267.56",PAID,03/13/2024
+2010,1044,Room,USD -47.86,Overdue,
+2011,1111,Lab Test,60,Paid,"July 25, 2024"
+2012,1681,Surgery,20,Pending,"April 04, 2025"
+2013,1647,Lab Test,"USD 3,019.16",PAID,"December 05, 2024"
+2014,1444,Consultation,"$7,862.19",PAID,2023-06-05
+2015,1622,Medication,7691.992441748797,PAID,12-11-25
+2016,417,Lab Test,"$4,472.20",Paid,
+2017,109,Lab Test,$20.00,Overdue,10-30-25
+2018,897,Consultation,"USD 6,031.63",paid,11-Jul-2026
+2019,43,Imaging,4177.00,pending,
+2020,934,Lab Test,,pending,"April 29, 2024"
+2021,1262,,7122.098383740982,Overdue,"March 22, 2024"
+2022,285,Lab Test,"$5,346.33",paid,"February 03, 2023"
+2023,1790,Lab Test,9384.65,paid,2025-05-04
+2024,567,Room,USD 20.00,pending,06-Mar-2024
+2025,992,Room,USD 20.00,Overdue,05/17/2024
+2026,706,Surgery,23.06,pending,2025-03-31
+2027,378,Room,"$2,644.94",unpaid,"April 29, 2025"
+2028,757,Medication,8264.52,Overdue,"February 27, 2024"
+2029,528,Medication,"$1,629.22",unpaid,02-22-23
+2030,1435,Medication,"USD 1,693.39",paid,
+2031,690,Room,4751.875800543866,pending,12/13/2023
+2032,25,Lab Test,6029,Overdue,25-Aug-2025
+2033,1779,Room,20,Overdue,10-05-25
+2034,765,Room,6619.14,PAID,05/01/2023
+2035,1678,,1534,Pending,"April 23, 2025"
+2036,701,,3193,paid,
+2037,1628,Imaging,"USD 7,754.79",Overdue,
+2038,364,Medication,2850.67,pending,
+2039,1155,Consultation,20.00,pending,2023-10-17
+2040,10,Imaging,USD 20.00,Paid,
+2041,62,Room,3413,pending,"December 02, 2024"
+2042,632,Room,2497,Pending,12/09/2023
+2043,875,Lab Test,"USD 3,678.42",Overdue,"April 06, 2025"
+2044,1581,,2296.1660569110873,PAID,
+2045,1894,Medication,7224,Paid,13-Jul-2025
+2046,1551,Imaging,"USD 3,574.30",Pending,12-26-25
+2047,1657,Surgery,20,paid,26-Jun-2023
+2048,1036,Imaging,5950,PAID,10-20-23
+2049,345,Medication,9219,Overdue,01-09-24
+2050,1791,Surgery,3964.792943564585,unpaid,21-May-2023
+2051,943,Surgery,"USD 4,197.65",Paid,
+2052,195,,"$1,160.34",Paid,2023-01-30
+2053,163,Surgery,2773,Pending,2025-07-28
+2054,470,Surgery,5008.61,pending,
+2055,1343,,6895,paid,07-Feb-2023
+2056,261,Imaging,"USD 4,838.00",paid,"June 14, 2026"
+2057,1339,Room,8954.122635616925,Pending,
+2058,261,Consultation,"$3,795.41",paid,03-03-26
+2059,1291,Consultation,134.91,unpaid,2024-06-26
+2060,549,Surgery,220.83382763366626,Pending,27-Jun-2024
+2061,642,Surgery,"USD 7,203.24",paid,
+2062,699,Lab Test,,pending,2024-08-25
+2063,178,Room,20,Overdue,
+2064,133,Medication,2871.48,pending,06/26/2024
+2065,656,Consultation,"$2,980.42",Paid,05/28/2023
+2066,1800,Lab Test,"USD 1,245.40",pending,07-May-2026
+2067,837,Room,20,unpaid,07/22/2024
+2068,359,Surgery,"$1,179.19",PAID,27-May-2026
+2069,989,Room,$639.95,Paid,"March 30, 2026"
+2070,215,Room,USD 20.00,paid,05-24-24
+2071,1694,Consultation,5987.20,pending,12-21-23
+2072,986,Consultation,4349,Pending,
+2073,1202,Imaging,2108,Pending,31-Aug-2025
+2074,1621,Lab Test,$20.00,pending,
+2075,1726,,2603,PAID,09-08-24
+2076,1385,Consultation,5063.17,PAID,20-May-2025
+2077,1087,Medication,1292,paid,05/12/2025
+2078,1007,Consultation,$50.10,Pending,07-Sep-2025
+2079,711,,"USD 3,130.93",Pending,16-Mar-2026
+2080,1440,Surgery,4505.21,Pending,07-28-23
+2081,127,,20.00,Paid,
+2082,1756,Consultation,7562.03,unpaid,"November 18, 2025"
+2083,1861,Surgery,1000,paid,2023-11-15
+2084,1536,Consultation,2231.651838058645,Overdue,"February 08, 2026"
+2085,1619,Lab Test,"USD 7,043.81",pending,07/26/2026
+2086,1244,Consultation,3876,unpaid,
+2087,913,Lab Test,6788.27,Overdue,04-11-25
+2088,1457,Consultation,"$8,161.04",Paid,07-Mar-2025
+2089,1891,Consultation,20,pending,05-15-25
+2090,860,Medication,6206.131716148593,Pending,
+2091,1337,Surgery,7476.460562554437,paid,"June 28, 2025"
+2092,342,Surgery,"$2,372.58",Pending,07/30/2024
+2093,1761,Medication,2611.36,Pending,2025-02-11
+2094,578,,USD 20.00,Overdue,2025-05-09
+2095,1203,Consultation,5843.24,Pending,01/21/2025
+2096,118,Imaging,$20.00,Paid,
+2097,516,Surgery,"USD 6,406.42",Overdue,27-Dec-2025
+2098,1760,Surgery,$20.00,unpaid,2025-12-30
+2099,1653,Surgery,7672.07,Overdue,"August 07, 2024"
+2100,1033,Lab Test,"USD 4,688.82",Pending,"March 16, 2024"
+2101,945,,"$6,526.90",unpaid,
+2102,1792,Room,1062,pending,"February 15, 2025"
+2103,258,,20.00,unpaid,"December 05, 2023"
+2104,922,Lab Test,20,pending,04/27/2023
+2105,303,Medication,"$6,773.61",pending,09/07/2023
+2106,796,Medication,"$5,488.82",pending,
+2107,107,,"USD 5,595.24",Overdue,05/22/2023
+2108,193,Consultation,"$4,374.33",Overdue,2023-01-22
+2109,1845,Room,5131.61,Pending,
+2110,1147,Medication,2625,paid,"June 14, 2023"
+2111,1722,Surgery,"USD 4,610.90",paid,
+2112,1439,Consultation,929,paid,
+2113,405,Imaging,2472,PAID,03-02-24
+2114,1710,Medication,12629.99,pending,18-Mar-2023
+2115,1037,Room,3616.7640407979015,pending,
+2116,1252,Lab Test,$20.00,paid,"June 05, 2023"
+2117,1370,Consultation,2274.23,PAID,
+2118,1811,Medication,,pending,
+2119,172,Lab Test,"$3,977.66",paid,11-Jun-2023
+2120,75,Surgery,USD 831.92,unpaid,"September 16, 2023"
+2121,1025,Medication,2864.51,PAID,"August 10, 2023"
+2122,1515,Room,,pending,30-Aug-2024
+2123,544,Imaging,"USD 4,091.55",PAID,2024-10-24
+2124,1244,Room,"USD 1,617.80",paid,01-18-24
+2125,1752,Surgery,4570.64,PAID,"March 05, 2026"
+2126,124,,9346,Pending,17-Oct-2023
+2127,964,Consultation,$36.76,pending,09-04-25
+2128,719,Consultation,567156.5640855408,paid,02-15-25
+2129,79,Room,-20,unpaid,02/10/2025
+2130,851,Surgery,"USD 2,801.69",Paid,
+2131,154,Lab Test,4186.714327851724,unpaid,2025-05-01
+2132,1827,Consultation,1256,Paid,16-Mar-2023
+2133,623,Medication,20.00,Overdue,
+2134,1220,Imaging,"$3,385.88",PAID,2023-04-26
+2135,638,Consultation,8096.35,Pending,
+2136,247,Surgery,3060.6519299498786,Paid,
+2137,581,,"USD 5,175.72",Pending,
+2138,659,Lab Test,"$6,880.64",unpaid,06/27/2023
+2139,1223,Medication,10914.42,pending,
+2140,1191,Medication,343.1370910795263,Paid,29-Jul-2025
+2141,1294,Consultation,653,paid,"June 16, 2023"
+2142,1501,Medication,"$2,623.30",paid,12-31-23
+2143,698,Room,5346.309915062948,Overdue,
+2144,801,Room,$20.00,paid,"March 24, 2024"
+2145,1212,Consultation,5461,unpaid,09-22-25
+2146,1337,,"$197,239.61",pending,
+2147,327,Room,1898,Paid,04/14/2026
+2148,641,Medication,4776.53,paid,27-Oct-2025
+2149,1620,Room,"USD 6,168.95",Pending,2025-05-30
+2150,224,Consultation,"$6,584.07",Pending,
+2151,1825,,"$3,544.29",pending,2024-02-22
+2152,466,,,paid,21-Jan-2023
+2153,1235,Consultation,4364.97,PAID,12-Dec-2025
+2154,615,Imaging,7193.5918419395875,Paid,"January 26, 2025"
+2155,1026,Consultation,"USD 4,643.65",pending,"February 02, 2025"
+2156,1804,Lab Test,5435.6698475687,PAID,
+2157,22,Imaging,"USD 6,177.98",PAID,22-Apr-2023
+2158,1823,Surgery,"$9,375.69",Overdue,2024-05-05
+2159,1827,Imaging,1742.5554209920524,pending,17-Aug-2024
+2160,304,Lab Test,8377.13,paid,2026-07-27
+2161,1479,Medication,10913.299338742934,Overdue,02-May-2024
+2162,588,Room,1934,unpaid,04-13-26
+2163,163,Room,2849.6295682495474,PAID,"February 10, 2026"
+2164,987,Medication,2215,Pending,2026-01-27
+2165,1764,,"$5,470.67",Pending,03-26-24
+2166,864,,20,paid,
+2167,833,Lab Test,2002,Pending,16-Apr-2024
+2168,1229,,2679,paid,02-09-24
+2169,1042,Surgery,2416.716930392402,pending,2025-08-18
+2170,1231,Lab Test,"USD -2,386.51",paid,06-20-25
+2171,516,,"$2,032.22",paid,2026-05-17
+2172,1373,Lab Test,"$5,832.16",Paid,"August 25, 2025"
+2173,646,Imaging,5114.732656700886,Pending,
+2174,1576,Room,"$8,610.20",unpaid,"July 09, 2025"
+2175,1587,Consultation,"$5,839.80",PAID,02/09/2023
+2176,417,Imaging,$207.23,unpaid,2024-04-27
+2177,1057,Consultation,2990,PAID,
+2178,674,Medication,2671.30,PAID,2024-12-07
+2179,1177,Lab Test,4265.71,Overdue,2025-06-25
+2180,751,Imaging,6779.7489187321335,unpaid,08-29-24
+2181,838,Surgery,"$4,057.51",paid,02-14-26
+2182,1427,Surgery,4065.48,Paid,2026-02-08
+2183,587,Medication,"USD 3,530.13",unpaid,
+2184,775,Surgery,5931.751970237827,Overdue,"September 03, 2024"
+2185,454,Room,1793.28,pending,23-Dec-2023
+2186,1698,Room,,Overdue,03-31-23
+2187,633,Surgery,"USD 5,433.74",Overdue,"November 25, 2025"
+2188,1164,Medication,"$4,625.50",Pending,"January 03, 2026"
+2189,233,Room,"$7,470.25",unpaid,08/21/2025
+2190,223,Lab Test,20,Pending,07/17/2024
+2191,1894,Lab Test,"USD 3,198.95",Overdue,"October 25, 2025"
+2192,1493,Surgery,-3820.14,PAID,13-Sep-2023
+2193,74,Imaging,20.00,paid,2024-10-28
+2194,94,Consultation,"USD 3,240.21",Paid,06/03/2023
+2195,636,Medication,7061,Overdue,
+2196,1798,Consultation,"USD 9,758.34",PAID,06-04-25
+2197,1280,,6447.22,Overdue,02-16-23
+2198,1453,Surgery,2527,PAID,10-Jun-2026
+2199,1406,Imaging,7285,pending,25-Mar-2023
+2200,648,Consultation,6234,PAID,"July 20, 2026"

@@ -1,0 +1,2201 @@
+diagnosis_id,admission_id,icd_code,diagnosis_description,severity
+1,1590,"S72.001A, K21.9",Like movie enjoy.,
+2,1557,M54.5 ,Station to pass between.,Critical
+3,803,R51,Toward course analysis.,Mild
+4,641,M54-5,Industry around idea most.,SEVERE
+5,1612,F32-9,Half response single consumer.,
+6,1140,N39.0 ,Building after stop.,
+7,845,n39.0,Apply read tonight future.,Mild
+8,1357,F32.9,State weight call leg.,moderate
+9,484, J45.909,Value reason.,mild
+10,1793,"j45.909, s72.001a",Choice traditional trip produce.,mild
+11,29,C50911,Part either short sea.,Mild
+12,143, J45.909,Today high indeed level.,
+13,542, C50.911,In tax build.,Severe
+14,959,F32-9,Research figure admit.,SEVERE
+15,1382,R51,world well,moderate
+16,1215,s72.001a,Student body.,
+17,435,M54.5,Enjoy language even rule.,Critical
+18,1697,E11-9,Serious drive.,Mild
+19,340,F32.9,task could,Critical
+20,408, C50.911,Where chair suggest.,Severe
+21,55,E119,Ready development into side clearly.,moderate
+22,1718, N39.0,That decide dog.,moderate
+23,886,f32.9,And garden budget management.,Critical
+24,240,M545,Left yourself your join.,SEVERE
+25,1744,E119,Recognize anyone.,mild
+26,1000," M54.5, E11.9 ",after very; have piece,Severe
+27,1583,N39-0,System but.,moderate
+28,791,"k21.9,  S72.001A",Class rule matter sell.,Mild
+29,1788,M545,Democratic west whatever meet official.,Critical
+30,636,K219,Argue house open.,Mild
+31,1207," S72.001A, K219",White time beat floor.,moderate
+32,414,"I10, s72.001a",Plan put answer affect.,mild
+33,25, F32.9,Have sign leave better.,Mild
+34,1117,J45.909,road difference,Mild
+35,1315, F32.9,Meeting several.,Critical
+36,1453,N39.0 ,Career court approach score exactly.,SEVERE
+37,977,m54.5,Hold usually floor.,Mild
+38,31,C50.911,Property piece.,
+39,1601,J45-909,Each happen.,Critical
+40,543,J45.909,System near final.,Severe
+41,1422,f32.9,Difficult week science yard law.,SEVERE
+42,418,"J45909, C50.911 ",Like special.,Critical
+43,879,N390,Economic subject maintain also.,
+44,923,M545,Instead cover.,Critical
+45,983,R51,Generation so.,mild
+46,1219,R51,the other,mild
+47,1795,f32.9,message beautiful,SEVERE
+48,115,"S72.001A , K21-9",List do phone.,
+49,1893,"K21.9, E11-9",Choose hold positive lose finish.,moderate
+50,315,"E11.9 , C50.911",Painting pass a receive feel.,Mild
+51,1838,j45.909,Its star action wide.,SEVERE
+52,1042,"C50.911,  S72.001A",Idea subject be say.,mild
+53,203,S72-001A,Cost officer tell relationship would.,mild
+54,1407,K21.9,form morning,moderate
+55,1468,J45.909,Fight guess speak against.,Severe
+56,169,S72-001A,Focus write reality cup.,Mild
+57,325, J45.909,Official word care.,Severe
+58,1060,M54-5,Option write behind rather build.,mild
+59,662," R51, F329",Floor house it economy.,
+60,814,R51,Process sometimes where view.,
+61,685," I10, C50.911 ",Common indeed still.,
+62,1467,S72.001A,Through of check similar more.,Severe
+63,980,"K21.9 , R51 ",Approach cup strategy.,
+64,1709,"S72.001A, I10",Arrive reflect necessary least if.,
+65,456,"K21.9 , e11.9",Effect face best.,Mild
+66,1291,S72-001A,Medical girl.,Mild
+67,1289,C50-911,Face newspaper national.,Critical
+68,1313, J45.909,Throw street.,
+69,265,I10,Key write very.,Mild
+70,168,S72001A,Media decide another on.,Critical
+71,1596,k21.9,Special case whatever bad news.,mild
+72,708,E11-9,Product beat wind later.,Severe
+73,1238,E11.9,Budget difficult.,moderate
+74,1590, N39.0,Company who.,Critical
+75,1561, S72.001A,The join marriage floor.,SEVERE
+76,506,J45.909 ,Black phone at.,Mild
+77,1326,K21.9 ,Police accept society.,Severe
+78,475,"C50-911, I10",Seem theory.,moderate
+79,270,J45909,Direction arrive.,Mild
+80,1340,"C50-911, J45.909",Return everybody natural.,
+81,122,N390,Effort account.,Critical
+82,28,I10 ,Risk today.,Critical
+83,349,C50911,Claim great player ten they.,Mild
+84,1588,C50.911,Change should voice entire economic.,SEVERE
+85,190,"I10 , R51",Represent week focus away.,moderate
+86,1337,"I10 ,  N39.0",International of better.,mild
+87,559,"N390, E11.9 ",Season cultural treatment want perform.,mild
+88,1569,"J45.909 , S72-001A",Finally this us picture.,
+89,1680,C50-911,Bit middle score reach owner.,Critical
+90,963,i10,Senior tend small development mission.,
+91,719,m54.5,Successful heart instead.,moderate
+92,189,R51 ,Like play single her thought.,
+93,656, R51,Help in pay.,Critical
+94,1642,K21.9 ,His suffer such.,mild
+95,38,e11.9,Rock within thank.,Critical
+96,1248, F32.9,represent agreement,SEVERE
+97,330,"F32.9 , R51",Republican this; morning task,SEVERE
+98,1224,E119,Receive heavy lay toward.,Severe
+99,1728,K21.9 ,Unit safe he.,mild
+100,803,e11.9,Last professional floor training less.,mild
+101,712," K21.9, E11-9",Lot reality society phone.,SEVERE
+102,630,K21.9,Always left.,moderate
+103,1080,n39.0,Run in.,
+104,1354,n39.0,Court room sister.,Severe
+105,1097,F32.9 ,Study difference draw.,Severe
+106,1050,k21.9,Sign reality unit rest.,mild
+107,109,F32.9,Material matter staff large.,SEVERE
+108,1295,E11.9 ,Early standard toward happy.,Mild
+109,1375,S72.001A ,Able sea grow ball.,Mild
+110,889,r51,Yet voice career eat.,Critical
+111,300,E11.9,Point method.,Mild
+112,239, C50.911,Quite on sometimes meet.,moderate
+113,783, E11.9,Work work.,Critical
+114,948,C50-911,Open stage four.,moderate
+115,527,"C50.911 , E11-9",Huge series area mission.,Mild
+116,1855, M54.5,Marriage raise just.,
+117,1585,M54-5,Rise strategy public situation act.,moderate
+118,766,R51,Could production bar.,Severe
+119,953,N39-0,Different fill person.,SEVERE
+120,1809,"J45.909 , E119",Step financial sure able national.,Critical
+121,1621,"R51, F32.9 ",Must however buy.,mild
+122,1034," I10, M54-5",Senior citizen participant piece.,SEVERE
+123,1030,C50.911,Help eight institution store wind.,Mild
+124,871,J45.909 ,Wide economy.,mild
+125,770, R51,Value piece single sign.,Critical
+126,497,"R51,  E11.9",Condition action parent clearly.,
+127,1013, E11.9,red mind,Mild
+128,612, K21.9,Bar require.,mild
+129,1846,I10,Suggest head table.,Mild
+130,1421,N390,Large as tend baby.,
+131,1337,J45.909 ,Budget book environment four.,Mild
+132,130,"S72.001A , K21.9 ",Occur out respond and special.,Mild
+133,1069,J45.909 ,Term nearly property against common.,
+134,241,"c50.911, N39-0",Bit new possible.,Critical
+135,535,"C50.911 , M54.5",Finish course.,SEVERE
+136,377,C50.911,His test plant.,SEVERE
+137,1395,i10,Draw bed with tonight.,mild
+138,1489,s72.001a,Treat everything structure.,
+139,1671,N390,Hair foreign southern consumer.,Critical
+140,1330,N39-0,Teacher value future.,Mild
+141,320,"C50-911, n39.0",Avoid soldier sense second beautiful.,Critical
+142,1784,I10 ,Image age cultural customer.,moderate
+143,1132,J45.909,music its,Mild
+144,459,c50.911,senior foot,moderate
+145,1310,R51,Mr instead,SEVERE
+146,174,S72001A,Affect land far decade.,Critical
+147,38, N39.0,Tonight first prepare.,mild
+148,1694,r51,Work because.,mild
+149,345,"E11.9, s72.001a",Discuss employee after hotel.,
+150,1559,C50911,Party such personal question.,Critical
+151,1568, N39.0,Medical between suffer enter.,Critical
+152,1220,F32.9,Someone change way.,Severe
+153,30,"E11.9 ,  M54.5",Natural item side.,mild
+154,1032,r51,Rate first.,Critical
+155,707,r51,True number protect cultural.,Severe
+156,1111,I10,Same away minute always.,mild
+157,1188,N39.0,Voice out over election.,mild
+158,593,c50.911,sign international,SEVERE
+159,1057,"S72.001A , j45.909",Better toward certain lay.,Mild
+160,46,J45.909,Alone peace.,moderate
+161,1697,N390,Billion common she year sing.,
+162,1406,E11.9,Whole enter line.,Severe
+163,1630,"S72-001A, N39.0 ",Run night.,Mild
+164,1476, M54.5,Song positive gun upon believe.,mild
+165,1036,I10,identify town,
+166,1527,K219,Dream put walk.,mild
+167,1155,j45.909,Stand song camera.,Critical
+168,1619,"I10, N39.0",You care need guess section.,Mild
+169,162," R51, S72001A",Book reason treat.,Mild
+170,613,"E11.9 , c50.911",Remain without sea.,moderate
+171,1718,I10 ,Memory season significant.,SEVERE
+172,953,S72.001A,This into.,mild
+173,408,F32-9,Serve both deep.,SEVERE
+174,993,R51,Color hair increase now management.,Mild
+175,105,R51,Business resource join man.,moderate
+176,1183,i10,Believe cell.,
+177,1214,J45.909,Down watch reflect.,mild
+178,1098,"e11.9, I10",But rule guess bank health.,SEVERE
+179,551,I10 ,It Republican myself leave.,Mild
+180,30, K21.9,certain serious,
+181,973,M54-5,Word recently plant.,Mild
+182,285," K21.9, M54-5",Responsibility young reality.,Mild
+183,208,"N390,  K21.9",Effect entire land market series.,Mild
+184,113,J45.909 ,Nearly mother particular community.,mild
+185,1299,"E11.9,  R51",Practice face history claim true.,moderate
+186,1364,E11.9 ,Create candidate major deep.,Critical
+187,1635, E11.9,Table expect term whether.,SEVERE
+188,332,M54.5 ,There center respond design.,mild
+189,1678,"n39.0, j45.909",When edge task.,Severe
+190,67,S72.001A,Laugh that rise.,mild
+191,16,E119,Mention bad future bit.,Critical
+192,135,E11-9,Yourself value sing walk.,mild
+193,1682,C50-911,Evidence girl account election executive.,Severe
+194,1255,"r51, E119",Kind fine.,SEVERE
+195,148,N39.0 ,Especially about leader.,SEVERE
+196,1747,F32.9,Property almost reality.,mild
+197,1554," N39.0, K21-9",Sense describe often.,Mild
+198,542,F32-9,Campaign federal environmental Mrs discussion.,Critical
+199,1522,C50.911,Budget wear hard try.,
+200,1072,"F32-9, C50.911",some oil; reach save,Critical
+201,1746," E11.9,  C50.911",Last fish speak management response.,mild
+202,28,"I10, s72.001a",still camera; six fund,Mild
+203,885,"R51 , n39.0",Agree into concern social.,SEVERE
+204,323,K219,Billion investment.,Mild
+205,662, R51,Cost feeling process.,mild
+206,649, C50.911,Kitchen by partner expect.,mild
+207,743,K21-9,Close military once can.,mild
+208,1896,j45.909,Give understand.,Mild
+209,1599,"M54.5, F329",try something; reveal resource,SEVERE
+210,496, M54.5,Accept seem near.,Mild
+211,274,K21.9 ,Team nice.,mild
+212,1173,m54.5,Meet again.,Mild
+213,145, F32.9,Political table order method.,Mild
+214,677,K21-9,Commercial along still.,moderate
+215,477,M54.5 ,Computer boy position soon.,
+216,1645,R51,Should crime generation.,
+217,182,N39-0,Make bank anyone.,Severe
+218,845,M54.5 ,Majority sing candidate.,SEVERE
+219,830,E11-9,Action firm age somebody trial.,Severe
+220,1032,M54-5,condition measure,moderate
+221,1661,J45-909,No something such study occur.,SEVERE
+222,1846,R51,Stock too easy small reality.,SEVERE
+223,1357,"c50.911, s72.001a",Up collection smile.,mild
+224,148,J45-909,Condition color any.,Mild
+225,140,R51,Talk life.,Mild
+226,1409,R51,Actually loss.,Severe
+227,829," S72.001A, N39.0 ",Bit black girl to my.,Critical
+228,252,I10 ,Family add member.,
+229,580,K21.9 ,Someone hard office western anyone.,SEVERE
+230,439," N39.0, S72.001A",Bring group sit cell.,moderate
+231,1104,S72.001A,Indicate himself animal white on.,moderate
+232,750,S72001A,Whom face exactly body.,SEVERE
+233,388,J45.909,Body yeah together doctor.,Critical
+234,1430,C50.911,find there,Mild
+235,1485,J45.909,Result easy call gas.,
+236,885,n39.0,Senior certainly.,Mild
+237,1178,m54.5,Office media miss data set.,Severe
+238,314, R51,Worry use reach.,moderate
+239,459,R51,now will,Mild
+240,249, M54.5,Pick avoid fine vote.,Critical
+241,1681,j45.909,Speak rule note.,Severe
+242,888,n39.0,Pull type organization today.,SEVERE
+243,179,"K21.9,  J45.909",Bank ok keep thank.,SEVERE
+244,180,J45909,Appear life because speech.,Severe
+245,1838,C50.911,Discussion country.,
+246,1097,K219,Spring total perhaps boy.,SEVERE
+247,824,R51,Conference entire whatever send.,mild
+248,1495,S72.001A,Health mouth.,Severe
+249,1791,J45.909 ,Population its easy upon work.,SEVERE
+250,1042,F32.9,Project my argue.,mild
+251,135,"N39.0 ,  S72.001A",Ask fight.,moderate
+252,1458,J45.909,Both tonight.,Critical
+253,460,f32.9,Service per full either remember.,mild
+254,218,R51,building price,SEVERE
+255,1017,"M54.5, R51",Rise hit provide.,moderate
+256,1407,"e11.9,  J45.909",government buy; maybe describe,Critical
+257,116,F32.9,Hour hope figure.,Severe
+258,647,E11.9 ,Everything because smile.,Severe
+259,811,"F329, R51",Age share a.,
+260,1698,F329,Note around.,Critical
+261,1393,k21.9,Stay above.,SEVERE
+262,559,"K21.9 ,  N39.0",Easy clearly event even.,
+263,219,f32.9,His significant whole.,Severe
+264,864,"m54.5, I10",Statement fire program part prevent.,Critical
+265,1424,"S72.001A, M54.5",Politics main president.,moderate
+266,1104,S72001A,Teach assume late both.,Mild
+267,801, K21.9,Their husband newspaper.,
+268,1530,"R51, I10",street amount; wait put,Severe
+269,1715,f32.9,Especially own either.,SEVERE
+270,623,m54.5,Daughter window exist evening modern.,mild
+271,1308,"E119, C50.911",There almost accept only husband.,Critical
+272,373,"J45.909 , N39.0",Behavior movie democratic various yeah.,mild
+273,134,E119,Beat like where.,
+274,530,F32-9,Hope his admit.,Critical
+275,240,I10 ,Remain land able.,moderate
+276,932,m54.5,Stand note pretty issue after.,Mild
+277,1813,C50.911 ,Art language.,mild
+278,319,"K21-9, s72.001a",art parent; book letter,moderate
+279,735, M54.5,Heart better source yeah painting.,
+280,766,"M54-5, S72-001A",Music foreign.,mild
+281,128," K21.9,  I10",Eye even real require.,Critical
+282,670, F32.9,Order be hair.,Severe
+283,106,R51,History response eight north.,Critical
+284,595,K219,Eight left member.,mild
+285,767,M545,Shoulder improve nature.,Severe
+286,887,M545,Account physical something.,mild
+287,554,S72001A,Their year relate public compare.,
+288,303,"C50.911,  R51",Our always.,Critical
+289,937,K21.9,team discover,Critical
+290,1627," K21.9,  E11.9",Make simply.,Mild
+291,484," I10, S72001A",Less interest economic.,Severe
+292,305,N39.0,Force truth name.,Severe
+293,338, I10,Positive respond.,Mild
+294,1585,K21-9,Practice close key industry third.,SEVERE
+295,1499,J45-909,Nation last.,SEVERE
+296,638,"M54.5, C50-911",Teacher find enjoy life.,Severe
+297,1373,J45.909 ,Article thank.,mild
+298,208," R51, E11-9",Source generation kitchen.,Mild
+299,676,M54-5,Firm begin full fear.,Mild
+300,484,"M54-5, S72.001A ",Nation something key professor.,
+301,129,M54.5 ,Because hospital effect take.,moderate
+302,1461,N390,Adult suddenly worry process enough.,moderate
+303,83,f32.9,Whatever friend us feel task.,SEVERE
+304,1716,E11.9 ,Color sea hear stock.,Severe
+305,1039,E119,Glass necessary stay lead.,SEVERE
+306,32,"C50.911, R51",Some wish soldier.,Critical
+307,1616,"S72001A, N390",Leader idea.,Critical
+308,1415, N39.0,Magazine reduce suggest popular.,moderate
+309,1091," C50.911, N39.0",Add successful billion.,Mild
+310,31,"f32.9, K21.9",Lose order across TV.,
+311,1363,C50.911 ,Situation assume your everyone.,moderate
+312,1291,"k21.9, J45909",Somebody join.,
+313,1728,S72001A,Itself force put.,Critical
+314,1305,"e11.9, M54.5 ",Instead memory themselves notice yeah.,Critical
+315,854, R51,Build simply indeed deal.,Mild
+316,1247,M54.5 ,Position group tough ability leave.,mild
+317,473,J45.909 ,When community indicate from attack.,Critical
+318,446,S72.001A,Camera wide better.,Severe
+319,1597,N390,Pretty employee carry laugh.,Severe
+320,243,M54.5 ,Bank would.,
+321,773,C50-911,Campaign dark simple car physical.,mild
+322,1843,K21.9 ,Appear food.,Mild
+323,1241,C50.911 ,Amount stop thank.,Mild
+324,995,c50.911,Likely final sit behind.,SEVERE
+325,14,"i10,  R51",Detail both back idea.,moderate
+326,720, I10,Detail sure concern subject.,Critical
+327,924,"s72.001a, I10",single one; upon magazine,moderate
+328,7,r51,Cover blood meeting myself.,mild
+329,1255,K21.9,Down explain character.,moderate
+330,836," K21.9, E119",Change region various increase.,Mild
+331,500,"S72.001A, I10",Week level as himself.,mild
+332,957,F32.9 ,Decide another yes claim its.,
+333,476,E11.9,Require message letter believe choose.,moderate
+334,716,"j45.909, m54.5",Story statement.,Severe
+335,234,M54.5,From enjoy speech pull.,Severe
+336,858,C50.911 ,Way send beyond.,
+337,1128,R51,Name couple.,mild
+338,589,j45.909,Face talk back.,moderate
+339,319,n39.0,Require or fight year remember.,moderate
+340,345,R51 ,Hand list join hold old.,mild
+341,984,R51,seek however,SEVERE
+342,471,"E11-9, M54-5",Gas in street.,mild
+343,1735," S72.001A, E11-9",Magazine seek.,SEVERE
+344,1049,"r51, M54.5 ",Direction window.,mild
+345,617,r51,Reality business woman know.,Mild
+346,649, I10,husband guy,Mild
+347,1677,F32.9,Return common yes another candidate.,moderate
+348,1737, M54.5,final could,Severe
+349,1352,C50911,Discuss where before.,
+350,1572,K21.9 ,Find write product cover.,
+351,91,i10,Trouble specific performance later.,Critical
+352,681,E11.9,Truth at first.,Critical
+353,145,"K21.9, e11.9",Class sell across soldier past.,mild
+354,1544," J45.909, I10",Defense area speech investment either.,Severe
+355,567,S72.001A,Plant research.,SEVERE
+356,302,C50.911,Road behavior.,moderate
+357,1819,K219,wife song,Critical
+358,1886,"F32.9, K219",Avoid back partner.,Critical
+359,1240,R51,Air race.,Severe
+360,178,M54.5,Hot answer former.,SEVERE
+361,377,i10,Find future.,mild
+362,1506,J45-909,Together movement hundred get.,mild
+363,497,r51,Customer success.,Critical
+364,341, R51,Decision rate consider least.,Critical
+365,1171,f32.9,Discover off consumer over coach.,Severe
+366,906,E11-9,Consider environmental name.,moderate
+367,1798, M54.5,Man young.,Critical
+368,26,N39-0,Stage represent ground list human.,SEVERE
+369,1891,F32.9 ,Degree good other.,Severe
+370,133,"J45-909, R51",Never beyond interest.,Critical
+371,1184,J45.909 ,Coach prevent.,SEVERE
+372,892, K21.9,Garden door law.,moderate
+373,1810, C50.911,party score,moderate
+374,26,e11.9,We image.,
+375,1602,M545,Enter southern name we newspaper.,SEVERE
+376,411,C50-911,Clear poor entire.,Mild
+377,1170,S72-001A,experience protect,SEVERE
+378,555,F329,Sometimes everything smile property few.,SEVERE
+379,756,N39.0 ,Moment size house.,
+380,1423,e11.9,president strong,mild
+381,1620,c50.911,Feeling forget record.,mild
+382,608,N39.0,Brother happy cell.,Severe
+383,1321,c50.911,Behavior car responsibility look detail.,Critical
+384,402,"C50.911, K21.9",Be doctor movement key size.,Mild
+385,1843,"S72.001A, r51",Boy she deep over.,
+386,528,"K21-9, c50.911",Enough science week turn.,Critical
+387,1687," C50.911,  F32.9",Right sing structure kid.,Critical
+388,1025,"C50.911 ,  R51",Station soldier.,moderate
+389,1025,c50.911,Police project art per.,Critical
+390,257,M545,No drop particularly right.,moderate
+391,1377,"E11.9 ,  N39.0",Hundred house anything.,SEVERE
+392,642,"N39.0, S72.001A",Gas water deep break.,Mild
+393,629,r51,Beautiful process policy weight near.,SEVERE
+394,1005,R51,Military range statement.,mild
+395,1679,E11.9,Subject decision truth fly kind.,Critical
+396,345," E11.9, R51 ",Matter mother vote fund guy.,
+397,1079,j45.909,Meeting generation range enter.,SEVERE
+398,1226,N390,Leave maybe house.,Severe
+399,365,j45.909,Claim light voice send.,Severe
+400,185," N39.0, K21-9",Push then concern.,
+401,1597, J45.909,drug television,mild
+402,164,K219,Stock when figure the.,mild
+403,1272, F32.9,it trouble,SEVERE
+404,831,"J45.909 , r51",Bar suffer environmental owner.,Mild
+405,1466, C50.911,Data alone fast his.,SEVERE
+406,906,k21.9,Each energy food.,moderate
+407,1488,c50.911,Son become pretty cause.,
+408,231,J45.909,Wind son positive me nice.,Critical
+409,240,"C50-911, K21.9 ",Bad will where.,Critical
+410,534,S72001A,Each network minute Republican agency.,Critical
+411,1335,"N39.0, i10",Reduce president continue Republican close.,Mild
+412,534,C50.911,Theory speak interview.,mild
+413,748,r51,Just star trouble quickly that.,mild
+414,1131,S72.001A,Recent city clearly.,
+415,127,j45.909,Large art us program.,SEVERE
+416,1209,m54.5,War production maintain foreign system.,Mild
+417,1447,F32-9,partner reason,Severe
+418,602,e11.9,Continue program our option.,Critical
+419,1008,C50.911 ,Center design.,Critical
+420,1645,E11.9,True appear class develop.,Mild
+421,175,e11.9,It election involve.,moderate
+422,327,n39.0,Let international play.,moderate
+423,1477,N39.0 ,Fear age picture environmental.,
+424,818,J45-909,Contain available road.,SEVERE
+425,1749,i10,Weight senior management affect.,mild
+426,644,"j45.909,  C50.911",Heart wonder clear however.,
+427,571,M54-5,Style these goal a hold.,
+428,102," E11.9, R51",Expect happen good mission decade.,Mild
+429,196,E11.9,Approach city world me.,
+430,1088,F329,Office whether oil soldier step.,moderate
+431,700,I10,Room Republican theory measure more.,moderate
+432,318,c50.911,All plan.,
+433,558,K219,Wait threat rich morning.,Mild
+434,654,S72.001A,Western safe allow.,
+435,539,"I10 ,  N39.0",Produce section interesting.,mild
+436,1750, K21.9,Test she it.,
+437,545,S72.001A ,Present adult point.,moderate
+438,1266,"S72-001A, E11.9 ",Treatment relate to and.,Severe
+439,1256,E119,reason various,Severe
+440,1620,K219,Apply power family skill.,moderate
+441,366,s72.001a,Now yet own kitchen.,SEVERE
+442,1684,F32-9,Mention bar use meet one.,mild
+443,1328,R51 ,Sign agent grow enter.,Critical
+444,490,"C50.911 , E11.9",News language executive.,moderate
+445,1201,"M54.5, I10",Final should.,
+446,1698,K21.9,Whose employee quite teacher.,
+447,640,R51,Leg spring service suggest back.,
+448,234, R51,Particular store card boy.,moderate
+449,610,K21.9,Lay should almost.,SEVERE
+450,311,S72.001A ,Huge model.,Critical
+451,609,"S72-001A,  F32.9",Final local.,
+452,29, J45.909,Ready discover sit reality.,SEVERE
+453,500,K21.9,Finally simple others fight tough.,mild
+454,27,e11.9,Control west may catch these.,moderate
+455,833,n39.0,Make success everything item.,moderate
+456,563,S72001A,Single evidence impact.,
+457,1884,"K219, M54.5",Shake key gas information.,Severe
+458,497,n39.0,Big fast however president.,mild
+459,632,j45.909,Behind if.,moderate
+460,981,"e11.9, M54.5",Hard specific wrong catch audience.,mild
+461,842,S72.001A ,Brother mission feeling natural.,SEVERE
+462,1282,n39.0,Image easy rule daughter.,mild
+463,869,"M54.5, I10",Because but bank close.,mild
+464,1642, C50.911,Model really size occur significant.,Mild
+465,607,"M54.5 , n39.0",expect ball; argue become,
+466,1686,C50.911 ,Score animal.,Severe
+467,447,C50911,Positive speech.,
+468,1654,m54.5,Election nice yet rather.,moderate
+469,1392,M545,Job yes thank ever can.,Critical
+470,1874,K21-9,Argue school common focus.,mild
+471,329,K21.9,Child task local across why.,
+472,970,F329,Amount Congress military skill.,mild
+473,1316,"R51 ,  S72.001A",Especially cover really clear.,mild
+474,1534,N39.0 ,Condition finally left.,Critical
+475,1516,i10,History there picture.,Severe
+476,464,"E119, N39.0 ",Huge job personal.,
+477,685,i10,Low recognize.,moderate
+478,1103," I10, K219",Learn capital senior dog break.,Mild
+479,1337, J45.909,Possible with meeting improve realize.,Mild
+480,70,E11-9,Still few run.,Mild
+481,706,K21-9,Discover keep growth threat.,moderate
+482,209,"K21-9, N39.0",Common throw after cut message.,
+483,224,F329,Hope tax maybe what.,SEVERE
+484,1006,F32-9,Field ability type late customer.,SEVERE
+485,853,S72.001A ,Probably need traditional.,Severe
+486,1414,S72001A,Peace fast range.,mild
+487,306,N39-0,resource upon,Mild
+488,46,F32-9,Space leader area.,mild
+489,939,"F32.9, i10",Lay bank doctor.,mild
+490,823,R51,Plan coach thus adult.,Critical
+491,1595,"C50.911, K21-9",Again music son can.,
+492,1744,"F32.9, R51 ",Chair when administration radio common.,moderate
+493,416, J45.909,Movie instead loss society.,Critical
+494,1564,"J45-909,  I10",Personal instead place.,moderate
+495,1520,"N39.0 , M54-5",Above challenge Congress.,moderate
+496,203,I10,Building method billion.,mild
+497,293,r51,price against,Critical
+498,516,"R51, S72-001A",Some floor movie.,Mild
+499,533,M545,Similar toward response.,Mild
+500,448,"K21-9,  F32.9",Direction manager different.,SEVERE
+501,1175,"R51, J45.909 ",Catch author shoulder.,Critical
+502,944,E119,Sure middle news various.,
+503,1861,E11-9,Effect myself.,Severe
+504,1847," E11.9, K21.9 ",Even visit coach provide Democrat.,
+505,272,r51,Camera maybe road.,mild
+506,486, R51,Senior worry budget on.,SEVERE
+507,311," N39.0,  M54.5",Ball meet behind meeting.,
+508,1270,K21.9 ,Chair trouble book.,
+509,520,F32.9 ,Land sell fish.,SEVERE
+510,1077,"I10, N39-0",Ball employee product.,Severe
+511,1872,k21.9,Either capital long.,SEVERE
+512,468,I10 ,send approach,
+513,69,"F32-9, E11-9",Wrong traditional truth.,SEVERE
+514,751,E11-9,public present,Severe
+515,576,N390,Soon sign close compare.,Critical
+516,1517,j45.909,Party team customer despite.,moderate
+517,1248, M54.5,Middle south positive.,Mild
+518,1124,S72-001A,Deep within style suggest certain.,SEVERE
+519,930,i10,Seem thousand.,
+520,51,F32-9,Hundred above.,Severe
+521,1401,"I10, S72001A",East police lawyer during itself.,moderate
+522,785,K21.9 ,Lot guy meet ok.,mild
+523,1368,j45.909,Toward western road treatment.,SEVERE
+524,1594,"N39.0, C50911",Life doctor discussion yet.,moderate
+525,588,M545,more development,Mild
+526,1591,F32.9,She operation also east.,mild
+527,610,"R51, J45-909",Trip fact push force order.,SEVERE
+528,218,E11.9,Quickly learn seven.,moderate
+529,410,i10,Collection voice though build sea.,SEVERE
+530,945,"N39-0, S72-001A",Left place.,
+531,1578,K21-9,Evidence along off.,Severe
+532,4,"C50911,  M54.5",Good civil prevent senior foreign.,Severe
+533,435," E11.9, J45.909 ",Thank respond.,Severe
+534,980,M54.5 ,Character bad surface really.,SEVERE
+535,172,"J45.909, C50911",As land.,SEVERE
+536,1042,e11.9,Four hot least family.,mild
+537,32,E11.9,Happy amount industry.,moderate
+538,1781,E11.9,Term employee painting.,mild
+539,918, C50.911,So nor amount remember we.,Critical
+540,626,M54.5 ,Major man to school.,
+541,1885,"I10 , s72.001a",Appear adult close expert seem.,Critical
+542,996,M54.5,Despite put ability.,
+543,1728,E119,Nice difference.,Severe
+544,1208,M54.5 ,Together look wind.,SEVERE
+545,665,"R51, S72-001A",Religious so adult speak.,moderate
+546,658,s72.001a,Personal area style meeting task.,moderate
+547,443,i10,Couple hard.,mild
+548,1304,j45.909,Black TV kid.,moderate
+549,206,c50.911,Body use number.,Severe
+550,1005,F32.9 ,Some establish.,mild
+551,507,n39.0,Phone window run board pattern.,Mild
+552,1742,K21-9,Reduce north writer leg.,Critical
+553,87,S72001A,Reason politics card.,Severe
+554,584," I10, F32.9",Modern perform century miss.,Mild
+555,967,"I10, E11.9 ",Such how them behind although.,mild
+556,534,F32.9,All week store.,Mild
+557,758,"K21.9, I10 ",Increase cultural American development as.,Severe
+558,517,I10,Often tree senior nation.,SEVERE
+559,678, M54.5,Although power recognize we.,moderate
+560,1705," C50.911, J45.909",Suggest standard evening ever.,Mild
+561,1120,R51,Build go.,
+562,1591,C50-911,Black enjoy.,mild
+563,1264,S72-001A,Key will follow.,moderate
+564,1762,"f32.9,  C50.911",Direction say yeah section.,Critical
+565,1006,"J45.909, F32-9",Management front feeling take admit.,Severe
+566,1335,I10,Political little wish.,SEVERE
+567,1842,C50-911,suffer couple,Severe
+568,832,I10,Reality story citizen reach.,Mild
+569,883,"E11-9, M54.5 ",Maintain where wife.,Mild
+570,269,"M54-5, R51 ",Drop tend red.,Critical
+571,311,N39.0 ,do field,SEVERE
+572,344, C50.911,Rock himself.,
+573,1514,N39.0,My individual keep.,Mild
+574,1605,C50.911 ,Some keep let letter.,Mild
+575,263,R51,Meeting every ago country understand.,Severe
+576,606, M54.5,Truth former trade expert.,Critical
+577,1735,"R51, M54-5",Party society.,Mild
+578,256,"f32.9, C50.911 ",each event; rock radio,mild
+579,272," I10,  N39.0",West sit other majority interview.,
+580,1233,e11.9,Series hundred citizen.,SEVERE
+581,119,M54-5,North shake lose.,SEVERE
+582,1176,I10,Hope affect drop.,
+583,191,"N390, S72-001A",the picture; able who,
+584,1590,M54-5,Travel be actually allow sure.,Severe
+585,1070,M54.5 ,Music win bring student.,mild
+586,1108, F32.9,Run data police.,Severe
+587,274,S72-001A,avoid peace,Critical
+588,1256,"I10, M545",notice memory; respond size,
+589,346,e11.9,Debate contain.,SEVERE
+590,192, J45.909,friend arrive,Critical
+591,375,C50911,significant myself,SEVERE
+592,959,N390,Person discuss.,moderate
+593,192,N390,Claim win election.,
+594,601,J45909,Them enter really.,SEVERE
+595,1515,J45.909 ,she federal,mild
+596,1313,E11.9,Treatment water kitchen.,Critical
+597,1142,E11-9,Remember student face someone.,
+598,1287,"j45.909, M54.5 ",Two away find impact.,mild
+599,205,R51,Newspaper last side second.,Mild
+600,448,M54.5 ,Test race heavy.,Critical
+601,147,K21.9,Line participant mother.,mild
+602,196,"k21.9, N39.0 ",Course heart state.,mild
+603,247,"I10, N39.0",catch free; service point,Severe
+604,73," I10,  J45.909",Treatment name military.,moderate
+605,305,F32.9,Nor outside computer work.,SEVERE
+606,956,"f32.9, K21.9 ",Water wall together.,mild
+607,648,R51,Firm trial research.,Mild
+608,630,"N39.0, c50.911",Born its avoid common tough.,Critical
+609,1424,e11.9,Color foot study.,moderate
+610,1691,I10,Part court.,moderate
+611,1259,K219,Candidate whose medical explain.,
+612,310,I10,Maintain consumer must.,Critical
+613,156,E11.9,Effect rich between cold.,
+614,1159,E119,Around enter control.,mild
+615,1727,N39.0,Woman must matter power child.,
+616,120,S72001A,Trial however industry treatment.,
+617,1316,"e11.9, F32.9",Message ago will majority.,Severe
+618,537,"E11-9, R51",Second anyone participant then little.,SEVERE
+619,608, C50.911,Defense indeed.,Severe
+620,470,F32.9 ,voice rest,Severe
+621,169,"N39-0, S72.001A",Watch election both say big.,SEVERE
+622,1271,E11.9 ,Save manager pass yourself between.,moderate
+623,689,I10,Spend attention check.,Severe
+624,1292,M545,movie seven,SEVERE
+625,1593,C50-911,Yeah see go.,Mild
+626,1287,"M54-5, j45.909",From trade energy health idea.,moderate
+627,1099,i10,Send get southern.,Severe
+628,1050,F32-9,Suggest really approach these another.,Critical
+629,754,E11-9,Hair company laugh sport.,Severe
+630,1889,J45-909,Pay clearly tell threat line.,Mild
+631,1573,F32.9 ,Another training from eat.,moderate
+632,1088,N39.0,Product though continue.,moderate
+633,909,"I10 ,  R51",Collection especially experience single.,Mild
+634,1155,E11.9,Upon personal easy actually.,mild
+635,638, J45.909,First car edge into whom.,mild
+636,860,E11-9,church economy,moderate
+637,44, R51,Heart project minute nor where.,moderate
+638,556,J45-909,front wall,Severe
+639,1651, R51,Imagine myself.,Severe
+640,725,"M54.5, R51",International identify lot two.,Critical
+641,1292,"C50.911 , e11.9",Participant official.,Critical
+642,353,N39.0 ,Learn level.,Critical
+643,1796,"K21-9, S72.001A",College while born.,mild
+644,1537, S72.001A,Ever address hundred experience.,mild
+645,302,"E11.9 ,  F32.9",Field agent responsibility organization.,moderate
+646,1268,"R51, J45.909",Gun four program foot mission.,Critical
+647,1503,"S72.001A, F329",Feeling wonder even conference camera.,moderate
+648,1004, N39.0,Student require almost.,Severe
+649,1416, K21.9,Care order wish.,SEVERE
+650,254,R51 ,weight attack,moderate
+651,780,"j45.909, S72001A",Production significant.,Severe
+652,1568,N39.0,Play country perform understand same.,SEVERE
+653,740,I10,Much hot almost accept.,mild
+654,708, J45.909,Director provide bit.,Critical
+655,217,M54-5,house police,mild
+656,780,k21.9,Ball civil upon.,
+657,92,"R51 , I10",They almost.,moderate
+658,169,"C50-911, R51 ",Force cut population.,Severe
+659,972,R51,Land option however.,moderate
+660,1671,C50911,Instead anyone movement.,mild
+661,1627,C50.911 ,Painting growth friend sport create.,SEVERE
+662,1190,E119,Opportunity project yes value.,SEVERE
+663,1105,E11.9 ,those beat,Mild
+664,1022,m54.5,Represent middle amount identify.,Critical
+665,819,N390,Bit near.,mild
+666,970,K21-9,Network experience few little.,SEVERE
+667,1239,S72.001A,Base policy yes.,moderate
+668,973,R51,Fall leave time type.,moderate
+669,390,I10,Age always show some.,mild
+670,794,F32.9 ,Need medical course music.,mild
+671,1458,R51 ,Technology exist want discuss.,SEVERE
+672,1319,"R51, E11.9 ",Table relationship final.,Critical
+673,346,N39.0,avoid she,mild
+674,19,i10,International change law trial.,Severe
+675,1412,"J45.909,  E11.9",Staff world class husband.,mild
+676,1850,"E119, c50.911",North ball arm happen late.,moderate
+677,838,"M545, K219",Change and for huge staff.,Mild
+678,544,R51,Rest show usually unit.,Critical
+679,720,J45.909,among instead,moderate
+680,1715,J45.909 ,rich interest,SEVERE
+681,1787,n39.0,Nor cut civil.,SEVERE
+682,251,R51,memory good,Severe
+683,984,K21.9 ,get run,Severe
+684,587,C50-911,Decision minute rise different president.,
+685,1432,R51 ,Ok practice group.,
+686,1173,F32.9,Memory use rate.,Severe
+687,770,F32.9,Song which community account.,Critical
+688,240,N39.0,Involve focus else particular.,
+689,1792,"E11.9, C50.911",Alone again.,Severe
+690,1313,R51,Such usually a.,Mild
+691,1080," I10,  M54.5",Day cold.,moderate
+692,675,"E11.9, I10 ",Human support letter actually.,Mild
+693,1271,c50.911,Stay someone final person region.,SEVERE
+694,666,N39.0,Hot wind.,mild
+695,59,"N390, C50911",Reason sing generation challenge.,Mild
+696,25,S72-001A,Shake value class artist be.,
+697,1675, N39.0,Spend off gun.,Critical
+698,1412," M54.5, E11-9",Happy lead would.,
+699,980, N39.0,Wish authority or.,mild
+700,1149, M54.5,Seat traditional heavy eye.,Mild
+701,366,"M545,  S72.001A",Sell couple most body protect.,moderate
+702,529,"E119, R51",Third and just senior.,SEVERE
+703,1120,J45-909,Final after determine.,SEVERE
+704,248," E11.9, S72001A",Travel enter bring sea act.,Severe
+705,626,S72.001A ,Service try believe car daughter.,mild
+706,326,"N39.0 ,  S72.001A",Task take.,Mild
+707,1136,E11.9,Evening material community.,
+708,629," C50.911, j45.909",Expert point style whom.,moderate
+709,1026,"M54.5 , k21.9",Laugh bit blood.,moderate
+710,509,"J45-909,  S72.001A",Night say reason.,SEVERE
+711,1632,I10,Rate nice try couple responsibility.,Critical
+712,740," M54.5,  S72.001A",Well candidate more.,Mild
+713,1419,"K219, n39.0",almost collection; task never,SEVERE
+714,153,"I10, e11.9",Receive voice sing.,Mild
+715,503,J45.909 ,Democratic growth TV pretty.,SEVERE
+716,950,s72.001a,Attention at.,SEVERE
+717,1634,"S72.001A, M54-5",Provide note ball under option.,
+718,303,N39-0,Girl focus those front half.,mild
+719,1033,K21-9,Base occur.,Mild
+720,1507, R51,his expert,mild
+721,1053,"j45.909, I10",Room around social perhaps face.,mild
+722,5," C50.911,  F32.9",Guess production nothing.,Critical
+723,1600,S72001A,Fine side audience.,mild
+724,926,m54.5,Also seven mean.,Mild
+725,360,s72.001a,reflect maybe,Severe
+726,688,f32.9,Place authority.,mild
+727,1523,M545,Against explain capital center.,moderate
+728,107,E11.9,Source accept.,Critical
+729,11,e11.9,Imagine magazine likely.,
+730,1435,N39.0 ,charge be,Critical
+731,26, F32.9,Today money.,moderate
+732,1408,F329,ok lawyer,Mild
+733,524,S72-001A,Federal get walk remain.,moderate
+734,365,"e11.9, C50.911 ",Himself central close area second.,Critical
+735,443,m54.5,Southern executive behind because.,mild
+736,1463,"k21.9, c50.911",White him Democrat rule.,Severe
+737,1407,R51 ,Describe test popular senior structure.,Severe
+738,1858,"k21.9, C50.911",Writer street economy might.,Severe
+739,1002,M545,Center drive serve white.,
+740,320, M54.5,star son,mild
+741,648,I10 ,Water plan office.,
+742,1787,n39.0,Bar theory player approach.,Mild
+743,1342,F329,Low always minute recently.,Critical
+744,1051,F32.9 ,Hospital left eat color.,SEVERE
+745,667,E119,Degree citizen successful film.,
+746,547,K219,Doctor recent house something tend.,mild
+747,654,S72.001A,Around the decade morning.,Mild
+748,1625,R51,Dog second science time.,Critical
+749,18,F329,Task author time.,moderate
+750,351,k21.9,Either lot until we.,Critical
+751,48,j45.909,Morning soldier within.,mild
+752,1517,S72001A,sister find,Severe
+753,1417,"m54.5, C50.911",Must reason.,Mild
+754,1240,"F32-9,  I10",assume difference; pattern miss,Severe
+755,411,J45.909 ,Suddenly sport.,Severe
+756,1474,M54-5,Realize after sense.,
+757,1127,R51,Design hair amount.,
+758,165, S72.001A,Apply ok time drop effect.,moderate
+759,1140,N390,Stuff recent area more lose.,Mild
+760,1886,K21.9 ,Mean project hot force.,moderate
+761,1666,K21.9,Choice goal support.,mild
+762,1497,"J45.909 , R51",Hope goal friend really.,Mild
+763,250,N39.0 ,Find center compare.,moderate
+764,247, E11.9,Game beat decision sound.,SEVERE
+765,699,"C50-911, m54.5",Remain station fine.,Critical
+766,208,K219,far certain,Severe
+767,1194,"K21.9, S72001A",Several community interesting.,mild
+768,234, N39.0,Party through.,Severe
+769,210,"M54-5, E11.9",Course society wish.,Critical
+770,389,"n39.0, E11.9",Natural away explain section room.,
+771,1853,R51,Professor lead material.,SEVERE
+772,1267,"i10, R51",Determine computer anything operation military.,Severe
+773,592,i10,Heart senior yes.,SEVERE
+774,402, N39.0,Full goal design level.,Critical
+775,1094,s72.001a,Father low life it artist.,Severe
+776,1179,F32-9,Floor movie meeting law.,mild
+777,1695,R51,Yard feel specific some.,Mild
+778,256,J45-909,Only attack put they now.,moderate
+779,567,"N39-0, R51",Play policy Republican.,Critical
+780,287,"J45.909 , M545",Unit yourself us turn protect.,SEVERE
+781,665,R51,Point camera note.,Mild
+782,353,"E11.9 ,  R51",Impact level boy.,
+783,690, C50.911,Least age.,Critical
+784,1227,F329,Bad upon girl sign.,mild
+785,581,k21.9,Sort analysis us southern.,moderate
+786,253,K21-9,Nation none husband sense their.,
+787,231,j45.909,Beat never.,
+788,1156,N39.0 ,Agree maintain safe just call.,SEVERE
+789,1392,R51 ,Tough statement role think.,
+790,529, F32.9,Degree bring serve collection.,moderate
+791,547,K219,Control hospital hear.,Mild
+792,1203,E11.9 ,Sing identify.,Severe
+793,1868," F32.9, j45.909",Individual action enter free.,mild
+794,1697, E11.9,civil too,moderate
+795,474, J45.909,Then skin same simple.,Critical
+796,650,"E11.9 , J45-909",Standard father language old ability.,Severe
+797,1110,N39.0,Program community relationship.,Critical
+798,1006,I10,Wait recent.,moderate
+799,465,"S72.001A, f32.9",Call wear half.,Severe
+800,1754,M54.5 ,Build Congress speech.,mild
+801,1647,M54.5,Team meet nor.,mild
+802,222,"S72-001A, m54.5",than provide; ask garden,Mild
+803,777, K21.9,it seem,mild
+804,1188," K21.9, S72.001A ",Western daughter wife.,SEVERE
+805,1099,M54.5,Kitchen simple.,mild
+806,1342,C50-911,bar since,moderate
+807,178,R51,Position evidence.,moderate
+808,14,F32-9,Decide spend so modern.,Severe
+809,291,"C50.911, K21.9",Seven room the present.,Critical
+810,1865, E11.9,Mr movement surface glass radio.,Critical
+811,196,m54.5,Two gun couple.,mild
+812,1670,R51,Blood win chance factor kitchen.,Mild
+813,1535,"R51, i10",Oil cover statement door prepare.,
+814,492,J45.909 ,Usually everything.,Severe
+815,95,J45.909 ,Last take.,
+816,429,"F32.9,  C50.911",Seem lot power.,Mild
+817,578,j45.909,Reality picture establish important.,
+818,1400,R51 ,Country fast.,Severe
+819,695,S72-001A,Toward wall send example.,Critical
+820,1892,R51,Single store.,Critical
+821,195,K21.9,Stand key.,Critical
+822,1045, K21.9,night to,moderate
+823,444,F32.9,Role get yeah.,Severe
+824,1398,C50911,factor girl,
+825,1501,j45.909,Feeling computer claim rest woman.,Mild
+826,1661, S72.001A,Can network.,Mild
+827,739,R51,Interest its.,mild
+828,1215,"J45.909 ,  C50.911",memory card; government cost,Severe
+829,840, M54.5,Opportunity seem role exist.,SEVERE
+830,763, M54.5,Go voice Republican.,Critical
+831,1322, J45.909,Although key father century run.,
+832,808,"N39.0 , I10",Surface whom.,Severe
+833,1548,m54.5,Address decade everybody.,
+834,1282,"K21-9, R51",Strong majority affect.,SEVERE
+835,688,M54.5,Eight forward themselves young young.,SEVERE
+836,1593,i10,Specific least draw.,Severe
+837,832,E11.9 ,Read not lead.,Mild
+838,931, S72.001A,Worry information peace.,
+839,414,"m54.5,  J45.909",Stuff practice security top coach.,mild
+840,1246,N39.0 ,Support than determine ago.,moderate
+841,523,M54.5 ,Language land prepare.,Mild
+842,848, E11.9,Account discover effort them detail.,moderate
+843,912," E11.9, F32.9 ",Thought fund think they.,Critical
+844,98,S72-001A,Rock cell consumer bar.,Mild
+845,788,K21.9,Property without traditional almost figure.,SEVERE
+846,698,"R51 , J45909",Democrat wife card.,moderate
+847,1311,"S72.001A , K21.9",Could question.,Critical
+848,1372,M545,Long decision feeling try successful.,Severe
+849,1141,"r51, I10 ",Structure soldier by finish.,SEVERE
+850,1177,F32.9 ,should its,SEVERE
+851,1225,S72.001A ,Myself idea indeed.,
+852,27, J45.909,Policy country the.,mild
+853,1143,F329,movement how,moderate
+854,597,i10,Turn pattern paper look reason.,moderate
+855,459,I10,System box detail poor.,mild
+856,305, R51,force finally,
+857,998,f32.9,Rise easy claim hope.,mild
+858,455,e11.9,Couple table ok the.,moderate
+859,662,I10,Must become positive.,Mild
+860,283,K219,network really,
+861,90, F32.9,Board wear hundred during.,
+862,1513,K21.9 ,Continue mention alone.,mild
+863,1822, J45.909,Best employee.,
+864,45, N39.0,budget hundred,moderate
+865,1882, F32.9,Common paper less accept green.,moderate
+866,339," J45.909, n39.0",Project box under.,
+867,594,M54.5,This want investment.,Mild
+868,788, C50.911,question expect,SEVERE
+869,407,E119,However believe consider young.,mild
+870,465, J45.909,Range sort rest wish.,moderate
+871,1090,R51 ,Leader sound.,
+872,1582,N390,Big message end hand.,
+873,674,i10,Start democratic few.,moderate
+874,148,"J45.909, N39-0",Foot suffer board realize child.,Critical
+875,1131,c50.911,Suffer order write.,
+876,1443,c50.911,Husband garden interview impact.,Critical
+877,1846,K21.9,Prove item cold north.,SEVERE
+878,1399," M54.5,  S72.001A",Raise discover TV election fine.,Mild
+879,1573,"I10,  M54.5",Sometimes successful ok scene.,Critical
+880,786,C50-911,Meeting change public.,Mild
+881,1822,E11-9,Beyond experience other understand western.,Critical
+882,934,"C50.911 , N39-0",Police price party mind.,Critical
+883,1841,"E11-9, J45.909",Base safe reduce.,Critical
+884,477,E11-9,rise receive,Mild
+885,25,I10,myself know,Mild
+886,356,I10,Ready though enjoy standard.,moderate
+887,1114,"S72001A, I10",Would street true current about.,Severe
+888,1726,F32.9,Mother wish.,Critical
+889,1656," J45.909, K219",Pay economy boy nature.,
+890,755, S72.001A,Hour owner walk.,Severe
+891,183,k21.9,Mean several.,
+892,106,s72.001a,Require garden.,
+893,962,N39.0 ,New left weight again seem.,SEVERE
+894,1619,"m54.5, J45909",Officer on.,Severe
+895,640,"j45.909, k21.9",On response recognize move five.,Mild
+896,48,i10,Suffer trip eye.,Critical
+897,82, F32.9,Bag capital thus financial.,Severe
+898,1511,"r51, E11.9",Group world strong.,moderate
+899,1262,N39-0,need response,Critical
+900,1835,M545,System suggest may poor.,Severe
+901,730,S72.001A,Power air boy.,Critical
+902,1681,J45-909,Generation raise difference.,mild
+903,172,r51,News wonder.,mild
+904,1179, N39.0,Ahead position.,
+905,1186,N390,Up effort already serious threat.,Critical
+906,1131,"F32.9,  S72.001A",My grow property.,Critical
+907,261,F32-9,Offer someone policy too hundred.,moderate
+908,292,M54-5,Beyond friend mention.,Mild
+909,949,c50.911,Network join.,moderate
+910,1797,K21-9,Environmental put.,Mild
+911,656,f32.9,Say grow reach.,Mild
+912,909,E11.9 ,Adult defense everything animal strong.,Critical
+913,1759,F32.9 ,Change president city.,Mild
+914,1144,K21.9 ,Notice may space me.,Mild
+915,1010,"J45909, s72.001a",Huge performance bad responsibility.,moderate
+916,1463, J45.909,Executive share million usually.,mild
+917,1169,"J45-909, N390",Wrong ball.,mild
+918,1832,N39-0,Example here go.,SEVERE
+919,133,i10,Serious amount hot.,Mild
+920,1037,R51,Century free hot Republican.,Severe
+921,1577,C50-911,High book suffer.,Severe
+922,1204,"M54.5 , i10",Somebody move around fly bill.,Severe
+923,618,N39-0,Class per exactly run.,Severe
+924,7,C50-911,Mean white school.,SEVERE
+925,1422, I10,Notice effort.,Mild
+926,993,N390,Environment of evidence.,SEVERE
+927,1118," I10, N390",election support; strong music,SEVERE
+928,101,M54-5,truth wait,Mild
+929,980,E11.9 ,Good reveal business south me.,mild
+930,125,R51,Truth including woman keep owner.,Mild
+931,1200,J45-909,Safe film late.,Severe
+932,126,F32.9 ,Sometimes party among political.,Mild
+933,312,"C50911,  S72.001A",Themselves number.,SEVERE
+934,1375,F32-9,Call rule easy.,Mild
+935,1301,N39-0,Understand reach however born he.,mild
+936,221,J45909,These soldier experience car.,moderate
+937,643,C50.911 ,those your,Critical
+938,690,f32.9,Ten movement last.,Critical
+939,337,e11.9,Across despite bag authority item.,Mild
+940,1887,J45.909,They again expect idea break.,mild
+941,416, E11.9,Always student full.,Severe
+942,1534, I10,general huge,Severe
+943,1043,"R51, F329",Its determine history send.,Mild
+944,308,C50.911 ,Crime relationship project box.,Critical
+945,303, I10,Central process cell compare technology.,SEVERE
+946,1568,"E11.9, M54-5",Whose consumer arm.,moderate
+947,45,C50911,Organization will number spring.,SEVERE
+948,1247, J45.909,Few Mr.,
+949,226, I10,order writer,Severe
+950,176,k21.9,Marriage animal series.,
+951,813,J45.909 ,Discussion friend language.,moderate
+952,368,C50.911,Speech seat science picture remain.,moderate
+953,383,C50911,Others ball outside operation.,Critical
+954,628,c50.911,Candidate choice agency doctor know.,Severe
+955,1312,"C50.911, i10",Fly listen environment.,Mild
+956,839,f32.9,Product threat.,Mild
+957,1484,M54.5 ,Under view.,SEVERE
+958,851,"f32.9,  I10",Own bad why.,moderate
+959,561,M54-5,Page Mrs cultural.,SEVERE
+960,631,R51,Oil security perhaps national.,SEVERE
+961,1680,C50911,Significant night because.,Critical
+962,1166,F32-9,Add affect rate vote no.,
+963,307,J45.909 ,Truth see section.,
+964,1224,"J45-909, M54.5 ",Want identify federal.,
+965,292,I10 ,Exist pull.,Severe
+966,812, N39.0,Paper those.,Mild
+967,578,I10,visit week,SEVERE
+968,547,E119,Beautiful prove floor blue.,mild
+969,1029,E11.9 ,Population activity.,Critical
+970,831, J45.909,Own product character wear soldier.,mild
+971,1712,i10,Clearly door score.,Severe
+972,1158, I10,Sea often treatment gas.,Mild
+973,860,C50911,Wrong decision power among trade.,moderate
+974,1823,M54-5,American response,SEVERE
+975,1739,J45909,Out military avoid according citizen.,
+976,1361, S72.001A,choose short,Critical
+977,1826,"E119, K21.9 ",President think pull.,SEVERE
+978,1764,I10,Feel science million song.,SEVERE
+979,1677, R51,believe probably,mild
+980,655,"F32.9 , j45.909",Environment accept water.,SEVERE
+981,1434,R51,Film vote economy.,Severe
+982,237,"F329, n39.0",Easy factor entire serve.,Mild
+983,1631, I10,Southern may.,Severe
+984,116,"M54.5, N39.0 ",Enjoy see analysis Democrat candidate.,Mild
+985,1279,"k21.9, e11.9",Bank owner hear.,mild
+986,446, I10,Others behavior.,Mild
+987,1189, M54.5,Political school know.,Severe
+988,1726,C50911,Region company what wide too.,mild
+989,523,"C50.911 , M54-5",Prove ten.,
+990,1195,S72.001A,Certain animal parent.,mild
+991,1433,r51,Data argue heavy citizen.,Critical
+992,1211,I10,Fall time watch life six.,mild
+993,420,S72.001A ,Street TV particularly beautiful.,
+994,932,"N39.0, K21.9 ",Unit plant just cost.,
+995,744,"S72001A, F32.9 ",By than feeling shoulder.,Severe
+996,1173,E11-9,mind hit,moderate
+997,1423, C50.911,Pick around behavior whole final.,Severe
+998,1185,M54.5,Reveal money.,Mild
+999,113,C50.911 ,General or condition.,Severe
+1000,219,R51 ,Hit benefit.,
+1001,1799, F32.9,Including claim stuff to.,Mild
+1002,507,J45909,Thought throughout story message.,
+1003,571,E119,Financial travel.,SEVERE
+1004,634,I10,Station ever.,moderate
+1005,1411," F32.9,  N39.0",Agency successful media poor only.,Critical
+1006,1278,E11-9,Probably beautiful security add.,Critical
+1007,535,J45.909,Call anyone executive.,Severe
+1008,1701,m54.5,Style threat stock.,Mild
+1009,1829,S72.001A ,Myself kid up hit claim.,moderate
+1010,1715,N39-0,Their far do quickly focus.,moderate
+1011,1084,f32.9,Technology raise.,
+1012,1811,"J45.909 , F32.9 ",back as; dinner media,Mild
+1013,264,K219,Address center stay fish.,Severe
+1014,280,R51,Cup source team.,mild
+1015,1301,C50911,Community financial bar specific.,Critical
+1016,114, S72.001A,List apply meet teach.,mild
+1017,789,"J45-909, M54-5",Cut medical hotel along believe.,Severe
+1018,116,"N39.0, F32.9",Find game.,Critical
+1019,1518,C50-911,Detail require once.,Severe
+1020,1839,n39.0,Resource possible.,SEVERE
+1021,797,R51,Occur subject station professor.,mild
+1022,974, F32.9,Role prepare phone rich.,Mild
+1023,734, E11.9,Writer argue staff.,SEVERE
+1024,502,R51,Too analysis professor.,Mild
+1025,614,"M545, C50-911",Natural ball brother production.,Mild
+1026,180,s72.001a,hard eat,mild
+1027,412,J45.909 ,About their by charge.,SEVERE
+1028,140,n39.0,Professional safe others others partner.,Mild
+1029,644,J45.909,Pressure she similar kitchen cultural.,mild
+1030,859,R51,Attack sport strong.,
+1031,793,"e11.9,  S72.001A",Recent herself teacher.,mild
+1032,1080,F32.9 ,From simply game price.,moderate
+1033,407,S72-001A,Through act most.,mild
+1034,1272,R51,Couple religious sense well.,moderate
+1035,1102,N39.0,Then check order assume teach.,moderate
+1036,1589,S72-001A,How away country.,Mild
+1037,1827,"R51, e11.9",There order effort box.,SEVERE
+1038,1586, I10,And role American.,mild
+1039,1034, J45.909,Operation media difficult adult.,Severe
+1040,1481,E119,Start small soon present.,SEVERE
+1041,1118, I10,program as,Mild
+1042,185," F32.9,  E11.9",Save no.,mild
+1043,1341,I10,Simple take kid.,SEVERE
+1044,202,M545,Finally parent north.,Mild
+1045,185,K21-9,degree continue,Critical
+1046,404, C50.911,Happy develop.,Mild
+1047,1789,"E11.9,  N39.0",Sure skill tell.,Severe
+1048,1496," R51,  I10",Dark management force stage.,Severe
+1049,408,I10 ,Heart somebody very citizen yourself.,moderate
+1050,1253,C50-911,Allow fine.,Severe
+1051,760,R51,Management remember task.,Severe
+1052,854,F32-9,Mouth gas.,Mild
+1053,1237,S72.001A,Continue night.,SEVERE
+1054,1264,S72-001A,Actually provide option.,moderate
+1055,460,e11.9,hot quite,Severe
+1056,81,J45909,Work might end carry.,SEVERE
+1057,1138,R51,Get pick view.,Mild
+1058,1058,"m54.5, I10 ",Remain civil.,Severe
+1059,1750,M54.5,Financial book feeling cause.,
+1060,63, N39.0,Remember father hold discussion through.,Severe
+1061,213,E11.9,Themselves make practice.,Critical
+1062,47,F329,Machine perform partner.,mild
+1063,44,E11.9 ,Pay teach character.,Critical
+1064,1681,R51 ,Hard ball window happen.,Critical
+1065,171,s72.001a,Accept economy great respond.,Severe
+1066,333," M54.5, N39-0",Action despite perhaps.,moderate
+1067,611,J45.909,Born tough none memory central.,Critical
+1068,680,"f32.9, J45.909 ",Might fall determine pull.,moderate
+1069,169,"I10, M54.5",Born enjoy understand.,moderate
+1070,1766,n39.0,Participant dinner after.,SEVERE
+1071,1053,"E11.9 , S72-001A",Blood reach account parent audience.,Critical
+1072,1748," J45.909,  S72.001A",Actually general window.,moderate
+1073,708,I10,Mr join author indicate.,Critical
+1074,1120,C50.911 ,dinner entire,Mild
+1075,581, I10,Figure save explain voice.,SEVERE
+1076,1317, E11.9,Degree unit use plant.,SEVERE
+1077,1402,f32.9,measure great,
+1078,1755,J45.909,Again method time never.,Critical
+1079,1105,r51,Play next under bag way.,mild
+1080,638,S72-001A,Ok force.,moderate
+1081,838,J45.909,Movement significant make social stand.,mild
+1082,766,"S72-001A, I10",Business herself give family.,moderate
+1083,218,I10 ,Figure spring stage Democrat treatment.,Mild
+1084,768,I10,send when,Severe
+1085,703,F32.9,Know apply whatever coach moment.,
+1086,595,"F329,  I10",Sell loss fine.,Critical
+1087,605,n39.0,every edge,Critical
+1088,851,C50-911,Local reason agreement.,Critical
+1089,760,"N390, k21.9",Good near pay energy.,moderate
+1090,1543,"J45909, N390",Until close return easy ahead.,moderate
+1091,204,S72.001A,Mean positive.,SEVERE
+1092,1613,J45-909,Role stand second skin education.,
+1093,839,"J45-909, R51",Miss compare different player student.,mild
+1094,563,C50.911 ,Animal of prevent market before.,moderate
+1095,616,N39.0,Reveal step.,moderate
+1096,1609,C50.911 ,Fast although change.,moderate
+1097,776,"S72.001A , J45.909",Reveal wide.,mild
+1098,1049,C50.911,beyond each,Severe
+1099,1166,M54.5,Go just someone.,Mild
+1100,1694,E11-9,Line collection should.,moderate
+1101,226,m54.5,Girl state ready course.,moderate
+1102,1132,"S72.001A , K21.9 ",Near top boy these government.,mild
+1103,412,S72001A,Professional yes argue late.,
+1104,1172,J45.909,North century product.,mild
+1105,1825,"E11.9, N390",People investment guess.,Critical
+1106,1616,K21-9,Plant reflect police blood a.,Critical
+1107,1263,K21.9,Should language first.,
+1108,841,"e11.9, C50-911",Every in task ok.,Critical
+1109,351," I10, N39.0 ",some PM; citizen hot,Mild
+1110,41,K219,Maintain that.,Critical
+1111,1646," M54.5, s72.001a",Little ready discover.,moderate
+1112,79,K21-9,Suggest cut sense.,
+1113,994,N39-0,Many Congress factor.,moderate
+1114,127,k21.9,Apply art tell.,Mild
+1115,1467,R51,Would most south either sign.,Critical
+1116,1885, I10,Type hotel chance at computer.,
+1117,1802,E11-9,Read wall market local.,Severe
+1118,585, R51,Owner how make.,
+1119,413, E11.9,Watch between administration east.,moderate
+1120,1593,M54-5,Cold strategy.,Mild
+1121,184,"E119, K21.9 ",Lay evidence about deep stuff.,Mild
+1122,424, I10,pay Democrat,Mild
+1123,796,S72001A,Travel party then.,moderate
+1124,158,F32.9 ,Evidence source outside cultural.,Severe
+1125,774," E11.9,  J45.909",Per speak from.,Mild
+1126,973,r51,Clearly black foot change.,Severe
+1127,670,"S72001A, I10",suggest keep; cell theory,moderate
+1128,595,F32-9,Lawyer ball moment owner.,mild
+1129,1634,I10,Upon same article.,SEVERE
+1130,650," R51, F32.9 ",Issue on include.,mild
+1131,6,K21.9,Despite society build say.,Mild
+1132,1534,"C50911, i10",lot range; speech white,SEVERE
+1133,1882,j45.909,Write operation specific fear.,Severe
+1134,1233,"C50.911 , F32.9 ",Look condition should game.,mild
+1135,1611, E11.9,Window kind skill.,moderate
+1136,244,"e11.9, K21.9 ",Six lead big itself least.,mild
+1137,1316," K21.9, E11.9 ",Society event offer.,Mild
+1138,482,I10,reason western,Mild
+1139,730,"r51, E11.9",apply some; institution do,
+1140,1040, C50.911,Although letter.,moderate
+1141,710,"e11.9, K21.9",Way common remember policy statement.,Mild
+1142,91,J45-909,Ok baby matter senior professor.,moderate
+1143,556,M54.5,Tell determine continue board.,moderate
+1144,1567,K21-9,Never send score center.,Severe
+1145,268,C50-911,Moment just foreign public up.,
+1146,1312,"M545, N39-0",Suddenly someone PM left.,SEVERE
+1147,779,F32.9 ,Feel tonight model.,
+1148,840,R51,support able,moderate
+1149,1511,"S72001A, M545",Per large.,mild
+1150,220,R51,Lead program that.,Mild
+1151,1044, J45.909,One table human.,Severe
+1152,830,f32.9,Hold in.,
+1153,145,"C50-911, S72.001A",Traditional reduce participant.,
+1154,690,r51,Name of.,
+1155,478,S72-001A,Notice music think.,
+1156,1149,K21.9,Positive think run.,Severe
+1157,159,F329,Laugh into perhaps history.,
+1158,1056,j45.909,Campaign draw activity so.,mild
+1159,777,S72001A,Guess action across next.,
+1160,1260,"E11.9, N39-0",Remember well.,SEVERE
+1161,290,J45-909,Sit off best.,Severe
+1162,157,S72.001A,Fish chance name capital.,SEVERE
+1163,1182, E11.9,Others world low political.,Critical
+1164,159,C50-911,Prevent risk Mr I true.,Severe
+1165,1572,"F329, C50911",contain hour; join seat,SEVERE
+1166,1510, F32.9,Increase end.,Severe
+1167,165,f32.9,Need about three.,moderate
+1168,1854, N39.0,Ago color who quickly family.,Mild
+1169,635,"J45909, N39.0 ",Item win including begin.,mild
+1170,1662, J45.909,No huge year support.,mild
+1171,1569,K219,Wind sport federal despite.,moderate
+1172,1308,J45.909 ,Cut senior compare worry purpose.,moderate
+1173,305,I10,Enter performance Republican cost house.,Mild
+1174,539,E119,Back if effort newspaper language.,SEVERE
+1175,69,J45.909,Cold decide fire.,SEVERE
+1176,602,"f32.9, I10",Western week quickly quite these.,mild
+1177,1316,F32-9,Reveal up.,Mild
+1178,1042,r51,Life answer per.,Severe
+1179,1232,R51,Environmental themselves reach southern.,Mild
+1180,1106,"s72.001a, m54.5",Wear learn order economy likely.,Mild
+1181,708,"F329, i10",Page view reduce important.,
+1182,1430,J45.909 ,Majority they.,mild
+1183,1350,"r51,  E11.9",building she; you any,Mild
+1184,1596,I10,Under truth.,mild
+1185,1122,M54.5,Likely I walk another condition.,Mild
+1186,1172,"S72.001A, M545",Agent try.,moderate
+1187,1316,"K21.9 , E11.9",Final candidate memory carry.,
+1188,630,J45.909,Floor cell own big.,Mild
+1189,1251,E11.9,Will pressure husband.,SEVERE
+1190,366,"N39.0 , E11-9",Board scientist thus college election.,moderate
+1191,846,j45.909,Officer black.,Critical
+1192,674,N39.0 ,Notice idea end.,SEVERE
+1193,192,M545,Forget finish know.,mild
+1194,316, C50.911,Floor respond night instead.,SEVERE
+1195,884,e11.9,Vote ago outside themselves imagine.,SEVERE
+1196,1504,"c50.911, R51",Until speak have win check.,Critical
+1197,1371, I10,Republican between realize.,Mild
+1198,1774, C50.911,If federal.,Mild
+1199,440, R51,Member water wait.,Mild
+1200,279,F32.9,Perform laugh outside on your.,Critical
+1201,750,"R51 , M54.5 ",Our rock natural necessary.,Mild
+1202,283,"R51, S72.001A ",Development successful author.,
+1203,676,"M54.5, J45909",Field arrive benefit.,
+1204,1555,n39.0,book dog,
+1205,1226,N390,receive knowledge,mild
+1206,1356,f32.9,Interest what approach.,SEVERE
+1207,940,J45-909,Report tonight level fire.,Critical
+1208,1344,J45.909 ,Country beyond.,SEVERE
+1209,1393,k21.9,Somebody low skin from.,moderate
+1210,331,R51,Sea four rest medical strategy.,moderate
+1211,1887,"M54.5, J45909",Defense set whether wrong.,SEVERE
+1212,20,e11.9,Later weight discover season leg.,SEVERE
+1213,806,J45-909,Data wall about air.,Critical
+1214,274,r51,Eight west.,SEVERE
+1215,405,R51,Close traditional simple.,Mild
+1216,1091,K21.9 ,Rock population particular fine.,Severe
+1217,299, N39.0,But account enough.,mild
+1218,1142,S72.001A ,Wall sport use.,SEVERE
+1219,747,C50.911 ,Throw recent.,Critical
+1220,1294,I10,Without hair heart recent reason.,Mild
+1221,1566,"i10, E119",Employee magazine attack.,Critical
+1222,225," C50.911, m54.5",Fear cold behavior.,
+1223,1525, F32.9,Just executive light.,SEVERE
+1224,818,"N39.0, f32.9",Detail reduce be physical.,
+1225,1855,K219,Four information.,Mild
+1226,487,c50.911,Upon ten concern difficult.,Severe
+1227,600,R51,Role leader.,SEVERE
+1228,612,S72001A,Education list receive.,moderate
+1229,1385,c50.911,Wrong leg any foreign.,Severe
+1230,754,"N39.0, K219",Remain although forward.,mild
+1231,556,n39.0,Minute even task choose.,moderate
+1232,1222,I10,Even hospital student.,SEVERE
+1233,1152,"F32.9 , S72-001A",military take; girl everyone,SEVERE
+1234,1699, K21.9,Dinner similar.,Severe
+1235,1156, N39.0,Create report tree teach.,Critical
+1236,123,S72.001A ,Sound street.,Critical
+1237,90,J45.909 ,Treat necessary.,
+1238,330, C50.911,put some,Critical
+1239,636, R51,Car party dark opportunity certain.,Severe
+1240,606,"N39.0, J45909",Deal let education.,SEVERE
+1241,832,k21.9,Small among possible method.,
+1242,1213,j45.909,admit model,Mild
+1243,118,j45.909,People create improve.,
+1244,759,"J45-909,  S72.001A",Leader sign friend catch.,SEVERE
+1245,700,"F32-9, E119",Step pass purpose yet.,Severe
+1246,1561,"n39.0,  M54.5",Rule four himself person drop.,
+1247,1092,C50911,Tough always war list.,SEVERE
+1248,1724,f32.9,Cultural role fast unit.,mild
+1249,1439,N390,Sing gun hot trip.,mild
+1250,104,"F32.9, S72001A",Card style.,SEVERE
+1251,817,J45909,Paper throw upon six.,moderate
+1252,191,"M54.5 , s72.001a",Third black recent.,
+1253,511,"S72.001A, K21.9 ",Service deep huge body him.,Mild
+1254,1435,j45.909,Line network front kitchen.,SEVERE
+1255,1528,K21-9,Decision authority.,
+1256,1864,E11-9,Parent place range.,Severe
+1257,1044,J45-909,nature audience,Mild
+1258,526, J45.909,Establish surface.,mild
+1259,1410,K21.9 ,Picture foot Congress late hundred.,Mild
+1260,331,E11-9,Face green south food.,Mild
+1261,1262,N39.0,Must those over.,Severe
+1262,1592,R51,total tend,Severe
+1263,265,C50.911 ,Similar teacher hit anyone drive.,mild
+1264,832,K21.9 ,still official,Mild
+1265,1416,E11.9,Middle music paper official.,Mild
+1266,557,J45909,Policy name three should suddenly.,Mild
+1267,1528,N39.0,Although small often use.,Critical
+1268,1135,K21.9 ,Player other any quickly car.,Severe
+1269,582, R51,Money pay cost a sign.,Severe
+1270,792,I10,Material anything western me.,
+1271,1422,F32-9,Form after.,
+1272,892,"m54.5,  I10",Determine dark hold trade large.,Severe
+1273,1314,"f32.9, S72001A",Cell manage carry doctor.,SEVERE
+1274,621,i10,Big sing view.,Severe
+1275,901,K219,Onto billion difference health.,SEVERE
+1276,63,K21.9 ,Cause group serious.,mild
+1277,409,K21-9,Sit side sister ready fight.,
+1278,958,M54.5,Institution main.,Critical
+1279,923,N390,Case campaign step.,Mild
+1280,606,j45.909,Season several.,Mild
+1281,1514,s72.001a,Feeling even positive method.,Mild
+1282,976,K21.9 ,Address quality series recently.,Critical
+1283,894,M54.5 ,Quickly audience.,Severe
+1284,629,J45909,Behavior about bill three machine.,
+1285,1247,S72-001A,partner throughout,
+1286,307,i10,Discuss wait plant friend.,
+1287,1239," S72.001A, N39.0 ",Relationship plant.,SEVERE
+1288,159,R51,Action couple management arm.,mild
+1289,24,S72.001A,During concern.,SEVERE
+1290,435,M545,Republican story,Critical
+1291,772,"E119,  J45.909",Across field after.,moderate
+1292,1283,r51,Away new western.,SEVERE
+1293,1803,"R51, j45.909",Tonight series customer.,Mild
+1294,1199,C50-911,Event half.,Severe
+1295,1769,m54.5,Be outside.,Critical
+1296,500,M545,Draw treatment more.,Critical
+1297,1330,S72.001A ,Movie interesting lead generation.,moderate
+1298,357,M54.5 ,Human particular speak.,SEVERE
+1299,144,F32.9,Sign cut drug shake.,Mild
+1300,780, N39.0,Alone executive season.,
+1301,939,S72001A,Medical great be old.,Severe
+1302,537,f32.9,Process ability modern water spend.,Mild
+1303,545,J45.909 ,Series herself.,moderate
+1304,111,N39-0,Light white six relationship live.,Severe
+1305,572, J45.909,Three can son.,Severe
+1306,1885, R51,Mrs discuss fight ready.,Critical
+1307,1843,j45.909,Exactly free agreement special.,Mild
+1308,49,R51 ,Down similar plan.,moderate
+1309,1695,"S72.001A , C50-911",Improve number surface reveal window.,moderate
+1310,930,F32.9,Question make we eat.,Critical
+1311,162,M545,Eight third require.,mild
+1312,473," F32.9, J45.909 ",Page power east.,Severe
+1313,431,m54.5,Figure accept hour.,Mild
+1314,700,c50.911,Idea pass eye after how.,moderate
+1315,1619,I10,Treatment edge he.,
+1316,72,I10,Return image grow model.,Mild
+1317,1604,"J45.909, C50.911",Base task involve on.,
+1318,229,"E119, S72.001A",Everybody develop service.,Mild
+1319,452,i10,Choose fund.,moderate
+1320,475,"e11.9, F32.9 ",word anyone; crime front,SEVERE
+1321,821,J45.909,College outside establish job.,Severe
+1322,1485,R51,Run around chair.,SEVERE
+1323,1623,"C50-911,  F32.9",Eye realize.,Mild
+1324,443,C50.911 ,Fire choice audience house.,mild
+1325,1306,K21.9 ,Identify east these.,Mild
+1326,1874, C50.911,Just figure.,moderate
+1327,1269,e11.9,Throw will act true.,
+1328,112,C50.911 ,Author design reflect.,mild
+1329,673,E119,Decide exist heavy soldier owner.,moderate
+1330,1814,F329,Manage road treat.,Mild
+1331,151,R51,Figure seat thus.,moderate
+1332,1391,J45.909 ,Lot find reality.,SEVERE
+1333,1572," N39.0, C50.911",Suggest project policy.,moderate
+1334,368,"K21.9, J45909",Card save.,Critical
+1335,1754,"I10 , S72001A",Interview black evidence.,
+1336,693, R51,Partner stuff left participant outside.,mild
+1337,496,I10,Probably story measure.,moderate
+1338,1244,k21.9,Find take imagine necessary concern.,mild
+1339,136,E11.9 ,Get white rich family.,mild
+1340,260,J45.909,Next line.,Severe
+1341,572,"R51, N39.0",Century social view.,SEVERE
+1342,117,N39.0,Which minute air surface.,Critical
+1343,502,J45-909,Least walk hit.,Severe
+1344,1271,S72001A,Past pick series six.,Mild
+1345,290,J45.909,School throughout attorney consumer from.,Mild
+1346,545,E119,Great can.,moderate
+1347,1226,"C50911, f32.9",Role may.,Severe
+1348,469,I10,Let low box.,Severe
+1349,175,R51,Heart catch admit seat professional.,
+1350,1454,N39-0,Herself man air.,Critical
+1351,1240,"R51 , J45.909",Should purpose authority speech.,
+1352,1561,"C50911,  M54.5",Or war ready visit foreign.,Critical
+1353,944,F32.9 ,Half use class.,
+1354,1032,E11-9,Find nation.,mild
+1355,1491,E11.9 ,Speech despite necessary stuff up.,Mild
+1356,1288,"K21-9, S72.001A ",Face teacher fund.,Mild
+1357,431,m54.5,Arm still.,
+1358,570,f32.9,Second we.,Mild
+1359,299,s72.001a,Politics shake actually news.,SEVERE
+1360,857,"M545, k21.9",Official notice.,
+1361,1635,I10 ,Deep policy president.,
+1362,945, F32.9,bed great,Mild
+1363,1494,K219,Personal east choice hear major.,Severe
+1364,246,j45.909,Book in see.,moderate
+1365,1433, E11.9,Wife stand claim much.,mild
+1366,257,m54.5,Modern system either.,Critical
+1367,368,I10,Paper treatment thousand team.,moderate
+1368,859,"C50911,  R51",Product behind research necessary west.,mild
+1369,795,C50-911,Yard put need could.,moderate
+1370,1225,R51,Sort science attention drop.,mild
+1371,1242,k21.9,Development help seven.,
+1372,1576,C50.911,Expect culture letter.,mild
+1373,151,"R51 , E11.9",Director do poor.,SEVERE
+1374,1676,C50911,Wall letter section environmental.,Mild
+1375,1401,"J45.909, M54.5 ",Soon its whose ask.,Critical
+1376,333,"M54-5, R51",Value human population thus.,Severe
+1377,1472,C50.911 ,Other him.,SEVERE
+1378,1664,n39.0,Have memory.,SEVERE
+1379,679,"F32.9 , N390",Individual several rule away.,moderate
+1380,1045,"C50.911 , M54.5",work off; coach require,Critical
+1381,1851,"F32-9, E119",Herself benefit task see likely.,
+1382,1434,"I10 , J45.909",Laugh TV.,moderate
+1383,45,J45909,serve air,
+1384,1893,C50-911,Lead marriage Republican.,Critical
+1385,1513,f32.9,War total dark.,SEVERE
+1386,1045,E11-9,Statement today.,Mild
+1387,544,C50911,late probably,Critical
+1388,822," M54.5, S72-001A",Fight style somebody source black.,mild
+1389,4,c50.911,Themselves present fire.,SEVERE
+1390,486,r51,Treat national entire sort interest.,Severe
+1391,1655,J45-909,Step successful read.,
+1392,281, R51,Property third.,Critical
+1393,1351,F32.9 ,Blood field letter.,mild
+1394,1454,"n39.0, J45.909",Government girl say technology sometimes.,Severe
+1395,1686,F32-9,Culture ten garden interest.,mild
+1396,682,F329,Official other light capital.,
+1397,1338,C50.911,Gas interesting.,SEVERE
+1398,1776,"N39.0, K219",Power by smile.,mild
+1399,1443,I10,Task situation their.,Mild
+1400,1132,"J45.909, F329",Democratic time hour place.,mild
+1401,921, M54.5,Exist own deal side official.,moderate
+1402,1690,"F32-9, N39-0",Model quite himself on.,mild
+1403,1331,r51,Far teach body so.,mild
+1404,1513,i10,Purpose lot.,Critical
+1405,675,C50.911,Entire ok blue.,Severe
+1406,604,"F32.9, r51",Toward pay sign study box.,mild
+1407,513,F32.9 ,Firm week start executive.,moderate
+1408,1196,E11.9 ,Around anyone brother.,mild
+1409,1743,N39.0 ,Big him small consumer past.,Mild
+1410,1108, K21.9,pressure kind,moderate
+1411,1372,"J45909, R51",Class simply small mean.,Severe
+1412,1660,S72.001A,Democrat special concern.,SEVERE
+1413,1173,F32.9 ,Window current north.,
+1414,36,R51,Company cover ok watch senior.,
+1415,1203,m54.5,And list.,
+1416,1806, E11.9,Large instead building have instead.,Critical
+1417,1373,F32.9 ,Point right.,
+1418,1863,K219,South address citizen step.,SEVERE
+1419,383,M54.5 ,Deep push onto shoulder rate.,Mild
+1420,1571,M54.5 ,Bad situation every.,moderate
+1421,875,J45909,Maintain blue.,moderate
+1422,1185,C50.911,Ability policy.,
+1423,1283,S72001A,Girl coach forward customer.,mild
+1424,231,F32-9,Employee hear.,
+1425,30,I10,This move song peace change.,SEVERE
+1426,611,"m54.5, C50911",training card; tree single,SEVERE
+1427,1493,E11-9,Adult his.,SEVERE
+1428,1038,M54.5 ,Return perhaps long later.,Critical
+1429,1454,R51,Father career.,SEVERE
+1430,969,C50.911,Bar probably.,moderate
+1431,1790,F32.9 ,Decision expect.,
+1432,254,E11.9,Ability her safe.,moderate
+1433,1042,"S72-001A, n39.0",Level two attack matter exactly.,
+1434,64,"C50911, N39-0",Individual yes politics agree.,Mild
+1435,953,i10,Building major hold buy western.,moderate
+1436,508,R51 ,Board dog enter recent.,
+1437,258,E11.9,movement draw,mild
+1438,613,S72.001A ,Southern page much security.,SEVERE
+1439,63,M54.5 ,Return image indeed nation raise.,Mild
+1440,920,F32.9,Instead imagine clear.,SEVERE
+1441,359,F32.9 ,Where teacher although.,Critical
+1442,1525, C50.911,Tell range cause down.,Critical
+1443,1313," I10,  S72.001A",against security; save himself,moderate
+1444,1154,m54.5,Them unit.,Mild
+1445,419,S72001A,Own employee nearly.,Mild
+1446,642, E11.9,Morning author entire.,
+1447,1404,K21.9 ,Serious worker.,Critical
+1448,1103,S72001A,Certainly recent few yard life.,Mild
+1449,1561,N39.0 ,rock tough,Critical
+1450,1139,J45909,five wish,
+1451,565,F32-9,Financial expect both.,mild
+1452,865, I10,State heavy summer become.,Critical
+1453,1571,K21.9,Huge because color within on.,Critical
+1454,248," F32.9, n39.0",Per act true.,Critical
+1455,203,J45.909 ,Low his always create sort.,SEVERE
+1456,1351, R51,Fund source relationship wind.,mild
+1457,1023,R51,Change protect question their.,mild
+1458,487,j45.909,Probably role per suddenly.,Mild
+1459,14,I10,Degree quickly owner establish phone.,moderate
+1460,1405,I10,House thus.,Mild
+1461,257,N39.0,Over bar walk.,Severe
+1462,191,E11.9,Even single.,mild
+1463,1426,"M54.5 , J45.909",alone begin; option history,Severe
+1464,240, C50.911,Article glass long book share.,Severe
+1465,417,"S72001A, K21.9 ",Theory go in two.,
+1466,833,"F329, M54.5",Ever church hope.,
+1467,206,c50.911,Road record whether might.,moderate
+1468,466, R51,Area vote note.,Mild
+1469,85,N39.0 ,support up,Severe
+1470,1703,"F32-9, M545",Wrong pick cost consider one.,Severe
+1471,1361,I10,rock type,Critical
+1472,1737,"m54.5,  K21.9",Effort tax agree.,Mild
+1473,739,n39.0,It toward beat generation.,
+1474,812,e11.9,Computer campaign apply opportunity step.,
+1475,1216,"j45.909, C50.911 ",Standard hit necessary.,Mild
+1476,193,K21-9,Collection sound front onto far.,mild
+1477,690,I10 ,Source somebody remain.,Mild
+1478,795,c50.911,Evidence help art.,Mild
+1479,1014," J45.909, f32.9",Baby company money although.,mild
+1480,112,N39-0,Box western vote able.,Critical
+1481,301,K219,Truth current difference million.,Critical
+1482,1049,J45.909 ,Kind cultural work.,Severe
+1483,1422, S72.001A,Town thousand real.,Severe
+1484,210,S72.001A ,Less section issue notice.,SEVERE
+1485,348, N39.0,Oil firm agent road.,mild
+1486,671,C50911,Success sea church ability.,SEVERE
+1487,710, M54.5,Remain second well.,
+1488,226,F32.9,Mrs this trade to thousand.,
+1489,1478,N39.0 ,Rock century.,
+1490,1462,J45-909,Power direction.,moderate
+1491,214,J45.909 ,Congress issue.,
+1492,1041, F32.9,Him begin.,SEVERE
+1493,1468,N39.0 ,Congress marriage character room.,Mild
+1494,828,"I10,  R51",Also close.,Severe
+1495,535,R51 ,Best movement actually.,
+1496,1362,R51 ,Strong affect size.,Severe
+1497,1218,C50.911,wide particular,Mild
+1498,754,"f32.9, M54.5",Fight difficult.,Severe
+1499,1472,"e11.9, I10",Student down space.,Severe
+1500,948,r51,Successful site song.,moderate
+1501,1238,"I10, m54.5",Writer quality religious.,
+1502,146,i10,Order discover loss discuss discover.,moderate
+1503,82,S72-001A,Central must line conference.,moderate
+1504,503,"F329, j45.909",Upon authority trial win.,Mild
+1505,820, E11.9,Few table.,Mild
+1506,1398,I10,Light human to score.,SEVERE
+1507,934," S72.001A,  C50.911",Add voice.,moderate
+1508,1297,R51,Pattern example responsibility then.,Critical
+1509,618,"K21.9, i10",Paper leg.,Mild
+1510,952,K21-9,Chance early whose only.,mild
+1511,1849,r51,Could model.,mild
+1512,809," C50.911, k21.9",We difficult technology.,SEVERE
+1513,1254,F32.9 ,Phone end Mr popular.,moderate
+1514,505,"N39.0, C50911",Somebody grow example.,mild
+1515,389,S72-001A,Provide day eight.,moderate
+1516,860,M54.5,Health news media.,Severe
+1517,463, J45.909,Society trial act modern.,SEVERE
+1518,524, M54.5,Plant billion benefit.,Mild
+1519,93,"R51, i10",Throughout professor.,Critical
+1520,1719,"J45.909, I10",Movement during fund.,mild
+1521,1579, M54.5,Skill term other explain station.,mild
+1522,193,I10,Next large.,moderate
+1523,1620,"C50.911, S72001A",Station full material.,
+1524,287," M54.5,  K21.9",Wind former watch serve.,mild
+1525,1452, E11.9,Brother last itself different couple.,Critical
+1526,1559,N39.0,Likely bag such.,moderate
+1527,884,E11-9,Activity turn.,Critical
+1528,710,R51,Soldier character window.,Mild
+1529,1472,N39.0 ,Notice smile eight your instead.,Severe
+1530,1057,S72-001A,Bed nice become.,mild
+1531,534,e11.9,Question available explain boy.,Mild
+1532,189,I10,Affect another even everything break.,SEVERE
+1533,455,S72-001A,Eye office Congress see.,Critical
+1534,1436,"f32.9, K21-9",Reason international sure war.,moderate
+1535,1181,M54.5 ,address building,Critical
+1536,392,S72.001A,President site when term.,Critical
+1537,637,F329,Clearly floor environmental.,Mild
+1538,413,"j45.909, I10 ",Successful two budget design.,Severe
+1539,1476,N39-0,Resource wife song stay.,mild
+1540,556,"M54.5 ,  S72.001A",Treatment reach agency more.,Severe
+1541,1231,R51,Cover move nor data.,
+1542,184,M54.5,she explain,SEVERE
+1543,142,E11.9,detail girl,
+1544,1289,I10,Until rich yourself trouble wish.,Critical
+1545,452,J45-909,Dog difficult.,SEVERE
+1546,691,"I10, M54.5 ",Sea head environmental card.,Severe
+1547,34,"M54.5 , S72001A",Every note go.,
+1548,1708, I10,Industry many might.,SEVERE
+1549,1461,K21.9,Prevent market statement.,moderate
+1550,1772,I10 ,Someone set final under.,SEVERE
+1551,1866,"M54.5 , C50911",Task maybe nature event.,SEVERE
+1552,1099,F32.9 ,Suffer say right international.,SEVERE
+1553,924,"S72-001A, M54-5",Example great safe smile.,Critical
+1554,792,"m54.5, C50.911 ",Minute adult data.,SEVERE
+1555,1401,R51,Main very husband.,Mild
+1556,134," N39.0, C50.911",Really us fill individual.,SEVERE
+1557,1391,R51,Western option feel future claim.,Critical
+1558,695,j45.909,However discussion than.,Mild
+1559,180,M54.5 ,Air better protect must company.,moderate
+1560,271,M545,Nothing risk rock.,
+1561,1274,r51,Along ahead government.,
+1562,322,M54.5,Phone game though clearly.,Critical
+1563,313, J45.909,Mr project impact.,
+1564,552,K219,anyone ball,Mild
+1565,1703,"K21.9, S72001A",Start attorney blue system wall.,SEVERE
+1566,1083,E11-9,Quality wish real or.,moderate
+1567,1568,C50911,Allow whole seat away standard.,SEVERE
+1568,108,M54-5,Fast management.,moderate
+1569,716,j45.909,Drop along space mention.,Critical
+1570,499,E11.9 ,newspaper five,
+1571,1545,"J45909, F32.9 ",Least fall hold consumer work.,Mild
+1572,88,"S72.001A, R51",Great tax treat start.,moderate
+1573,1589,R51,Institution stay thousand.,SEVERE
+1574,1683, R51,West theory.,moderate
+1575,1807, S72.001A,Friend the road.,
+1576,754,F32.9,Marriage off.,SEVERE
+1577,1635,"m54.5,  R51",Yourself black table.,
+1578,924,"j45.909, f32.9",contain nor; painting available,moderate
+1579,1761, F32.9,Agree red avoid.,mild
+1580,1240,F32.9,Law particular goal.,moderate
+1581,208,"N39.0, E11.9",Because least test offer property.,SEVERE
+1582,278,f32.9,Help during total along.,moderate
+1583,836,J45.909,Learn scientist remain.,Critical
+1584,1176,"k21.9, c50.911",Identify middle from entire.,SEVERE
+1585,224,C50-911,every strong,Severe
+1586,823,f32.9,Sometimes stock foot choose.,Severe
+1587,147, S72.001A,game evening,SEVERE
+1588,1077,"R51, C50.911",Style whom summer debate.,Critical
+1589,92,m54.5,View among rock.,Mild
+1590,928,"j45.909, N39.0",Lead high if.,Severe
+1591,881,S72-001A,Dog young computer.,
+1592,832,n39.0,Seat story word.,Critical
+1593,1812,E11.9 ,Plant space sound.,Severe
+1594,671,S72.001A ,Explain sell board carry gas.,moderate
+1595,933,"C50911,  M54.5",approach method; record seven,Critical
+1596,389," N39.0, R51",Bill manager prevent best.,mild
+1597,696,"M545, J45909",Girl step prepare late.,moderate
+1598,1640,"J45.909, M545",Also end real policy.,moderate
+1599,1182,I10 ,Crime understand region ball.,
+1600,1761,"j45.909, I10 ",eat hour; education trade,SEVERE
+1601,578," J45.909, E11.9 ",Goal enjoy scientist call.,
+1602,1151,J45.909,This feel several identify along.,mild
+1603,1403,K21.9,Main site top officer offer.,Mild
+1604,1519,M54.5,Position herself.,Mild
+1605,1636,K219,Difficult never hard father name.,Severe
+1606,409,j45.909,Performance truth arm financial.,Critical
+1607,1190,C50-911,Young sort friend account economic.,moderate
+1608,1534,e11.9,Hard prove our finish help.,Critical
+1609,1592,m54.5,Station whatever guess into there.,Critical
+1610,1381, F32.9,Civil factor.,SEVERE
+1611,117,i10,Worker senior.,mild
+1612,255, E11.9,Card partner think agent.,SEVERE
+1613,285,i10,Ground lot.,
+1614,1631, J45.909,Order special color.,mild
+1615,194,K219,Challenge body.,Critical
+1616,695, C50.911,Since among feel.,SEVERE
+1617,1366, N39.0,Company agency under.,mild
+1618,439,F329,Who you pull.,SEVERE
+1619,1306,R51,Pressure leg road listen eye.,Severe
+1620,759,"k21.9, m54.5",Whether chance always.,moderate
+1621,1264,"e11.9, K21.9",Difficult manage point hope.,
+1622,1628,J45.909 ,May letter.,
+1623,1898,R51,Market travel or decade term.,Mild
+1624,1144,M54.5 ,Traditional clear move than.,moderate
+1625,220,"K21.9 ,  E11.9",Food say now build.,moderate
+1626,1245,R51,Black factor inside.,
+1627,298,r51,Eye natural.,Severe
+1628,149,"R51, c50.911",Three dog world.,SEVERE
+1629,1434, F32.9,Family series room international enjoy.,mild
+1630,911,I10 ,Up fear scene.,SEVERE
+1631,1760,"N39.0 , m54.5",Second those anyone term.,
+1632,958," E11.9,  F32.9",Often eat market record.,mild
+1633,719,N39.0,Raise beyond what whatever more.,moderate
+1634,310,F32.9 ,Test dark.,SEVERE
+1635,833,"F32.9, s72.001a",Minute forward girl physical.,mild
+1636,629,"I10, K219",Why owner general.,SEVERE
+1637,1767,R51,Animal term effect improve.,Critical
+1638,1056, C50.911,Though part government team.,moderate
+1639,715,"E119, N39.0 ",Dog fine green station down.,moderate
+1640,727,"R51,  J45.909",Yourself consider gun.,SEVERE
+1641,1324,M545,Play put buy.,SEVERE
+1642,978,R51,Concern try fund.,mild
+1643,971," S72.001A, C50-911",Picture into each.,
+1644,1721,F32.9,Different along then but especially.,
+1645,1439,"J45909,  S72.001A",Sell mind physical.,Mild
+1646,512,N39-0,Explain ago growth trade play.,Mild
+1647,1591,"J45.909 , F32.9 ",After institution term.,Critical
+1648,1125,C50-911,Finally buy heavy.,Critical
+1649,1638,"F32.9 , c50.911",Health follow.,Mild
+1650,49,M54.5,White sure offer end.,mild
+1651,93,E11.9,great public,Critical
+1652,571,E11.9 ,find dark,moderate
+1653,609,E11.9,Yourself south cover over.,mild
+1654,959,j45.909,Writer deep recently rather responsibility.,SEVERE
+1655,622, E11.9,Buy radio your describe major.,Severe
+1656,1349,N39.0,Up whom trip.,mild
+1657,414, E11.9,Thousand water.,mild
+1658,1030,F329,Site next six might.,SEVERE
+1659,519,J45-909,Reality necessary type true really.,mild
+1660,1790,"N39.0, R51",Television walk meeting medical.,Critical
+1661,1173,S72001A,word decision,Severe
+1662,613,N390,test deal,mild
+1663,1071,N39-0,Item allow.,Mild
+1664,1572,j45.909,Degree together at conference cell.,SEVERE
+1665,1039,I10 ,Paper and suddenly.,mild
+1666,77,"N39.0, r51",Approach figure yet.,moderate
+1667,182,N39.0 ,Evidence white might.,SEVERE
+1668,1066,"F32-9,  R51",Enter prevent middle example or.,Critical
+1669,398, F32.9,Tax concern happen.,Critical
+1670,1087, S72.001A,Actually standard from discussion view.,Severe
+1671,1882,R51,Example including tend along consumer.,SEVERE
+1672,273,R51,Along action tree.,Mild
+1673,472,R51 ,Career prevent where television art.,mild
+1674,1308,m54.5,Make medical.,SEVERE
+1675,1253,"E11.9 ,  K21.9",Ready guy any believe.,mild
+1676,1011, K21.9,Begin region together summer understand.,SEVERE
+1677,868,J45.909 ,Feeling history.,Critical
+1678,363,c50.911,Catch figure in local.,Critical
+1679,1398, E11.9,Still picture.,Critical
+1680,1405,"E11.9 , r51",Beautiful may.,mild
+1681,341,E11-9,Place condition.,Critical
+1682,1200,F32-9,Throw peace data focus.,Critical
+1683,1460,S72001A,Live suddenly young or want.,Mild
+1684,808,K21-9,exactly challenge,moderate
+1685,672,C50.911 ,Change full Democrat kitchen.,moderate
+1686,1267,"K219, f32.9",Various according simply kid yard.,SEVERE
+1687,613,I10,it guy,SEVERE
+1688,1852,N390,Difference decade cup either.,
+1689,1727,f32.9,National part pay.,SEVERE
+1690,1829, C50.911,Service stage.,Severe
+1691,1637,F329,Under collection.,mild
+1692,27,j45.909,Against so sound.,mild
+1693,618,"K21.9 , m54.5",Left social home huge.,
+1694,1319,N390,Health old with.,
+1695,198,E11-9,Name fast book can.,Critical
+1696,1696,E11.9,Financial expert behavior win.,Severe
+1697,584,"i10, C50.911",Yet main show.,Critical
+1698,222,I10,Chance word perform area score.,
+1699,1698,E119,Work list rich.,
+1700,238,M54-5,Dark look.,Critical
+1701,1387,"E11.9, R51",Audience individual wind service.,mild
+1702,194,N39-0,Pick too out away.,moderate
+1703,1374,"N390, J45.909 ",Himself dog most.,
+1704,1094, N39.0,Later organization beautiful.,Critical
+1705,558,"j45.909, N39-0",hard quite; whole strategy,Mild
+1706,42," N39.0, C50.911",guy about; performance make,Severe
+1707,1263,M54-5,edge TV,mild
+1708,173,"M545, K21.9",Cultural animal two.,Critical
+1709,796,J45909,Another talk method region.,Critical
+1710,872,I10 ,Treat national see.,
+1711,372,"E11.9, i10",Arrive past phone discuss.,
+1712,19,F32-9,Travel want hope.,SEVERE
+1713,1125," C50.911,  N39.0",South far end.,Mild
+1714,1678,"J45.909 , I10 ",Notice surface nothing.,Mild
+1715,291,s72.001a,Better address we.,Critical
+1716,1122,K21.9,hotel care,Mild
+1717,96,R51,Rest without person.,Mild
+1718,1333,F32.9,better have,moderate
+1719,188,k21.9,Green music authority crime something.,Severe
+1720,1727, F32.9,Money his meet need community.,Severe
+1721,339,"M54.5 , k21.9",Down he author.,Critical
+1722,887, N39.0,Forget close follow enough radio.,Severe
+1723,1158,"S72.001A, F329",Gun affect bag.,Critical
+1724,64,"r51, J45.909 ",National bill stand star.,Mild
+1725,691, M54.5,Store everything approach.,Mild
+1726,1238,"J45-909, R51",Could memory fall everyone.,moderate
+1727,522,s72.001a,Keep just every.,Critical
+1728,392, C50.911,Quite yard serve tell.,mild
+1729,195,M54-5,can wrong,SEVERE
+1730,1765,M54.5 ,Service discussion political above.,Critical
+1731,773,F32-9,Full worker subject lay.,Severe
+1732,1520,R51,Large bed strong say.,moderate
+1733,1250,I10 ,Inside use.,Mild
+1734,1003,K219,From pull behavior just.,moderate
+1735,937,"j45.909, m54.5",Hit child shoulder its three.,
+1736,769,K219,Than fight low subject.,
+1737,617,"R51, I10",Spring by while.,moderate
+1738,1467,"m54.5, E119",Former watch nor.,Mild
+1739,622,"J45.909,  E11.9",Ball example fact still.,SEVERE
+1740,157,J45909,Product site environmental action million.,
+1741,1699,F329,Military space add.,Mild
+1742,681,"e11.9, I10 ",Event city sit then set.,moderate
+1743,530,S72-001A,Really receive option team.,SEVERE
+1744,1792, R51,power major,Severe
+1745,1413,k21.9,My option forget office bag.,SEVERE
+1746,834,F32.9,Black this.,moderate
+1747,1790,K21.9 ,With professional.,Mild
+1748,656,"M54.5, E11.9 ",Learn scientist four traditional really.,
+1749,1425,"I10, m54.5",wonder responsibility; camera knowledge,Critical
+1750,1622," K21.9, f32.9",Attack thing item any.,SEVERE
+1751,778,j45.909,Moment involve man store movement.,SEVERE
+1752,876,I10 ,Rule nearly age.,moderate
+1753,1555,E11.9 ,Year stop certainly middle life.,
+1754,1066,J45.909,Space at technology.,Mild
+1755,552,"M54.5,  K21.9",Value bar happy.,Severe
+1756,736,C50.911 ,Human size.,Critical
+1757,895, K21.9,Future black network before herself.,Mild
+1758,1135,I10,Worker movement current memory.,moderate
+1759,26,R51 ,Nice fly.,Critical
+1760,1344,"N390, F32.9 ",Pass identify in.,mild
+1761,1581,J45909,house low,mild
+1762,315,R51,Receive herself.,Mild
+1763,621,F32-9,Fact cell behind site.,Severe
+1764,229,"J45-909, S72001A",Set expert continue.,mild
+1765,1367,F329,Nice party single him.,mild
+1766,610,K21.9 ,General believe detail today plant.,mild
+1767,777,N39.0 ,Less animal institution without.,moderate
+1768,563, E11.9,Assume certainly run this.,moderate
+1769,290, K21.9,Company mind.,
+1770,1669,E11.9,Speak movie quality country.,SEVERE
+1771,525, J45.909,degree note,Critical
+1772,1419,M54.5,Total room.,Severe
+1773,1028,"K21-9, N39-0",Water anything able how.,Mild
+1774,1699,"K21-9, E119",Scene institution toward.,Severe
+1775,1352,c50.911,Character sit nothing.,mild
+1776,619,"F329,  R51",Data international budget accept.,moderate
+1777,223,"k21.9, S72.001A ",Near growth Congress know keep.,
+1778,152," J45.909, M54-5",Something American however.,SEVERE
+1779,1153,F329,Wife thing positive hair.,SEVERE
+1780,1058,M545,participant modern,Severe
+1781,876,"M54.5, E11-9",White drive food.,Mild
+1782,760,F32-9,Line eight work.,Severe
+1783,1021,C50.911 ,Way should.,mild
+1784,1008," I10, J45909",Data responsibility night catch employee.,SEVERE
+1785,261,M54.5 ,Talk type appear.,Mild
+1786,1131," C50.911, E11.9 ",Ready maintain on career result.,Severe
+1787,1695,"S72001A,  R51",Travel view.,Critical
+1788,1653,F329,Traditional that defense really.,moderate
+1789,759,N39.0 ,Sister ahead especially travel certainly.,moderate
+1790,873,"N390, J45-909",Realize most Mrs.,mild
+1791,663, J45.909,Writer official none.,Mild
+1792,164,"F32.9 , C50.911 ",Able no then live.,
+1793,1757,N39-0,Firm collection.,moderate
+1794,1299,"N39.0 ,  J45.909",Rather worker exist.,Severe
+1795,785,"S72.001A, e11.9",And western.,Severe
+1796,1537,M54.5 ,Of specific behind time you.,Critical
+1797,145,N390,President enough along open.,Severe
+1798,285,J45-909,Statement project enjoy market.,Mild
+1799,1414,I10,Method blue television take want.,Severe
+1800,1673," C50.911, R51",Down everything.,SEVERE
+1801,1352,"K21.9, J45909",Trip bit.,Mild
+1802,1147,R51 ,Site politics thing usually section.,mild
+1803,1370,I10,Generation smile so.,
+1804,1553," R51, I10 ",Under PM rate.,Severe
+1805,1555, R51,Name report million yourself best.,
+1806,262,C50.911 ,Exactly necessary red federal.,Critical
+1807,1460,"S72.001A ,  N39.0",Election they color commercial.,Severe
+1808,1179,M54.5,note inside,SEVERE
+1809,351,"C50-911, I10 ",Close free few.,
+1810,191,"I10, M54.5",Where behavior recent.,mild
+1811,1755,I10 ,threat sing,moderate
+1812,713,R51,Fall hit spring name.,
+1813,908,E11-9,Trip whose imagine.,
+1814,1026,K21-9,Treatment establish.,mild
+1815,1377,"S72.001A , K21.9 ",Bar item.,mild
+1816,1474,S72001A,Special church.,Severe
+1817,696,"r51, j45.909",Region yard street.,SEVERE
+1818,1763,R51,Big important.,Severe
+1819,115, E11.9,However science age visit.,Severe
+1820,255,R51,Particular tree clear safe.,Severe
+1821,409," S72.001A, K21.9 ",Heavy even.,Critical
+1822,331,F32.9 ,Room choose here.,Mild
+1823,1094,n39.0,available step,Mild
+1824,1297,"m54.5,  I10",Attack alone option.,Mild
+1825,2,M54-5,Either consider ground.,Mild
+1826,288,N39-0,Above general itself.,Severe
+1827,1438,n39.0,nice science,Critical
+1828,1428, M54.5,Experience we speak seat.,mild
+1829,170,"C50-911, I10",Common everyone yourself leader.,mild
+1830,916,K21-9,Sound push attention.,moderate
+1831,110,"R51 , K21.9",training one; over military,moderate
+1832,1074, M54.5,Its answer.,
+1833,1022," S72.001A,  C50.911",Hope admit kitchen.,Severe
+1834,1613,m54.5,Rule little officer.,SEVERE
+1835,1418,F329,Project quite.,moderate
+1836,1487,F32.9 ,Example challenge phone.,Mild
+1837,1882,"M54-5, C50.911 ",Certain before everything.,Mild
+1838,1302,S72001A,Prevent significant tell whole.,Severe
+1839,767,N39.0,Start our stay act.,
+1840,1573,"R51,  J45.909",Court speech.,Severe
+1841,1358,K21-9,Factor left sure detail enter.,Critical
+1842,1692, S72.001A,Majority indicate tonight.,Critical
+1843,966,i10,Card store fire knowledge sport.,Mild
+1844,267, K21.9,Inside third.,moderate
+1845,1474,"S72.001A, M54.5",Soldier exactly.,moderate
+1846,1004,E11.9,Town relationship growth clear.,Mild
+1847,1044,M54.5,Entire PM skill.,moderate
+1848,920,"K21.9 , C50-911",Investment impact house page.,Severe
+1849,846,"j45.909, k21.9",Sport among.,Severe
+1850,449,"S72.001A, c50.911",Cause turn.,Mild
+1851,879,"r51, I10",Debate government we ground.,Severe
+1852,1136,m54.5,Partner local event life thus.,Critical
+1853,1521,N39-0,Green exactly process many.,Critical
+1854,909, C50.911,Very source who research.,Critical
+1855,203," F32.9, I10 ",Few member hotel.,Critical
+1856,56,C50-911,Share six western travel defense.,moderate
+1857,638,C50911,fish start,Severe
+1858,702,F32-9,Claim institution reduce.,SEVERE
+1859,1775,S72.001A,Current career quickly return.,moderate
+1860,122,M545,Reality card fill.,Mild
+1861,1641,C50.911,Actually exist.,mild
+1862,481,M54-5,Court want amount apply successful.,Critical
+1863,687,"s72.001a, E11-9",Share what.,Critical
+1864,1239, F32.9,Institution away fall.,SEVERE
+1865,1436,R51,party art,Critical
+1866,340," S72.001A, N39-0",Other beat trade loss.,mild
+1867,954,N39.0 ,Daughter leader seem already.,moderate
+1868,883,i10,Wrong describe eight admit.,mild
+1869,1354,I10,Marriage along.,Mild
+1870,339,E11-9,Forward price when your evening.,
+1871,57,"c50.911, F32.9 ",Both treat with also.,Severe
+1872,274, N39.0,share say,Critical
+1873,379,I10,Three compare road read analysis.,moderate
+1874,735,e11.9,Forward fly wall wrong between.,Critical
+1875,1025,m54.5,Growth treat.,mild
+1876,504,S72001A,Offer suddenly scientist now.,
+1877,1330,"S72.001A , F32-9",Tree audience reason.,moderate
+1878,327, N39.0,Item full.,
+1879,4,E119,where suddenly,
+1880,1057,N39-0,Here animal national.,SEVERE
+1881,195,E119,Position short.,moderate
+1882,1515,M54.5,Candidate analysis eat.,
+1883,210," N39.0,  E11.9",Cut current audience expert.,
+1884,1708,I10 ,Building often statement pressure full.,Mild
+1885,312,"k21.9,  E11.9",Strong would building.,Critical
+1886,1578," F32.9, K21-9",Between way.,
+1887,1008,"r51, I10",Today impact material.,Severe
+1888,310,i10,Here brother doctor.,
+1889,1117,R51,Common heart.,moderate
+1890,266,"e11.9, F32-9",Strategy those glass ten guy.,Severe
+1891,216,i10,Once however leave because professional.,moderate
+1892,1227,S72.001A,Bring sound speak.,SEVERE
+1893,1071, J45.909,Wife today.,mild
+1894,1517,S72.001A ,Financial effort project.,SEVERE
+1895,252,k21.9,hundred same,mild
+1896,1461,M54-5,Campaign painting whether two.,
+1897,160,n39.0,Win back dinner every.,Severe
+1898,322,N390,Address himself baby.,mild
+1899,451,k21.9,Industry both capital.,
+1900,352,I10,gun serious,Severe
+1901,1787,R51,Every newspaper election later detail.,moderate
+1902,783, I10,International article look.,
+1903,1888,E11.9 ,Board dark rate hard decision.,moderate
+1904,1036,N39.0,Weight training every.,moderate
+1905,1782,I10,Glass may purpose large.,Critical
+1906,69,I10,Hit movement from foreign.,Critical
+1907,482,f32.9,Scene media next wife traditional.,mild
+1908,1067,s72.001a,Because cup your future.,mild
+1909,609,"K21.9 , i10",Main able full look day.,Mild
+1910,844,j45.909,Artist tend not what pull.,moderate
+1911,968," M54.5, F32-9",Hit some hit identify.,Critical
+1912,431,K21.9,Best two series.,Severe
+1913,703,R51,Security ready however daughter.,mild
+1914,1121,F32-9,Learn film age protect consider.,Severe
+1915,110,"S72.001A, N39.0 ",Culture represent part.,SEVERE
+1916,859,s72.001a,Time dinner employee.,moderate
+1917,1132,I10,Worry memory seat chance.,
+1918,957,S72-001A,Thought build goal indicate sea.,SEVERE
+1919,758,"F32.9 , E11-9",Add approach new let.,moderate
+1920,1392,J45909,Least trial his.,SEVERE
+1921,1131,R51 ,Bad dream matter wish citizen.,moderate
+1922,1251,I10,Soldier environmental second upon discussion.,Severe
+1923,932,J45.909 ,Simple image military democratic.,SEVERE
+1924,824,C50911,Easy son project staff something.,moderate
+1925,1306,"J45.909, K21.9 ",Ago record the cultural.,Critical
+1926,1021, C50.911,Discover body case.,Critical
+1927,733,C50911,Like recognize maybe.,mild
+1928,1551,S72.001A,Everything so source information.,Critical
+1929,1697,K219,Team professional.,Mild
+1930,215,"C50-911, F329",In to history old little.,Mild
+1931,77, K21.9,Theory unit box piece paper.,Critical
+1932,1338,J45.909 ,Far wife expect strong.,mild
+1933,1583,C50.911,Leave by run.,Severe
+1934,359,c50.911,Page weight business see.,
+1935,1385,S72001A,Book rich human.,Critical
+1936,982,"R51, C50-911",force respond; like market,Critical
+1937,1770, R51,college particular,Mild
+1938,1290,"J45.909 , K21.9 ",Budget maybe.,Severe
+1939,1449,n39.0,Television analysis significant.,SEVERE
+1940,1333,"N390, R51",Language recent news.,Mild
+1941,1383,C50911,Because option help.,SEVERE
+1942,685,"J45.909, M54.5 ",Power good task card.,mild
+1943,1417,I10,Election energy safe well win.,Severe
+1944,1469,R51,purpose sure,Severe
+1945,1819,"J45.909, r51",Suffer enough for very.,mild
+1946,697,F32.9 ,Unit term part.,moderate
+1947,542,k21.9,Break body still yard.,mild
+1948,1510,"N39.0,  R51",Seem point final.,mild
+1949,1398,F329,Upon when seek season.,SEVERE
+1950,714,i10,Game system design since.,Severe
+1951,583,m54.5,Field among.,moderate
+1952,317,F329,Cover law but.,Severe
+1953,1785,R51,Guy heavy meeting.,mild
+1954,1081,"K219,  J45.909",Run case.,SEVERE
+1955,503, C50.911,Without worker method.,Mild
+1956,1038, S72.001A,Wind until picture.,
+1957,1297,R51 ,Worry people former performance.,
+1958,462,"J45.909 , k21.9",Plant reduce hear enough.,SEVERE
+1959,1207,J45.909 ,Gun not community star.,Critical
+1960,466,R51,Other so nothing project.,Critical
+1961,832,K21.9 ,Sort whose simply group support.,mild
+1962,760, R51,Choose keep skill consider piece.,mild
+1963,1403,K21-9,student ok,
+1964,1721,i10,Great speak tree.,mild
+1965,588," E11.9,  M54.5",Carry success focus.,mild
+1966,1614,C50.911 ,Rise laugh concern six.,
+1967,1708, S72.001A,Book outside prevent they none.,moderate
+1968,932,K219,Draw present put rather.,mild
+1969,1673,"r51, M54-5",Agreement place second certainly.,Mild
+1970,225,"I10, S72.001A",About avoid.,Mild
+1971,282,r51,Part teacher.,moderate
+1972,1267,C50911,Whom green stop some.,Severe
+1973,705,R51,Car this power.,Severe
+1974,1454,J45.909,Hotel including audience.,SEVERE
+1975,821,"M545, F32.9",Real play study establish.,Severe
+1976,886,K21-9,School day executive man door.,Mild
+1977,931," F32.9, C50.911",Defense hotel.,Mild
+1978,1872,C50-911,Into relationship camera phone lawyer.,moderate
+1979,316,"M54.5, f32.9",Race four.,Mild
+1980,1574,E11.9 ,Election white free whose.,SEVERE
+1981,281,M54.5 ,Mother necessary.,Critical
+1982,1197,E11.9,National consumer medical police.,
+1983,1422,C50.911,Safe land left though.,Severe
+1984,419,N39.0 ,Action there.,Critical
+1985,533,R51,A health.,Severe
+1986,1236,M545,Walk news sound late subject.,mild
+1987,244,R51,Become beat open public.,SEVERE
+1988,762," E11.9,  J45.909",Know full suddenly write page.,moderate
+1989,1211,I10 ,Interview we.,moderate
+1990,1273,K21.9,Anyone whole list.,moderate
+1991,1323,S72.001A ,Policy quite.,Mild
+1992,1172,F329,Son why blood.,mild
+1993,1053," S72.001A, C50911",Suffer forget free strong.,mild
+1994,1339, S72.001A,Picture social way.,mild
+1995,931,R51,Space road approach gun as.,Critical
+1996,1865,K219,Under throw window.,Critical
+1997,114, N39.0,Organization course avoid.,Mild
+1998,488, S72.001A,Point follow reach speak.,Mild
+1999,795, K21.9,Sound chair sense term.,Mild
+2000,1574,I10,Force show story.,
+2001,400,"N39.0, E11.9 ",North ahead something lose avoid.,
+2002,777,"N390, C50.911",Major weight himself.,mild
+2003,1446,M54-5,Activity them themselves himself.,Critical
+2004,1263,E11.9 ,Into upon.,moderate
+2005,1457,J45.909,Represent face.,Critical
+2006,1559,J45.909 ,Believe music concern role.,
+2007,1284,N390,Still seat.,Critical
+2008,1420,j45.909,Rise American per.,SEVERE
+2009,1523,"R51, K219",Dark might north.,
+2010,1157,R51,Fly big couple.,Critical
+2011,476,C50-911,Ten item go.,Severe
+2012,312,"J45909, I10",Choose face remember at.,Critical
+2013,307,"S72001A, E11.9 ",Bad these statement.,
+2014,506,N39.0 ,Catch rule.,
+2015,871,K21.9 ,others cell,mild
+2016,1577,"E11.9, N39.0",Have receive foreign player.,Critical
+2017,474,R51,Dream daughter white practice.,moderate
+2018,653,"F32.9 ,  J45.909",Improve may food agree unit.,moderate
+2019,140,"S72.001A , K219",Environmental sense member summer keep.,SEVERE
+2020,1582,M54.5,System there people man program.,SEVERE
+2021,1644,R51,Form billion whole each.,Critical
+2022,574,J45.909 ,That stand woman.,Mild
+2023,1709,"R51, I10",Effort design leg reason final.,Severe
+2024,800,S72-001A,Tax maybe economy prepare.,
+2025,1695,c50.911,Same collection.,Severe
+2026,1681,"n39.0, C50-911",Around staff listen.,
+2027,1003,"R51, M54.5",Pretty station turn.,moderate
+2028,1163, E11.9,President push.,Critical
+2029,185, I10,News actually avoid.,
+2030,1323, I10,Medical know.,SEVERE
+2031,40,R51,Yourself all authority tonight national.,mild
+2032,384, J45.909,Music reason sense list area.,Critical
+2033,417,R51 ,Analysis learn.,mild
+2034,1796,N39-0,Pressure environment recently education firm.,SEVERE
+2035,1342,C50.911,Simple successful care.,Mild
+2036,1025,K21.9,Like become still reason.,
+2037,619, C50.911,Quite forward when beat nothing.,mild
+2038,1890,i10,Risk quickly car government.,SEVERE
+2039,1701,R51 ,Policy car image ground feel.,mild
+2040,203,M54.5,Common there action a.,SEVERE
+2041,438,"K21.9, S72001A",Yourself my minute wind likely.,mild
+2042,1288,"f32.9, K21-9",Fear skin final leader.,moderate
+2043,421,C50-911,Close condition hard walk.,Severe
+2044,22,C50911,laugh story,Severe
+2045,1302,I10 ,particularly share,Severe
+2046,1613,M54.5,Back sense nor.,Severe
+2047,257,F32.9,Explain next reveal return.,SEVERE
+2048,763,k21.9,Customer leg technology walk.,SEVERE
+2049,124,F329,Opportunity wonder.,moderate
+2050,1485,N39-0,Door whatever.,SEVERE
+2051,1833,R51,live employee,
+2052,402," C50.911, E11-9",Best soldier.,Critical
+2053,539,S72.001A ,Real cover lawyer process.,Severe
+2054,746,"K21-9, S72.001A",Despite form name box yeah.,Mild
+2055,666,C50.911,Personal off.,SEVERE
+2056,447,I10,Professor manager.,Critical
+2057,785,F329,win ten,Mild
+2058,266,N39.0,That list dinner leader.,Critical
+2059,174,C50911,Speech view miss win bit.,moderate
+2060,484,n39.0,Certain series security another.,mild
+2061,23, E11.9,Talk shake allow program.,moderate
+2062,1363, M54.5,Turn throughout movement plant range.,
+2063,1688,"N390, F32-9",Edge happy.,Critical
+2064,632,f32.9,Training image respond image.,moderate
+2065,1445,M545,Capital health even.,Severe
+2066,1050,R51,Him tonight understand size.,
+2067,258,F32.9,Natural light well.,Mild
+2068,1056,"M54-5, K21.9 ",Stuff decide agreement lay.,Severe
+2069,629,F32.9 ,Break system science.,mild
+2070,1606,m54.5,Conference his to mission.,Mild
+2071,1724,I10,special rise,moderate
+2072,1523,S72-001A,Local enter model.,Severe
+2073,1574,"E11.9 , m54.5",President enter.,Critical
+2074,1627,R51,My scene fact hour.,moderate
+2075,1726,"M54.5 ,  F32.9",Piece picture.,mild
+2076,251,"S72.001A, R51",Young money forward media.,Severe
+2077,682,s72.001a,Part them worker audience baby.,moderate
+2078,191,"k21.9, e11.9",Country all everyone.,Mild
+2079,549,E11-9,Believe painting yet.,mild
+2080,1128,S72.001A,firm rock,moderate
+2081,1291,n39.0,night start,SEVERE
+2082,1137,J45.909,Indicate thank security exist.,Critical
+2083,854,"C50-911, N390",Collection agent simple rate.,mild
+2084,814,"N390, k21.9",Young benefit use.,Critical
+2085,1086,S72001A,Interesting produce.,mild
+2086,1682,S72001A,Should explain believe area.,mild
+2087,1050,J45.909,Determine key.,Severe
+2088,1091, E11.9,Either structure.,mild
+2089,1771,J45-909,Entire by car travel.,Severe
+2090,1238,j45.909,Sound pull again the.,Severe
+2091,562,s72.001a,Ago story short industry.,SEVERE
+2092,665,K219,Sell right.,mild
+2093,1228,"S72001A,  M54.5",reflect party; bill product,moderate
+2094,1265,K21.9 ,Appear they maybe keep.,moderate
+2095,921," M54.5, E119",Every week local.,SEVERE
+2096,782, C50.911,Adult sense wait.,Mild
+2097,1295, J45.909,That certainly here out.,Severe
+2098,961,"J45-909, F32.9 ",Us difficult people three.,Severe
+2099,1163," S72.001A,  J45.909",Recent skill wind become foot.,Critical
+2100,282,N390,And he.,moderate
+2101,1767,"J45.909, K21.9",Follow even attack fact home.,mild
+2102,1402,"C50.911, N39.0 ",Join many.,Mild
+2103,1359,"I10,  S72.001A",Collection book kid rest western.,SEVERE
+2104,1411, J45.909,Center behavior but industry.,
+2105,816,N39.0,Program involve.,Severe
+2106,634,K21.9 ,Teach require son.,Severe
+2107,1255,"M54-5,  S72.001A",Think your sign.,Mild
+2108,1564,S72.001A,especially number,Mild
+2109,66,M54-5,Wait leg east care.,mild
+2110,84,j45.909,gas once,SEVERE
+2111,1352,M54.5,Red relate.,SEVERE
+2112,1100,J45.909 ,Effect thing direction.,Critical
+2113,361,R51,Field why.,Severe
+2114,1344,R51,This these without.,moderate
+2115,229,"J45-909, C50.911 ",Note property early section.,SEVERE
+2116,1095,S72.001A,Tell dream gas small bag.,Critical
+2117,1083,c50.911,Matter here truth about two.,mild
+2118,1130,"J45.909 ,  F32.9",Begin stuff alone why.,Severe
+2119,151,"S72001A, R51",Of sea.,Critical
+2120,1492,I10,Society before.,Critical
+2121,343,"K21-9,  C50.911",Dark chance recent issue cover.,Mild
+2122,240,"I10 , E11.9 ",Yard similar federal admit.,Critical
+2123,504,C50.911,Network no.,Critical
+2124,1289,R51,Guy arm dinner less sell.,SEVERE
+2125,385,C50911,His avoid fund.,
+2126,998,R51 ,Coach produce still.,Critical
+2127,654, J45.909,impact type,mild
+2128,803,N39.0,Who turn.,Severe
+2129,403,S72001A,Quality candidate as sport civil.,SEVERE
+2130,334,E11.9,Ball present person.,mild
+2131,1292,F329,So defense lawyer.,moderate
+2132,184,N390,And hit.,mild
+2133,606, F32.9,Practice stage son.,mild
+2134,427,m54.5,Know site really water dinner.,Critical
+2135,821,K21.9,Happen wear season usually.,moderate
+2136,986,"e11.9,  J45.909",Poor against opportunity.,Critical
+2137,1392," C50.911, R51",Have all call.,Critical
+2138,1225,J45.909,Participant evening according manager.,mild
+2139,1173,s72.001a,Once reason cover.,Critical
+2140,129,"K219,  I10",Wait various mention.,Critical
+2141,732,K219,Rule guess research.,mild
+2142,1355,I10,State food when.,moderate
+2143,844,M54.5 ,Relationship speak college game term.,SEVERE
+2144,375,N39.0,Else throughout.,moderate
+2145,1625, F32.9,Say challenge thing month.,Severe
+2146,1657,M545,Task dog same until.,Critical
+2147,1554,C50-911,Action into southern.,
+2148,1289,"r51,  E11.9",Too blue buy prevent each.,SEVERE
+2149,566,F32.9,Walk recent than.,Severe
+2150,1866,I10,Light read approach Congress.,SEVERE
+2151,1143, E11.9,War scientist have.,Severe
+2152,867, N39.0,project control,Mild
+2153,1081,E11.9 ,Baby bring billion.,Severe
+2154,1167,K21.9,Air occur democratic room medical.,Severe
+2155,363,M54.5,Now those deal over statement.,Severe
+2156,1855,e11.9,Might power bar.,SEVERE
+2157,488,"f32.9, S72-001A",No yeah institution up class.,SEVERE
+2158,1567,S72001A,Check nor price professional media.,
+2159,869, I10,Nation entire daughter.,Critical
+2160,1076," F32.9, R51 ",Type popular yet mind.,
+2161,581,m54.5,country occur,SEVERE
+2162,1382,F32.9,energy use,Mild
+2163,460,"F32.9, J45909",Measure night gun myself.,
+2164,1104,e11.9,Magazine week or matter.,SEVERE
+2165,1869,M54-5,Impact manager anything evidence.,Critical
+2166,668,J45.909 ,End citizen current general.,Severe
+2167,1394,m54.5,Morning world return even event.,Severe
+2168,522,"C50.911 , F32.9 ",Control significant ahead certainly American.,Mild
+2169,1079, S72.001A,Trade eight certain stock.,mild
+2170,969,"m54.5,  S72.001A",claim with; watch push,SEVERE
+2171,1005,"E11.9, j45.909",Never need before.,SEVERE
+2172,45,N39.0 ,Hit office simple spring.,Critical
+2173,890,"K219,  E11.9",thank interest; customer radio,mild
+2174,1216,I10,Senior from performance ground meeting.,
+2175,1146,"s72.001a, M54-5",Quality result blood approach.,Mild
+2176,1685,"I10, K21.9 ",Strong much edge.,
+2177,394, J45.909,White food instead note.,Critical
+2178,510,I10 ,Present common indicate.,
+2179,340,J45909,End radio around.,Critical
+2180,1101,"m54.5, j45.909",Author listen.,Mild
+2181,119,E119,Help source weight fact process.,Severe
+2182,17,R51,Health property various around.,mild
+2183,326," K21.9, J45.909 ",Song Republican like any amount.,mild
+2184,753, J45.909,Benefit than.,Critical
+2185,849," C50.911, E11-9",Coach degree policy.,Severe
+2186,1114,K21.9 ,Individual help go friend goal.,Critical
+2187,345,K21.9 ,Thousand onto sort.,
+2188,1510,J45.909 ,Age public eye itself.,SEVERE
+2189,54," R51, C50-911",Move speech explain.,SEVERE
+2190,526," N39.0, C50-911",Result at body exist.,moderate
+2191,1745,J45.909 ,Security kid model candidate.,Critical
+2192,1152, N39.0,reach different,
+2193,997, E11.9,stuff leader,SEVERE
+2194,733,"k21.9, S72001A",Recently activity already medical probably.,Severe
+2195,870,I10,Possible another interest.,Mild
+2196,1009,K21-9,Record shake let ever join.,moderate
+2197,388,"I10 , s72.001a",Democrat father according.,Mild
+2198,466,C50.911,Approach full smile book.,
+2199,821, S72.001A,Deal spring want.,Mild
+2200,1063,"i10,  M54.5",Ten yourself second.,mild
