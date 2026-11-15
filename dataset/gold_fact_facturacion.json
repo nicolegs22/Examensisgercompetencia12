@@ -1,0 +1,66 @@
+{
+	"name": "gold_fact_facturacion",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_dw_hospital",
+			"type": "LinkedServiceReference"
+		},
+		"folder": {
+			"name": "gold"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [
+			{
+				"name": "facturacion_key",
+				"type": "bigint",
+				"precision": 19
+			},
+			{
+				"name": "billing_id_bk",
+				"type": "int",
+				"precision": 10
+			},
+			{
+				"name": "admission_id_bk",
+				"type": "int",
+				"precision": 10
+			},
+			{
+				"name": "paciente_key",
+				"type": "int",
+				"precision": 10
+			},
+			{
+				"name": "departamento_key",
+				"type": "int",
+				"precision": 10
+			},
+			{
+				"name": "servicio_cargo_key",
+				"type": "int",
+				"precision": 10
+			},
+			{
+				"name": "fecha_pago_key",
+				"type": "int",
+				"precision": 10
+			},
+			{
+				"name": "monto_facturado",
+				"type": "decimal",
+				"precision": 12,
+				"scale": 2
+			},
+			{
+				"name": "conteo_transacciones",
+				"type": "int",
+				"precision": 10
+			}
+		],
+		"typeProperties": {
+			"schema": "gold",
+			"table": "fact_facturacion"
+		}
+	}
+}

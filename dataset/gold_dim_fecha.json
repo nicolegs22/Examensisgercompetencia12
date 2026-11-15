@@ -1,0 +1,79 @@
+{
+	"name": "gold_dim_fecha",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_dw_hospital",
+			"type": "LinkedServiceReference"
+		},
+		"folder": {
+			"name": "gold"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [
+			{
+				"name": "fecha_key",
+				"type": "int",
+				"precision": 10
+			},
+			{
+				"name": "fecha_completa",
+				"type": "date"
+			},
+			{
+				"name": "anio",
+				"type": "smallint",
+				"precision": 5
+			},
+			{
+				"name": "trimestre",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "trimestre_nombre",
+				"type": "varchar"
+			},
+			{
+				"name": "mes",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "mes_nombre",
+				"type": "varchar"
+			},
+			{
+				"name": "mes_corto",
+				"type": "char"
+			},
+			{
+				"name": "semana_anio",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "dia_mes",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "dia_semana",
+				"type": "tinyint",
+				"precision": 3
+			},
+			{
+				"name": "dia_nombre",
+				"type": "varchar"
+			},
+			{
+				"name": "es_fin_de_semana",
+				"type": "bit"
+			}
+		],
+		"typeProperties": {
+			"schema": "gold",
+			"table": "dim_fecha"
+		}
+	}
+}
