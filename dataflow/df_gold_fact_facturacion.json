@@ -6,11 +6,33 @@
 		},
 		"type": "MappingDataFlow",
 		"typeProperties": {
-			"sources": [],
+			"sources": [
+				{
+					"dataset": {
+						"referenceName": "silver_billing",
+						"type": "DatasetReference"
+					},
+					"name": "source1"
+				}
+			],
 			"sinks": [],
 			"transformations": [],
 			"scriptLines": [
-				""
+				"source(output(",
+				"          billing_id_bk as integer,",
+				"          admission_id_bk as integer,",
+				"          paciente_key as integer,",
+				"          departamento_key as integer,",
+				"          servicio_cargo_key as integer,",
+				"          fecha_pago_key as integer,",
+				"          monto_facturado as decimal(12,2),",
+				"          conteo_transacciones as integer",
+				"     ),",
+				"     allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     isolationLevel: 'READ_UNCOMMITTED',",
+				"     query: 'SELECT b.billing_id                                      AS billing_id_bk,\\n       b.admission_id                                    AS admission_id_bk,\\n       p.paciente_key,\\n       d.departamento_key,\\n       s.servicio_cargo_key,\\n       CAST(CONVERT(CHAR(8), b.payment_date, 112) AS INT) AS fecha_pago_key,\\n       b.amount                                          AS monto_facturado,\\n       1                                                 AS conteo_transacciones\\nFROM silver.billing b\\nJOIN silver.admissions        a ON a.admission_id = b.admission_id\\nJOIN gold.dim_paciente        p ON p.patient_id_bk = a.patient_id\\nJOIN gold.dim_departamento    d ON d.nombre_departamento = a.department\\nJOIN gold.dim_servicio_cargo  s ON s.tipo_cargo = b.charge_type\\n                               AND s.estado_pago = b.payment_status',",
+				"     format: 'query') ~> source1"
 			]
 		}
 	}
