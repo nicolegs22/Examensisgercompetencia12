@@ -6,11 +6,49 @@
 		},
 		"type": "MappingDataFlow",
 		"typeProperties": {
-			"sources": [],
-			"sinks": [],
+			"sources": [
+				{
+					"dataset": {
+						"referenceName": "gold_dim_departamentos",
+						"type": "DatasetReference"
+					},
+					"name": "source1"
+				}
+			],
+			"sinks": [
+				{
+					"dataset": {
+						"referenceName": "gold_dim_departamentos",
+						"type": "DatasetReference"
+					},
+					"name": "sink1"
+				}
+			],
 			"transformations": [],
 			"scriptLines": [
-				""
+				"source(output(",
+				"          departamento_key as integer,",
+				"          nombre_departamento as string",
+				"     ),",
+				"     allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     isolationLevel: 'READ_UNCOMMITTED',",
+				"     query: 'SELECT TABLE_NAME, COLUMN_NAME\\nFROM INFORMATION_SCHEMA.COLUMNS\\nWHERE TABLE_SCHEMA = \\'silver\\'\\nORDER BY TABLE_NAME, ORDINAL_POSITION',",
+				"     format: 'query') ~> source1",
+				"source1 sink(allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     input(",
+				"          departamento_key as integer,",
+				"          nombre_departamento as string",
+				"     ),",
+				"     deletable:false,",
+				"     insertable:true,",
+				"     updateable:false,",
+				"     upsertable:false,",
+				"     format: 'table',",
+				"     skipDuplicateMapInputs: true,",
+				"     skipDuplicateMapOutputs: true,",
+				"     errorHandlingOption: 'stopOnFirstError') ~> sink1"
 			]
 		}
 	}
