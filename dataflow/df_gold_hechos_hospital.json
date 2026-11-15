@@ -12,11 +12,22 @@
 						"referenceName": "silver_admissions",
 						"type": "DatasetReference"
 					},
-					"name": "source1"
+					"name": "hospital"
+				},
+				{
+					"dataset": {
+						"referenceName": "gold_dim_departamentos",
+						"type": "DatasetReference"
+					},
+					"name": "dimdepartamentos"
 				}
 			],
 			"sinks": [],
-			"transformations": [],
+			"transformations": [
+				{
+					"name": "lookup1"
+				}
+			],
 			"scriptLines": [
 				"source(output(",
 				"          admission_id as integer,",
@@ -29,7 +40,19 @@
 				"     allowSchemaDrift: true,",
 				"     validateSchema: false,",
 				"     isolationLevel: 'READ_UNCOMMITTED',",
-				"     format: 'table') ~> source1"
+				"     format: 'table') ~> hospital",
+				"source(output(",
+				"          departamento_key as integer,",
+				"          nombre_departamento as string",
+				"     ),",
+				"     allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     isolationLevel: 'READ_UNCOMMITTED',",
+				"     format: 'table') ~> dimdepartamentos",
+				"hospital lookup(ERROR_FUNCTION('') == ERROR_FUNCTION(''),",
+				"     multiple: false,",
+				"     pickup: 'any',",
+				"     broadcast: 'auto')~> lookup1"
 			]
 		}
 	}
