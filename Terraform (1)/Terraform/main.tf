@@ -9,14 +9,13 @@ terraform {
   }
 }
 
-# Identificadores fijos de esta suscripcion. ARM_CLIENT_SECRET se suministra
-# mediante el entorno porque el secreto anterior estuvo expuesto.
+# Autenticacion via Azure CLI (az login) con la cuenta de la U (Azure for Students).
+# No se usa service principal: subscription_id y tenant_id quedan fijos, y las
+# credenciales las toma de la sesion activa de az login.
 provider "azurerm" {
   features {}
-  subscription_id = ""
-  client_id       = ""     # App ID / Application ID
-  client_secret   = "" # Password / Valor del secreto
-  tenant_id       = ""     # Directory ID
+  subscription_id = "ab5b5685-8f0a-455f-8684-91cdf5f6dac7"
+  tenant_id       = "cc28633f-12b8-46cb-bc15-951dae239b4d"
 }
 
 locals {
@@ -36,18 +35,55 @@ locals {
 
 # 1. Grupo de recursos y almacenamiento en Brazil South.
 resource "azurerm_resource_group" "rg" {
-  name     = "gr-ucb-hospital"
+  name     = "DW-Hospital"
   location = "brazilsouth"
+}
+
+resource "azurerm_storage_account" "sa" {
+  name                     = "saucbhospital13593697"
+  resource_group_name      = azurerm_resource_group.rg.name
+  location                 = azurerm_resource_group.rg.location
+  account_tier             = "Standard"
+  account_replication_type = "LRS"
+}
+
+resource "azurerm_storage_container" "raw" {
+  name                  = "raw"
+  storage_account_name  = azurerm_storage_account.sa.name
+  container_access_type = "blob"
+}
+
+# Sube los archivos de las carpetas locales datos_csv/ y datos_xls/ al contenedor raw.
+resource "azurerm_storage_blob" "csv" {
+  for_each = fileset("${path.module}/datos_csv", "*")
+
+  name                   = "datos_csv/${each.value}"
+  storage_account_name   = azurerm_storage_account.sa.name
+  storage_container_name = azurerm_storage_container.raw.name
+  type                   = "Block"
+  source                 = "${path.module}/datos_csv/${each.value}"
+  content_md5            = filemd5("${path.module}/datos_csv/${each.value}")
+}
+
+resource "azurerm_storage_blob" "xls" {
+  for_each = fileset("${path.module}/datos_xls", "*")
+
+  name                   = "datos_xls/${each.value}"
+  storage_account_name   = azurerm_storage_account.sa.name
+  storage_container_name = azurerm_storage_container.raw.name
+  type                   = "Block"
+  source                 = "${path.module}/datos_xls/${each.value}"
+  content_md5            = filemd5("${path.module}/datos_xls/${each.value}")
 }
 
 # 2. Servidor y bases Azure SQL en Brazil South.
 resource "azurerm_mssql_server" "sql_server" {
-  name                         = "sql-ucb-server-hospital-<ci/telefono>"
+  name                         = "sql-ucb-server-hospital-13593697"
   resource_group_name          = azurerm_resource_group.rg.name
   location                     = azurerm_resource_group.rg.location
   version                      = "12.0"
-  administrator_login          = "franklin"
-  administrator_login_password = "PasswordComplejo1234!"
+  administrator_login          = "nicole.gomez"
+  administrator_login_password = "UcbDW!Hosp2025#7q"
   minimum_tls_version          = "1.2"
 
 }
@@ -101,7 +137,7 @@ resource "terraform_data" "dw_schema" {
   }
 
   provisioner "local-exec" {
-    interpreter = ["PowerShell", "-NoProfile", "-NonInteractive", "-Command"]
+    interpreter = ["/bin/bash", "-c"]
 
     environment = {
       SQL_SERVER      = azurerm_mssql_server.sql_server.fully_qualified_domain_name
@@ -112,43 +148,43 @@ resource "terraform_data" "dw_schema" {
       SQL_SCRIPT_LIST = join(";", local.dw_sql_scripts)
     }
 
-    command = <<-POWERSHELL
-      $ErrorActionPreference = "Stop"
-      $sqlcmdCommand = Get-Command sqlcmd -ErrorAction SilentlyContinue | Select-Object -First 1
-      $sqlcmd = if ($sqlcmdCommand) { $sqlcmdCommand.Source } elseif (Test-Path -LiteralPath "C:\Program Files\SqlCmd\sqlcmd.exe") { "C:\Program Files\SqlCmd\sqlcmd.exe" } else { throw "Instale sqlcmd antes de ejecutar Terraform." }
-      $commonArgs = @("-S", $env:SQL_SERVER, "-d", $env:SQL_DATABASE, "-U", $env:SQL_USER, "-b", "-r", "1", "-l", "30")
+    command = <<-BASH
+      set -euo pipefail
 
-      $connected = $false
-      for ($attempt = 1; $attempt -le 12; $attempt++) {
-        & $sqlcmd @commonArgs -Q "SET NOCOUNT ON; SELECT 1;" *> $null
-        if ($LASTEXITCODE -eq 0) {
-          $connected = $true
+      command -v sqlcmd >/dev/null 2>&1 || { echo "Instale sqlcmd antes de ejecutar Terraform." >&2; exit 1; }
+
+      COMMON_ARGS=(-S "$SQL_SERVER" -d "$SQL_DATABASE" -U "$SQL_USER" -b -r 1 -l 30)
+
+      connected=0
+      for attempt in $(seq 1 12); do
+        if sqlcmd "$${COMMON_ARGS[@]}" -Q "SET NOCOUNT ON; SELECT 1;" >/dev/null 2>&1; then
+          connected=1
           break
-        }
-        Start-Sleep -Seconds 10
-      }
-      if (-not $connected) {
-        throw "No se pudo conectar a la base DW despues de crearla y configurar el firewall."
-      }
+        fi
+        sleep 10
+      done
+      if [ "$connected" -ne 1 ]; then
+        echo "No se pudo conectar a la base DW despues de crearla y configurar el firewall." >&2
+        exit 1
+      fi
 
-      foreach ($scriptName in $env:SQL_SCRIPT_LIST.Split(";")) {
-        $scriptPath = Join-Path $env:SQL_SCRIPT_DIR $scriptName
-        if (-not (Test-Path -LiteralPath $scriptPath -PathType Leaf)) {
-          throw "No existe el script SQL: $scriptPath"
-        }
-        Write-Host "Ejecutando $scriptName en $env:SQL_DATABASE"
-        & $sqlcmd @commonArgs -i $scriptPath
-        if ($LASTEXITCODE -ne 0) {
-          throw "Fallo $scriptName (codigo $LASTEXITCODE)."
-        }
-      }
-    POWERSHELL
+      IFS=';' read -ra SCRIPTS <<< "$SQL_SCRIPT_LIST"
+      for script_name in "$${SCRIPTS[@]}"; do
+        script_path="$SQL_SCRIPT_DIR/$script_name"
+        if [ ! -f "$script_path" ]; then
+          echo "No existe el script SQL: $script_path" >&2
+          exit 1
+        fi
+        echo "Ejecutando $script_name en $SQL_DATABASE"
+        sqlcmd "$${COMMON_ARGS[@]}" -i "$script_path"
+      done
+    BASH
   }
 }
 
 # 4. Factoria de integracion en East US.
 resource "azurerm_data_factory" "adf" {
-  name                = "adf-ucb-transporte-us-<ci/telefono>"
+  name                = "adf-ucb-transporte-us-13593697"
   resource_group_name = azurerm_resource_group.rg.name
   location            = "eastus"
 }
