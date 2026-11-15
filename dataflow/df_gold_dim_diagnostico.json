@@ -6,11 +6,28 @@
 		},
 		"type": "MappingDataFlow",
 		"typeProperties": {
-			"sources": [],
+			"sources": [
+				{
+					"dataset": {
+						"referenceName": "silver_diagnoses",
+						"type": "DatasetReference"
+					},
+					"name": "source1"
+				}
+			],
 			"sinks": [],
 			"transformations": [],
 			"scriptLines": [
-				""
+				"source(output(",
+				"          codigo_icd as string,",
+				"          descripcion_patologia as string,",
+				"          nivel_severidad as string",
+				"     ),",
+				"     allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     isolationLevel: 'READ_UNCOMMITTED',",
+				"     query: 'SELECT icd_code                 AS codigo_icd,\\n       MAX(diagnosis_description) AS descripcion_patologia,\\n       MAX(severity)              AS nivel_severidad\\nFROM silver.diagnoses\\nWHERE icd_code IS NOT NULL\\nGROUP BY icd_code',",
+				"     format: 'query') ~> source1"
 			]
 		}
 	}
