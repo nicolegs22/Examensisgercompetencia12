@@ -6,11 +6,23 @@
 		},
 		"type": "MappingDataFlow",
 		"typeProperties": {
-			"sources": [],
+			"sources": [
+				{
+					"dataset": {
+						"referenceName": "silver_admissions",
+						"type": "DatasetReference"
+					},
+					"name": "source1"
+				}
+			],
 			"sinks": [],
 			"transformations": [],
 			"scriptLines": [
-				""
+				"source(allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     isolationLevel: 'READ_UNCOMMITTED',",
+				"     query: 'SELECT a.admission_id                                      AS admission_id_bk,\\n       p.paciente_key,\\n       d.departamento_key,\\n       dg.diagnostico_key,\\n       CAST(CONVERT(CHAR(8), a.admission_date, 112) AS INT) AS fecha_ingreso_key,\\n       CAST(CONVERT(CHAR(8), a.discharge_date, 112) AS INT) AS fecha_alta_key,\\n       a.attending_doctor_id                               AS medico_id,\\n       DATEDIFF(DAY, a.admission_date, a.discharge_date)   AS dias_estancia,\\n       1                                                   AS conteo_admisiones\\nFROM silver.admissions a\\nJOIN gold.dim_paciente     p ON p.patient_id_bk = a.patient_id\\nJOIN gold.dim_departamento d ON d.nombre_departamento = a.department\\nOUTER APPLY (\\n    SELECT TOP 1 x.icd_code, ISNULL(x.severity, \\'Unknown\\') AS sev\\n    FROM silver.diagnoses x\\n    WHERE x.admission_id = a.admission_id\\n    ORDER BY x.diagnosis_id\\n) fd\\nJOIN gold.dim_diagnostico dg\\n  ON dg.codigo_icd = ISNULL(fd.icd_code, \\'N/A\\')\\n AND dg.nivel_severidad = ISNULL(fd.sev, \\'Unknown\\')',",
+				"     format: 'query') ~> source1"
 			]
 		}
 	}
