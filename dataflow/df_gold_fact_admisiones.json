@@ -15,14 +15,56 @@
 					"name": "source1"
 				}
 			],
-			"sinks": [],
+			"sinks": [
+				{
+					"dataset": {
+						"referenceName": "silver_admissions",
+						"type": "DatasetReference"
+					},
+					"name": "sink1"
+				}
+			],
 			"transformations": [],
 			"scriptLines": [
-				"source(allowSchemaDrift: true,",
+				"source(output(",
+				"          admission_id_bk as integer,",
+				"          paciente_key as integer,",
+				"          departamento_key as integer,",
+				"          diagnostico_key as integer,",
+				"          fecha_ingreso_key as integer,",
+				"          fecha_alta_key as integer,",
+				"          medico_id as integer,",
+				"          dias_estancia as integer,",
+				"          conteo_admisiones as integer",
+				"     ),",
+				"     allowSchemaDrift: true,",
 				"     validateSchema: false,",
 				"     isolationLevel: 'READ_UNCOMMITTED',",
 				"     query: 'SELECT a.admission_id                                      AS admission_id_bk,\\n       p.paciente_key,\\n       d.departamento_key,\\n       dg.diagnostico_key,\\n       CAST(CONVERT(CHAR(8), a.admission_date, 112) AS INT) AS fecha_ingreso_key,\\n       CAST(CONVERT(CHAR(8), a.discharge_date, 112) AS INT) AS fecha_alta_key,\\n       a.attending_doctor_id                               AS medico_id,\\n       DATEDIFF(DAY, a.admission_date, a.discharge_date)   AS dias_estancia,\\n       1                                                   AS conteo_admisiones\\nFROM silver.admissions a\\nJOIN gold.dim_paciente     p ON p.patient_id_bk = a.patient_id\\nJOIN gold.dim_departamento d ON d.nombre_departamento = a.department\\nOUTER APPLY (\\n    SELECT TOP 1 x.icd_code, ISNULL(x.severity, \\'Unknown\\') AS sev\\n    FROM silver.diagnoses x\\n    WHERE x.admission_id = a.admission_id\\n    ORDER BY x.diagnosis_id\\n) fd\\nJOIN gold.dim_diagnostico dg\\n  ON dg.codigo_icd = ISNULL(fd.icd_code, \\'N/A\\')\\n AND dg.nivel_severidad = ISNULL(fd.sev, \\'Unknown\\')',",
-				"     format: 'query') ~> source1"
+				"     format: 'query') ~> source1",
+				"source1 sink(allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     input(",
+				"          admission_id as integer,",
+				"          patient_id as integer,",
+				"          admission_date as date,",
+				"          discharge_date as date,",
+				"          department as string,",
+				"          attending_doctor_id as integer",
+				"     ),",
+				"     deletable:false,",
+				"     insertable:true,",
+				"     updateable:false,",
+				"     upsertable:false,",
+				"     format: 'table',",
+				"     skipDuplicateMapInputs: true,",
+				"     skipDuplicateMapOutputs: true,",
+				"     errorHandlingOption: 'stopOnFirstError',",
+				"     mapColumn(",
+				"          admission_id = admission_id_bk,",
+				"          admission_date = admission_id_bk,",
+				"          department = departamento_key",
+				"     )) ~> sink1"
 			]
 		}
 	}
