@@ -1,0 +1,15 @@
+{
+	"name": "silver_diagnoses",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_dw_hospital",
+			"type": "LinkedServiceReference"
+		},
+		"folder": {
+			"name": "silver"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	}
+}

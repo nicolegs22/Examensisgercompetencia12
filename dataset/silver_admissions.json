@@ -1,0 +1,47 @@
+{
+	"name": "silver_admissions",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_dw_hospital",
+			"type": "LinkedServiceReference"
+		},
+		"folder": {
+			"name": "silver"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [
+			{
+				"name": "admission_id",
+				"type": "int",
+				"precision": 10
+			},
+			{
+				"name": "patient_id",
+				"type": "int",
+				"precision": 10
+			},
+			{
+				"name": "admission_date",
+				"type": "date"
+			},
+			{
+				"name": "discharge_date",
+				"type": "date"
+			},
+			{
+				"name": "department",
+				"type": "nvarchar"
+			},
+			{
+				"name": "attending_doctor_id",
+				"type": "int",
+				"precision": 10
+			}
+		],
+		"typeProperties": {
+			"schema": "silver",
+			"table": "admissions"
+		}
+	}
+}
