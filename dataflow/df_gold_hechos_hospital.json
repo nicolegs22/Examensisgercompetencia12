@@ -27,6 +27,13 @@
 						"type": "DatasetReference"
 					},
 					"name": "dimpacientes"
+				},
+				{
+					"dataset": {
+						"referenceName": "gold_dim_diagnostico",
+						"type": "DatasetReference"
+					},
+					"name": "dimdiagnostico"
 				}
 			],
 			"sinks": [],
@@ -36,6 +43,9 @@
 				},
 				{
 					"name": "lookup2"
+				},
+				{
+					"name": "lookup3"
 				}
 			],
 			"scriptLines": [
@@ -74,6 +84,16 @@
 				"     validateSchema: false,",
 				"     isolationLevel: 'READ_UNCOMMITTED',",
 				"     format: 'table') ~> dimpacientes",
+				"source(output(",
+				"          diagnostico_key as integer,",
+				"          codigo_icd as string,",
+				"          descripcion_patologia as string,",
+				"          nivel_severidad as string",
+				"     ),",
+				"     allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     isolationLevel: 'READ_UNCOMMITTED',",
+				"     format: 'table') ~> dimdiagnostico",
 				"hospital, dimdepartamentos lookup(department == nombre_departamento,",
 				"     multiple: false,",
 				"     pickup: 'any',",
@@ -81,7 +101,11 @@
 				"lookup1, dimpacientes lookup(patient_id == paciente_key,",
 				"     multiple: false,",
 				"     pickup: 'any',",
-				"     broadcast: 'auto')~> lookup2"
+				"     broadcast: 'auto')~> lookup2",
+				"lookup2, dimdiagnostico lookup(ERROR_FUNCTION('') == codigo_icd,",
+				"     multiple: false,",
+				"     pickup: 'any',",
+				"     broadcast: 'auto')~> lookup3"
 			]
 		}
 	}
