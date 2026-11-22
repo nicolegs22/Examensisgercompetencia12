@@ -86,6 +86,12 @@
 				},
 				{
 					"name": "lookup7"
+				},
+				{
+					"name": "derivedColumn1"
+				},
+				{
+					"name": "select1"
 				}
 			],
 			"scriptLines": [
@@ -220,7 +226,18 @@
 				"lookup6, factfacturacion lookup(patient_id == factfacturacion@paciente_key,",
 				"     multiple: false,",
 				"     pickup: 'any',",
-				"     broadcast: 'auto')~> lookup7"
+				"     broadcast: 'auto')~> lookup7",
+				"lookup7 derive(admission_id_bk = admission_id,",
+				"          medico_id = attending_doctor_id,",
+				"          fecha_ingreso_key = toInteger(toString(admission_date, 'yyyyMMdd')),",
+				"          fecha_alta_key = toInteger(toString(discharge_date, 'yyyyMMdd')),",
+				"          dias_estancia = iif(isNull(discharge_date), toInteger(null()), toInteger((toLong(toTimestamp(discharge_date)) - toLong(toTimestamp(admission_date))) / 86400000))) ~> derivedColumn1",
+				"derivedColumn1 select(mapColumn(",
+				"          each(match(/* All input columns */ true()),",
+				"               /* Input name */ $$ = $$)",
+				"     ),",
+				"     skipDuplicateMapInputs: true,",
+				"     skipDuplicateMapOutputs: true) ~> select1"
 			]
 		}
 	}
