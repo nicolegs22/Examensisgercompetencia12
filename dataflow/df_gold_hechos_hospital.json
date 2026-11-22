@@ -77,6 +77,15 @@
 				},
 				{
 					"name": "lookup4"
+				},
+				{
+					"name": "lookup5"
+				},
+				{
+					"name": "lookup6"
+				},
+				{
+					"name": "lookup7"
 				}
 			],
 			"scriptLines": [
@@ -199,7 +208,19 @@
 				"lookup3, dimdiagnostico lookup(nombre_departamento == codigo_icd,",
 				"     multiple: false,",
 				"     pickup: 'any',",
-				"     broadcast: 'auto')~> lookup4"
+				"     broadcast: 'auto')~> lookup4",
+				"lookup4, dimfecha lookup(admission_date == fecha_completa,",
+				"     multiple: false,",
+				"     pickup: 'any',",
+				"     broadcast: 'auto')~> lookup5",
+				"lookup5, factadmisiones lookup(dimdiagnostico@diagnostico_key == admision_key,",
+				"     multiple: false,",
+				"     pickup: 'any',",
+				"     broadcast: 'auto')~> lookup6",
+				"lookup6, factfacturacion lookup(patient_id == factfacturacion@paciente_key,",
+				"     multiple: false,",
+				"     pickup: 'any',",
+				"     broadcast: 'auto')~> lookup7"
 			]
 		}
 	}
