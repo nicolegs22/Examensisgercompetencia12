@@ -18,7 +18,7 @@
 			"sinks": [
 				{
 					"dataset": {
-						"referenceName": "silver_admissions",
+						"referenceName": "gold_fact_admisiones",
 						"type": "DatasetReference"
 					},
 					"name": "sink1"
@@ -45,12 +45,16 @@
 				"source1 sink(allowSchemaDrift: true,",
 				"     validateSchema: false,",
 				"     input(",
-				"          admission_id as integer,",
-				"          patient_id as integer,",
-				"          admission_date as date,",
-				"          discharge_date as date,",
-				"          department as string,",
-				"          attending_doctor_id as integer",
+				"          admision_key as long,",
+				"          admission_id_bk as integer,",
+				"          paciente_key as integer,",
+				"          departamento_key as integer,",
+				"          diagnostico_key as integer,",
+				"          fecha_ingreso_key as integer,",
+				"          fecha_alta_key as integer,",
+				"          medico_id as integer,",
+				"          dias_estancia as integer,",
+				"          conteo_admisiones as integer",
 				"     ),",
 				"     deletable:false,",
 				"     insertable:true,",
@@ -59,12 +63,7 @@
 				"     format: 'table',",
 				"     skipDuplicateMapInputs: true,",
 				"     skipDuplicateMapOutputs: true,",
-				"     errorHandlingOption: 'stopOnFirstError',",
-				"     mapColumn(",
-				"          admission_id = admission_id_bk,",
-				"          admission_date = admission_id_bk,",
-				"          department = departamento_key",
-				"     )) ~> sink1"
+				"     errorHandlingOption: 'stopOnFirstError') ~> sink1"
 			]
 		}
 	}
