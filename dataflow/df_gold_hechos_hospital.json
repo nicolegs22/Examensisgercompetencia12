@@ -100,6 +100,9 @@
 				},
 				{
 					"name": "select1"
+				},
+				{
+					"name": "filter1"
 				}
 			],
 			"scriptLines": [
@@ -297,7 +300,8 @@
 				"     ),",
 				"     skipDuplicateMapInputs: true,",
 				"     skipDuplicateMapOutputs: true) ~> select1",
-				"select1 sink(allowSchemaDrift: true,",
+				"select1 filter(!isNull(paciente_key) && !isNull(departamento_key) && !isNull(diagnostico_key) && !isNull(fecha_ingreso_key)) ~> filter1",
+				"filter1 sink(allowSchemaDrift: true,",
 				"     validateSchema: false,",
 				"     input(",
 				"          admision_key as long,",
