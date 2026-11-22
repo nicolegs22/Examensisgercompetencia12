@@ -64,7 +64,11 @@
 					"name": "factadmisiones"
 				}
 			],
-			"sinks": [],
+			"sinks": [
+				{
+					"name": "sink1"
+				}
+			],
 			"transformations": [
 				{
 					"name": "lookup1"
@@ -237,7 +241,6 @@
 				"          patient_id,",
 				"          admission_date,",
 				"          discharge_date,",
-				"          department,",
 				"          attending_doctor_id,",
 				"          departamento_key = dimdepartamentos@departamento_key,",
 				"          nombre_departamento,",
@@ -254,7 +257,6 @@
 				"          tipo_cargo,",
 				"          estado_pago,",
 				"          diagnostico_key = dimdiagnostico@diagnostico_key,",
-				"          codigo_icd,",
 				"          descripcion_patologia,",
 				"          nivel_severidad,",
 				"          fecha_key,",
@@ -290,7 +292,11 @@
 				"          conteo_transacciones",
 				"     ),",
 				"     skipDuplicateMapInputs: true,",
-				"     skipDuplicateMapOutputs: true) ~> select1"
+				"     skipDuplicateMapOutputs: true) ~> select1",
+				"select1 sink(allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     skipDuplicateMapInputs: true,",
+				"     skipDuplicateMapOutputs: true) ~> sink1"
 			]
 		}
 	}
