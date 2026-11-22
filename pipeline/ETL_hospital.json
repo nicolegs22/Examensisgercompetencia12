@@ -1,5 +1,5 @@
 {
-	"name": "pipeline_gold",
+	"name": "ETL_hospital",
 	"properties": {
 		"activities": [
 			{
