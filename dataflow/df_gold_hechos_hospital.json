@@ -30,10 +30,38 @@
 				},
 				{
 					"dataset": {
+						"referenceName": "gold_dim_servicio_cargo",
+						"type": "DatasetReference"
+					},
+					"name": "dimserviciocargo"
+				},
+				{
+					"dataset": {
 						"referenceName": "gold_dim_diagnostico",
 						"type": "DatasetReference"
 					},
 					"name": "dimdiagnostico"
+				},
+				{
+					"dataset": {
+						"referenceName": "gold_dim_fecha",
+						"type": "DatasetReference"
+					},
+					"name": "dimfecha"
+				},
+				{
+					"dataset": {
+						"referenceName": "gold_fact_facturacion",
+						"type": "DatasetReference"
+					},
+					"name": "factfacturacion"
+				},
+				{
+					"dataset": {
+						"referenceName": "gold_fact_admisiones",
+						"type": "DatasetReference"
+					},
+					"name": "factadmisiones"
 				}
 			],
 			"sinks": [],
@@ -46,6 +74,9 @@
 				},
 				{
 					"name": "lookup3"
+				},
+				{
+					"name": "lookup4"
 				}
 			],
 			"scriptLines": [
@@ -85,6 +116,15 @@
 				"     isolationLevel: 'READ_UNCOMMITTED',",
 				"     format: 'table') ~> dimpacientes",
 				"source(output(",
+				"          servicio_cargo_key as integer,",
+				"          tipo_cargo as string,",
+				"          estado_pago as string",
+				"     ),",
+				"     allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     isolationLevel: 'READ_UNCOMMITTED',",
+				"     format: 'table') ~> dimserviciocargo",
+				"source(output(",
 				"          diagnostico_key as integer,",
 				"          codigo_icd as string,",
 				"          descripcion_patologia as string,",
@@ -94,6 +134,56 @@
 				"     validateSchema: false,",
 				"     isolationLevel: 'READ_UNCOMMITTED',",
 				"     format: 'table') ~> dimdiagnostico",
+				"source(output(",
+				"          fecha_key as integer,",
+				"          fecha_completa as date,",
+				"          anio as integer,",
+				"          trimestre as integer,",
+				"          trimestre_nombre as string,",
+				"          mes as integer,",
+				"          mes_nombre as string,",
+				"          mes_corto as string,",
+				"          semana_anio as integer,",
+				"          dia_mes as integer,",
+				"          dia_semana as integer,",
+				"          dia_nombre as string,",
+				"          es_fin_de_semana as boolean",
+				"     ),",
+				"     allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     isolationLevel: 'READ_UNCOMMITTED',",
+				"     format: 'table') ~> dimfecha",
+				"source(output(",
+				"          facturacion_key as long,",
+				"          billing_id_bk as integer,",
+				"          admission_id_bk as integer,",
+				"          paciente_key as integer,",
+				"          departamento_key as integer,",
+				"          servicio_cargo_key as integer,",
+				"          fecha_pago_key as integer,",
+				"          monto_facturado as decimal(12,2),",
+				"          conteo_transacciones as integer",
+				"     ),",
+				"     allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     isolationLevel: 'READ_UNCOMMITTED',",
+				"     format: 'table') ~> factfacturacion",
+				"source(output(",
+				"          admision_key as long,",
+				"          admission_id_bk as integer,",
+				"          paciente_key as integer,",
+				"          departamento_key as integer,",
+				"          diagnostico_key as integer,",
+				"          fecha_ingreso_key as integer,",
+				"          fecha_alta_key as integer,",
+				"          medico_id as integer,",
+				"          dias_estancia as integer,",
+				"          conteo_admisiones as integer",
+				"     ),",
+				"     allowSchemaDrift: true,",
+				"     validateSchema: false,",
+				"     isolationLevel: 'READ_UNCOMMITTED',",
+				"     format: 'table') ~> factadmisiones",
 				"hospital, dimdepartamentos lookup(department == nombre_departamento,",
 				"     multiple: false,",
 				"     pickup: 'any',",
@@ -102,10 +192,14 @@
 				"     multiple: false,",
 				"     pickup: 'any',",
 				"     broadcast: 'auto')~> lookup2",
-				"lookup2, dimdiagnostico lookup(ERROR_FUNCTION('') == codigo_icd,",
+				"lookup2, dimserviciocargo lookup(admission_id == servicio_cargo_key,",
 				"     multiple: false,",
 				"     pickup: 'any',",
-				"     broadcast: 'auto')~> lookup3"
+				"     broadcast: 'auto')~> lookup3",
+				"lookup3, dimdiagnostico lookup(nombre_departamento == codigo_icd,",
+				"     multiple: false,",
+				"     pickup: 'any',",
+				"     broadcast: 'auto')~> lookup4"
 			]
 		}
 	}
